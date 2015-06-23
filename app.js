@@ -10,6 +10,7 @@ request('http://www.europarl.europa.eu/meps/en/json/getBodyValues.html', functio
     		fullName:EurParlData.result[mep].fullName,
     		countryCode:EurParlData.result[mep].countryCode,
     		countryLabel:EurParlData.result[mep].countryLabel,
+    		countryFlag:'http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_' + EurParlData.result[mep].countryCode + '.gif',
     		politicalGroupCode:EurParlData.result[mep].politicalGroupCode,
     		politicalGroupLabel:EurParlData.result[mep].politicalGroupLabel,
     		politicalGroupIcon: 'http://www.europarl.europa.eu/ep_framework/img/group/group_icon_' + EurParlData.result[mep].politicalGroupCode + '.png',
