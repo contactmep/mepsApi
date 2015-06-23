@@ -1,0 +1,14 @@
+{
+  "name": "mepData",
+  "version": "0.0.1",
+  "description": "MeP Data scrapper",
+  "main": "app.js",
+  "scripts": {
+    "postinstall": "node ./app.js"
+  },
+  "author": "Hans Scheuren",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.58.0"
+  }
+}
