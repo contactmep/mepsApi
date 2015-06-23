@@ -42,15 +42,7 @@ request('http://www.europarl.europa.eu/meps/en/json/getBodyValues.html', functio
     				}
     			}
     		}
-    		for (mep in meps){
-    			request(meps[mep].politicalGroupIcon, function (error, response, body) {
-    				if (!error && response.statusCode == 200) {
-    					data = "data:" + response.headers["content-type"] + ";base64," + new Buffer(body).toString('base64');
-        				console.log(data);
-    				}
-    			})
-    		}
-    		//console.log(meps)
+    		console.log(meps)
     	}
     })
 }
