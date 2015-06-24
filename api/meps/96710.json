@@ -1,0 +1,22 @@
+{
+	"id": "96710",
+	"fullName": "Jens ROHDE",
+	"countryCode": "dk",
+	"countryLabel": "Denmark",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_dk.gif",
+	"politicalGroupCode": "aldeadle",
+	"politicalGroupLabel": "Group of the Alliance of Liberals and Democrats for Europe",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_aldeadle.png",
+	"nationalPoliticalGroupLabel": "Venstre, Danmarks Liberale Parti",
+	"email": "jens.rohde@europarl.europa.eu",
+	"webPage": "http://www.jensrohde.eu",
+	"twitterUrl": "http://twitter.com/jensrohde",
+	"roles": [
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Substitute": "Committee on Industry, Research and Energy"
+		}
+	]
+}

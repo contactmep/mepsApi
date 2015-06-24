@@ -1,0 +1,24 @@
+{
+	"id": "96681",
+	"fullName": "Vilija BLINKEVIČIŪTĖ",
+	"countryCode": "lt",
+	"countryLabel": "Lithuania",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_lt.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Lietuvos socialdemokratų partija",
+	"email": "vilija.blinkeviciute@europarl.europa.eu",
+	"webPage": "http://www.blinkeviciute.eu",
+	"roles": [
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Substitute": "Delegation for relations with the countries of Southeast Asia and the Association of Southeast Asian Nations (ASEAN)"
+		},
+		{
+			"Vice-Chair": "Committee on Women's Rights and Gender Equality"
+		}
+	]
+}

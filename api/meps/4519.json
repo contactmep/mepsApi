@@ -1,0 +1,25 @@
+{
+	"id": "4519",
+	"fullName": "Claude MORAES",
+	"countryCode": "gb",
+	"countryLabel": "United Kingdom",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_gb.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Labour Party",
+	"email": "claude.moraes@europarl.europa.eu",
+	"webPage": "http://www.claudemoraes.net",
+	"twitterUrl": "https://twitter.com/ClaudeMoraesMEP",
+	"roles": [
+		{
+			"Substitute": "Delegation for relations with the United States"
+		},
+		{
+			"Member": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament"
+		},
+		{
+			"Chair": "Committee on Civil Liberties, Justice and Home Affairs"
+		}
+	]
+}

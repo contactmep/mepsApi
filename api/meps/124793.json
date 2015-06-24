@@ -1,0 +1,22 @@
+{
+	"id": "124793",
+	"fullName": "Claudia TAPARDEL",
+	"countryCode": "ro",
+	"countryLabel": "Romania",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_ro.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Partidul Social Democrat",
+	"email": "ana-claudia.tapardel@europarl.europa.eu",
+	"facebookPageUrl": "facebook.com/ctapardel",
+	"twitterUrl": "https://twitter.com/ClaudiaTapardel",
+	"roles": [
+		{
+			"Substitute": "Delegation to the Euro-Latin American Parliamentary Assembly"
+		},
+		{
+			"Member": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament"
+		}
+	]
+}

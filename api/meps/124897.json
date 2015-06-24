@@ -1,0 +1,20 @@
+{
+	"id": "124897",
+	"fullName": "Stanisław OŻÓG",
+	"countryCode": "pl",
+	"countryLabel": "Poland",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_pl.gif",
+	"politicalGroupCode": "ecr",
+	"politicalGroupLabel": "European Conservatives and Reformists Group",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_ecr.png",
+	"nationalPoliticalGroupLabel": "Prawo i Sprawiedliwość",
+	"email": "stanislaw.ozog@europarl.europa.eu",
+	"roles": [
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Substitute": "Delegation to the EU-Russia Parliamentary Cooperation Committee"
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"id": "39711",
+	"fullName": "Victor BOŞTINARU",
+	"countryCode": "ro",
+	"countryLabel": "Romania",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_ro.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Partidul Social Democrat",
+	"email": "victor.bostinaru@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/VictorBostinaru",
+	"roles": [
+		{
+			"Substitute": "Delegation to the EU-Albania Stabilisation and Association Parliamentary Committee"
+		},
+		{
+			"Vice-Chair": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

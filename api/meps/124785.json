@@ -1,0 +1,20 @@
+{
+	"id": "124785",
+	"fullName": "Maria GRAPINI",
+	"countryCode": "ro",
+	"countryLabel": "Romania",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_ro.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Partidul Conservator",
+	"email": "maria.grapini@europarl.europa.eu",
+	"roles": [
+		{
+			"Substitute": "Delegation to the EU-Moldova Parliamentary Cooperation Committee"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

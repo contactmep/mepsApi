@@ -1,0 +1,22 @@
+{
+	"id": "28379",
+	"fullName": "Adam GIEREK",
+	"countryCode": "pl",
+	"countryLabel": "Poland",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_pl.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Unia Pracy",
+	"email": "adam.gierek@europarl.europa.eu",
+	"webPage": "http://www.adam.gierek.eu/",
+	"twitterUrl": "https://twitter.com/AdamGierek",
+	"roles": [
+		{
+			"Member": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament"
+		},
+		{
+			"Substitute": "Delegation for relations with Canada"
+		}
+	]
+}

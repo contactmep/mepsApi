@@ -1,0 +1,24 @@
+{
+	"id": "124824",
+	"fullName": "Bernd KÖLMEL",
+	"countryCode": "de",
+	"countryLabel": "Germany",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_de.gif",
+	"politicalGroupCode": "ecr",
+	"politicalGroupLabel": "European Conservatives and Reformists Group",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_ecr.png",
+	"nationalPoliticalGroupLabel": "Alternative für Deutschland",
+	"email": "bernd.koelmel@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/Bernd_Koelmel",
+	"roles": [
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Chair": "Delegation for relations with Canada"
+		},
+		{
+			"Substitute": "Delegation for relations with the United States"
+		}
+	]
+}

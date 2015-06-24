@@ -1,0 +1,25 @@
+{
+	"id": "96813",
+	"fullName": "Barbara MATERA",
+	"countryCode": "it",
+	"countryLabel": "Italy",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_it.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Forza Italia",
+	"email": "barbara.matera@europarl.europa.eu",
+	"facebookPageUrl": "http://www.facebook.com/pages/BARBARA-MATERA/78020429052",
+	"twitterUrl": "https://twitter.com/materabarbara",
+	"roles": [
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Vice-Chair": "Committee on Women's Rights and Gender Equality"
+		},
+		{
+			"Substitute": "Delegation for relations with the United States"
+		}
+	]
+}

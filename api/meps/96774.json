@@ -1,0 +1,25 @@
+{
+	"id": "96774",
+	"fullName": "Jarosław WAŁĘSA",
+	"countryCode": "pl",
+	"countryLabel": "Poland",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_pl.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Platforma Obywatelska",
+	"email": "jaroslaw.walesa@europarl.europa.eu",
+	"webPage": "http://jaroslawwalesa.pl",
+	"twitterUrl": "https://twitter.com/WalesaMEP",
+	"roles": [
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Substitute": "Delegation for relations with the countries of Central America"
+		},
+		{
+			"Vice-Chair": "Committee on Fisheries"
+		}
+	]
+}

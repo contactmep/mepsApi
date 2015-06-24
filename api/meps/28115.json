@@ -1,0 +1,29 @@
+{
+	"id": "28115",
+	"fullName": "Mairead McGUINNESS",
+	"countryCode": "ie",
+	"countryLabel": "Ireland",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_ie.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Fine Gael Party",
+	"email": "mairead.mcguinness@europarl.europa.eu",
+	"webPage": "http://www.maireadmcguinness.ie",
+	"facebookPageUrl": "http://www.facebook.com/pages/Mairead-McGuinness-MEP/47543411076",
+	"twitterUrl": "https://twitter.com/MaireadMcGMEP",
+	"roles": [
+		{
+			"Vice-Chair": "Delegation to the EU-Montenegro Stabilisation and Association Parliamentary Committee"
+		},
+		{
+			"Substitute": "Committee on the Environment, Public Health and Food Safety"
+		},
+		{
+			"Member": "Parliament's Bureau"
+		},
+		{
+			"Vice-President": "European Parliament"
+		}
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"id": "2278",
+	"fullName": "Paul RÜBIG",
+	"countryCode": "at",
+	"countryLabel": "Austria",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_at.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Österreichische Volkspartei",
+	"email": "paul.ruebig@europarl.europa.eu",
+	"webPage": "http://www.paulruebig.eu",
+	"facebookPageUrl": "https://www.facebook.com/paulruebig",
+	"twitterUrl": "http://www.twitter.com/PaulRuebig",
+	"roles": [
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Vice-Chair": "Delegation for relations with the Korean Peninsula"
+		},
+		{
+			"Substitute": "Committee on Development"
+		}
+	]
+}

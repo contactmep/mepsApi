@@ -1,0 +1,26 @@
+{
+	"id": "125107",
+	"fullName": "Claude ROLIN",
+	"countryCode": "be",
+	"countryLabel": "Belgium",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_be.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Centre Démocrate Humaniste",
+	"email": "claude.rolin@europarl.europa.eu",
+	"webPage": "http://www.clauderolin.eu",
+	"facebookPageUrl": "https://www.facebook.com/pages/Claude-Rolin/1483914865163220?fref=ts",
+	"twitterUrl": "https://twitter.com/clauderolin",
+	"roles": [
+		{
+			"additionalSite1": "http://www.clauderolin.eu"
+		},
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Substitute": "Committee on Regional Development"
+		}
+	]
+}

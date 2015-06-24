@@ -1,0 +1,25 @@
+{
+	"id": "124723",
+	"fullName": "Péter NIEDERMÜLLER",
+	"countryCode": "hu",
+	"countryLabel": "Hungary",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_hu.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Demokratikus Koalíció",
+	"email": "peter.niedermueller@europarl.europa.eu",
+	"facebookPageUrl": "https://www.facebook.com/pages/Niederm%C3%BCller-P%C3%A9ter/1381558792064873",
+	"twitterUrl": "https://twitter.com/NiedermullerMEP",
+	"roles": [
+		{
+			"Substitute": "Delegation to the EU-Albania Stabilisation and Association Parliamentary Committee"
+		},
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Treasurer": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament"
+		}
+	]
+}

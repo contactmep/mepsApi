@@ -1,0 +1,20 @@
+{
+	"id": "125012",
+	"fullName": "Daniel BUDA",
+	"countryCode": "ro",
+	"countryLabel": "Romania",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_ro.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Partidul Naţional Liberal",
+	"email": "daniel.buda@europarl.europa.eu",
+	"roles": [
+		{
+			"Substitute": "Delegation for relations with Israel"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

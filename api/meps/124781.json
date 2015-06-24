@@ -1,0 +1,21 @@
+{
+	"id": "124781",
+	"fullName": "Alfred SANT",
+	"countryCode": "mt",
+	"countryLabel": "Malta",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_mt.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Partit Laburista",
+	"email": "alfred.sant@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/SantAlfred",
+	"roles": [
+		{
+			"Substitute": "Delegation to the EU-Russia Parliamentary Cooperation Committee"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

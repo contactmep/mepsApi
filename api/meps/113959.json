@@ -1,0 +1,24 @@
+{
+	"id": "113959",
+	"fullName": "Martina ANDERSON",
+	"countryCode": "gb",
+	"countryLabel": "United Kingdom",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_gb.gif",
+	"politicalGroupCode": "guengl",
+	"politicalGroupLabel": "Confederal Group of the European United Left - Nordic Green Left",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_guengl.png",
+	"nationalPoliticalGroupLabel": "Sinn Fein",
+	"email": "martina.anderson@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/MEPStandingUp4U",
+	"roles": [
+		{
+			"Member": "Confederal Group of the European United Left - Nordic Green Left"
+		},
+		{
+			"Chair": "Delegation for relations with the Palestinian Legislative Council"
+		},
+		{
+			"Substitute": "Committee on Regional Development"
+		}
+	]
+}

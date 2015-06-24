@@ -1,0 +1,22 @@
+{
+	"id": "96815",
+	"fullName": "Judith SARGENTINI",
+	"countryCode": "nl",
+	"countryLabel": "Netherlands",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_nl.gif",
+	"politicalGroupCode": "greensefa",
+	"politicalGroupLabel": "Group of the Greens/European Free Alliance",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_greensefa.png",
+	"nationalPoliticalGroupLabel": "GroenLinks",
+	"email": "judith.sargentini@europarl.europa.eu",
+	"webPage": "http://www.judithsargentini.nl",
+	"twitterUrl": "http://twitter.com/judithineuropa",
+	"roles": [
+		{
+			"Substitute": "Committee on Development"
+		},
+		{
+			"Member": "Group of the Greens/European Free Alliance"
+		}
+	]
+}

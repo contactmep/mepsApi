@@ -1,0 +1,23 @@
+{
+	"id": "36392",
+	"fullName": "Aldo PATRICIELLO",
+	"countryCode": "it",
+	"countryLabel": "Italy",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_it.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Forza Italia",
+	"email": "aldo.patriciello@europarl.europa.eu",
+	"webPage": "http://www.forzaitalia.it",
+	"facebookPageUrl": "http://www.facebook.com/pages/Aldo-Patriciello/40645773554",
+	"twitterUrl": "https://twitter.com/#!/PatricielloAldo",
+	"roles": [
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Substitute": "Committee on the Environment, Public Health and Food Safety"
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"id": "124994",
+	"fullName": "Max ANDERSSON",
+	"countryCode": "se",
+	"countryLabel": "Sweden",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_se.gif",
+	"politicalGroupCode": "greensefa",
+	"politicalGroupLabel": "Group of the Greens/European Free Alliance",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_greensefa.png",
+	"nationalPoliticalGroupLabel": "Miljöpartiet de gröna",
+	"email": "max.andersson@europarl.europa.eu",
+	"roles": [
+		{
+			"Substitute": "Delegation to the EU-Turkey Joint Parliamentary Committee"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

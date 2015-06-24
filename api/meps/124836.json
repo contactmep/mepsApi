@@ -1,0 +1,21 @@
+{
+	"id": "124836",
+	"fullName": "Maria NOICHL",
+	"countryCode": "de",
+	"countryLabel": "Germany",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_de.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Sozialdemokratische Partei Deutschlands",
+	"email": "maria.noichl@europarl.europa.eu",
+	"facebookPageUrl": "https://www.facebook.com/noichl.eu",
+	"roles": [
+		{
+			"Member": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament"
+		},
+		{
+			"Substitute": "Delegation to the Euro-Latin American Parliamentary Assembly"
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"id": "124894",
+	"fullName": "Michał MARUSIK",
+	"countryCode": "pl",
+	"countryLabel": "Poland",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_pl.gif",
+	"politicalGroupCode": "enf",
+	"politicalGroupLabel": "Europe of Nations and Freedom",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_enf.png",
+	"nationalPoliticalGroupLabel": "Kongres Nowej Prawicy",
+	"email": "michal.marusik@europarl.europa.eu",
+	"roles": [
+		{
+			"Member": "Non-attached Members"
+		},
+		{
+			"Substitute": "Delegation to the EU-Turkey Joint Parliamentary Committee"
+		}
+	]
+}

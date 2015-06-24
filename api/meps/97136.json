@@ -1,0 +1,23 @@
+{
+	"id": "97136",
+	"fullName": "Indrek TARAND",
+	"countryCode": "ee",
+	"countryLabel": "Estonia",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_ee.gif",
+	"politicalGroupCode": "greensefa",
+	"politicalGroupLabel": "Group of the Greens/European Free Alliance",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_greensefa.png",
+	"nationalPoliticalGroupLabel": "Sõltumatu",
+	"email": "indrek.tarand@europarl.europa.eu",
+	"webPage": "http://www.tarand.ee",
+	"facebookPageUrl": "http://www.facebook.com/indrek.tarand.MEP",
+	"twitterUrl": "http://twitter.com/#!/indrektarand",
+	"roles": [
+		{
+			"Member": "Group of the Greens/European Free Alliance"
+		},
+		{
+			"Substitute": "Committee on Industry, Research and Energy"
+		}
+	]
+}

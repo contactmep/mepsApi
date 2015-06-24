@@ -1,0 +1,25 @@
+{
+	"id": "33569",
+	"fullName": "Syed KAMALL",
+	"countryCode": "gb",
+	"countryLabel": "United Kingdom",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_gb.gif",
+	"politicalGroupCode": "ecr",
+	"politicalGroupLabel": "European Conservatives and Reformists Group",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_ecr.png",
+	"nationalPoliticalGroupLabel": "Conservative Party",
+	"email": "syed.kamall@europarl.europa.eu",
+	"webPage": "http://www.syedkamall.com",
+	"twitterUrl": "http://twitter.com/#!/SyedKamall",
+	"roles": [
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Substitute": "Delegation for relations with the United States"
+		},
+		{
+			"Chair": "European Conservatives and Reformists Group"
+		}
+	]
+}

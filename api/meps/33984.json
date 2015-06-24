@@ -1,0 +1,28 @@
+{
+	"id": "33984",
+	"fullName": "Ioan Mircea PAŞCU",
+	"countryCode": "ro",
+	"countryLabel": "Romania",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_ro.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Partidul Social Democrat",
+	"email": "ioanmircea.pascu@europarl.europa.eu",
+	"webPage": "http://ioanmirceapascu.ro",
+	"twitterUrl": "http://twitter.com/#!/ioanmirceapascu",
+	"roles": [
+		{
+			"Substitute": "Delegation for relations with the United States"
+		},
+		{
+			"Member": "Partidul Social Democrat"
+		},
+		{
+			"Vice-President": "European Parliament"
+		},
+		{
+			"Vice-Chair": "Committee on Foreign Affairs"
+		}
+	]
+}

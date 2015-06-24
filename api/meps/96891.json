@@ -1,0 +1,23 @@
+{
+	"id": "96891",
+	"fullName": "Paolo DE CASTRO",
+	"countryCode": "it",
+	"countryLabel": "Italy",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_it.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Partito Democratico",
+	"email": "paolo.decastro@europarl.europa.eu",
+	"webPage": "http://www.paolodecastro.it",
+	"facebookPageUrl": "https://www.facebook.com/pages/Paolo-De-Castro/17267586854",
+	"twitterUrl": "http://twitter.com/#!/paolodecastro",
+	"roles": [
+		{
+			"Substitute": "Committee on the Environment, Public Health and Food Safety"
+		},
+		{
+			"Member": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament"
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"id": "124741",
+	"fullName": "Ricardo SERRÃO SANTOS",
+	"countryCode": "pt",
+	"countryLabel": "Portugal",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_pt.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Partido Socialista",
+	"email": "ricardo.serraosantos@europarl.europa.eu",
+	"roles": [
+		{
+			"Substitute": "Delegation for relations with the United States"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

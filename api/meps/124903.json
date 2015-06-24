@@ -1,0 +1,21 @@
+{
+	"id": "124903",
+	"fullName": "Bogdan Brunon WENTA",
+	"countryCode": "pl",
+	"countryLabel": "Poland",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_pl.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Platforma Obywatelska",
+	"email": "bogdan.wenta@europarl.europa.eu",
+	"facebookPageUrl": "https://www.facebook.com/WentaBogdan",
+	"roles": [
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Substitute": "Delegation to the Euro-Latin American Parliamentary Assembly"
+		}
+	]
+}

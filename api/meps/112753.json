@@ -1,0 +1,20 @@
+{
+	"id": "112753",
+	"fullName": "Jozo RADOŠ",
+	"countryCode": "hr",
+	"countryLabel": "Croatia",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_hr.gif",
+	"politicalGroupCode": "aldeadle",
+	"politicalGroupLabel": "Group of the Alliance of Liberals and Democrats for Europe",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_aldeadle.png",
+	"nationalPoliticalGroupLabel": "Hrvatska narodna stranka - liberalni demokrati",
+	"email": "jozo.rados@europarl.europa.eu",
+	"roles": [
+		{
+			"Member": "Committee on Foreign Affairs"
+		},
+		{
+			"Substitute": "Committee on Transport and Tourism"
+		}
+	]
+}

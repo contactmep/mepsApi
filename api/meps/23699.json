@@ -1,0 +1,21 @@
+{
+	"id": "23699",
+	"fullName": "Kateřina KONEČNÁ",
+	"countryCode": "cz",
+	"countryLabel": "Czech Republic",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_cz.gif",
+	"politicalGroupCode": "guengl",
+	"politicalGroupLabel": "Confederal Group of the European United Left - Nordic Green Left",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_guengl.png",
+	"nationalPoliticalGroupLabel": "Komunistická strana Čech a Moravy",
+	"email": "katerina.konecna@europarl.europa.eu",
+	"facebookPageUrl": "https://www.facebook.com/konecna.k",
+	"roles": [
+		{
+			"Substitute": "Committee on Transport and Tourism"
+		},
+		{
+			"Member": "Komunistická strana Čech a Moravy"
+		}
+	]
+}

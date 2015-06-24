@@ -1,0 +1,23 @@
+{
+	"id": "111589",
+	"fullName": "Inês Cristina ZUBER",
+	"countryCode": "pt",
+	"countryLabel": "Portugal",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_pt.gif",
+	"politicalGroupCode": "guengl",
+	"politicalGroupLabel": "Confederal Group of the European United Left - Nordic Green Left",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_guengl.png",
+	"nationalPoliticalGroupLabel": "Partido Comunista Português",
+	"email": "ines.zuber@europarl.europa.eu",
+	"roles": [
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Vice-Chair": "Committee on Women's Rights and Gender Equality"
+		},
+		{
+			"Substitute": "Committee on the Internal Market and Consumer Protection"
+		}
+	]
+}

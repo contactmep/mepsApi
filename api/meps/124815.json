@@ -1,0 +1,20 @@
+{
+	"id": "124815",
+	"fullName": "Arne GERICKE",
+	"countryCode": "de",
+	"countryLabel": "Germany",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_de.gif",
+	"politicalGroupCode": "ecr",
+	"politicalGroupLabel": "European Conservatives and Reformists Group",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_ecr.png",
+	"nationalPoliticalGroupLabel": "Familien-Partei Deutschlands",
+	"email": "arne.gericke@europarl.europa.eu",
+	"roles": [
+		{
+			"Substitute": "Delegation for relations with Australia and New Zealand"
+		},
+		{
+			"Member": "European Conservatives and Reformists Group"
+		}
+	]
+}

@@ -1,0 +1,23 @@
+{
+	"id": "96931",
+	"fullName": "Maurice PONGA",
+	"countryCode": "fr",
+	"countryLabel": "France",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_fr.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Les Républicains",
+	"email": "maurice.ponga@europarl.europa.eu",
+	"roles": [
+		{
+			"Substitute": "Committee on Regional Development"
+		},
+		{
+			"Vice-Chair": "Committee on Development"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

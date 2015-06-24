@@ -1,0 +1,20 @@
+{
+	"id": "124938",
+	"fullName": "Janice ATKINSON",
+	"countryCode": "gb",
+	"countryLabel": "United Kingdom",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_gb.gif",
+	"politicalGroupCode": "enf",
+	"politicalGroupLabel": "Europe of Nations and Freedom",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_enf.png",
+	"nationalPoliticalGroupLabel": "United Kingdom Independence Party",
+	"email": "janice.atkinson@europarl.europa.eu",
+	"roles": [
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Substitute": "Committee on Civil Liberties, Justice and Home Affairs"
+		}
+	]
+}

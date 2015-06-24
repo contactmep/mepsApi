@@ -1,0 +1,24 @@
+{
+	"id": "28284",
+	"fullName": "Barbara KUDRYCKA",
+	"countryCode": "pl",
+	"countryLabel": "Poland",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_pl.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Platforma Obywatelska",
+	"email": "barbara.kudrycka@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/BarbaraKudrycka",
+	"roles": [
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Vice-Chair": "Committee on Civil Liberties, Justice and Home Affairs"
+		},
+		{
+			"Substitute": "Delegation to the EU-Russia Parliamentary Cooperation Committee"
+		}
+	]
+}

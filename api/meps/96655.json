@@ -1,0 +1,21 @@
+{
+	"id": "96655",
+	"fullName": "Monika SMOLKOVÁ",
+	"countryCode": "sk",
+	"countryLabel": "Slovakia",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_sk.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "SMER-Sociálna demokracia",
+	"email": "monika.smolkova@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/SmolkovaMonika",
+	"roles": [
+		{
+			"Substitute": "Delegation to the Euronest Parliamentary Assembly"
+		},
+		{
+			"Member": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament"
+		}
+	]
+}

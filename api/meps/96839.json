@@ -1,0 +1,22 @@
+{
+	"id": "96839",
+	"fullName": "Kerstin WESTPHAL",
+	"countryCode": "de",
+	"countryLabel": "Germany",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_de.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Sozialdemokratische Partei Deutschlands",
+	"email": "kerstin.westphal@europarl.europa.eu",
+	"webPage": "http://www.kerstin-westphal.de",
+	"twitterUrl": "https://twitter.com/WestphalKerstin",
+	"roles": [
+		{
+			"Member": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament"
+		},
+		{
+			"Substitute": "Committee on the Internal Market and Consumer Protection"
+		}
+	]
+}

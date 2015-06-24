@@ -1,0 +1,23 @@
+{
+	"id": "96763",
+	"fullName": "Pablo ZALBA BIDEGAIN",
+	"countryCode": "es",
+	"countryLabel": "Spain",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_es.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Partido Popular",
+	"email": "pablo.zalbabidegain@europarl.europa.eu",
+	"roles": [
+		{
+			"Substitute": "Delegation to the Euro-Latin American Parliamentary Assembly"
+		},
+		{
+			"Vice-Chair": "Committee on Economic and Monetary Affairs"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

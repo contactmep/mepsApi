@@ -1,0 +1,21 @@
+{
+	"id": "124927",
+	"fullName": "Branislav ŠKRIPEK",
+	"countryCode": "sk",
+	"countryLabel": "Slovakia",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_sk.gif",
+	"politicalGroupCode": "ecr",
+	"politicalGroupLabel": "European Conservatives and Reformists Group",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_ecr.png",
+	"nationalPoliticalGroupLabel": "OBYČAJNÍ ĽUDIA",
+	"email": "branislav.skripek@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/BranoSkripek",
+	"roles": [
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Substitute": "Delegation for relations with Mercosur"
+		}
+	]
+}

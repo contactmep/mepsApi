@@ -1,0 +1,21 @@
+{
+	"id": "124891",
+	"fullName": "Zdzisław KRASNODĘBSKI",
+	"countryCode": "pl",
+	"countryLabel": "Poland",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_pl.gif",
+	"politicalGroupCode": "ecr",
+	"politicalGroupLabel": "European Conservatives and Reformists Group",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_ecr.png",
+	"nationalPoliticalGroupLabel": "Bezpartyjny",
+	"email": "zdzislaw.krasnodebski@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/ZdzKrasnodebski",
+	"roles": [
+		{
+			"Member": "Committee on Employment and Social Affairs"
+		},
+		{
+			"Substitute": "Delegation for relations with Israel"
+		}
+	]
+}

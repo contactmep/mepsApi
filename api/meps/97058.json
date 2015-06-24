@@ -1,0 +1,22 @@
+{
+	"id": "97058",
+	"fullName": "Guy VERHOFSTADT",
+	"countryCode": "be",
+	"countryLabel": "Belgium",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_be.gif",
+	"politicalGroupCode": "aldeadle",
+	"politicalGroupLabel": "Group of the Alliance of Liberals and Democrats for Europe",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_aldeadle.png",
+	"nationalPoliticalGroupLabel": "Open Vlaamse Liberalen en Democraten",
+	"email": "guy.verhofstadt@europarl.europa.eu",
+	"facebookPageUrl": "http://www.facebook.com/fanpageguyverhofstadt",
+	"twitterUrl": "http://twitter.com/#!/GuyVerhofstadt",
+	"roles": [
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Chair": "Group of the Alliance of Liberals and Democrats for Europe"
+		}
+	]
+}

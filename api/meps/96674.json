@@ -1,0 +1,26 @@
+{
+	"id": "96674",
+	"fullName": "Anna Maria CORAZZA BILDT",
+	"countryCode": "se",
+	"countryLabel": "Sweden",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_se.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Moderaterna",
+	"email": "annamaria.corazzabildt@europarl.europa.eu",
+	"webPage": "http://www.moderat.se/annamaria",
+	"facebookPageUrl": "https://www.facebook.com/#!/pages/Anna-Maria-Corazza-Bildt/69490331421",
+	"twitterUrl": "http://twitter.com/ANNAMARIACB",
+	"roles": [
+		{
+			"Member": "Delegation to the EU-Ukraine Parliamentary Cooperation Committee"
+		},
+		{
+			"Substitute": "Delegation to the EU-Turkey Joint Parliamentary Committee"
+		},
+		{
+			"Vice-Chair": "Committee on the Internal Market and Consumer Protection"
+		}
+	]
+}

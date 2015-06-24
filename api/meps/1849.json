@@ -1,0 +1,21 @@
+{
+	"id": "1849",
+	"fullName": "Sylvia-Yvonne KAUFMANN",
+	"countryCode": "de",
+	"countryLabel": "Germany",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_de.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Sozialdemokratische Partei Deutschlands",
+	"email": "sylvia-yvonne.kaufmann@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/KaufmannSylvia",
+	"roles": [
+		{
+			"Substitute": "Special Committee on Tax Rulings and Other Measures Similar in Nature or Effect"
+		},
+		{
+			"Member": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament"
+		}
+	]
+}

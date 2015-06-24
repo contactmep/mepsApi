@@ -1,0 +1,24 @@
+{
+	"id": "96836",
+	"fullName": "Peter SIMON",
+	"countryCode": "de",
+	"countryLabel": "Germany",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_de.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Sozialdemokratische Partei Deutschlands",
+	"email": "peter.simon@europarl.europa.eu",
+	"facebookPageUrl": "http://www.facebook.com/pages/Peter-Simon/69078343764",
+	"roles": [
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Substitute": "Committee on Regional Development"
+		},
+		{
+			"Vice-Chair": "Committee on Economic and Monetary Affairs"
+		}
+	]
+}

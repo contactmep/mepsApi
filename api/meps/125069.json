@@ -1,0 +1,23 @@
+{
+	"id": "125069",
+	"fullName": "Notis MARIAS",
+	"countryCode": "gr",
+	"countryLabel": "Greece",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_gr.gif",
+	"politicalGroupCode": "ecr",
+	"politicalGroupLabel": "European Conservatives and Reformists Group",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_ecr.png",
+	"nationalPoliticalGroupLabel": "Independent",
+	"email": "notis.marias@europarl.europa.eu",
+	"roles": [
+		{
+			"Substitute": "Delegation to the EU-Armenia, EU-Azerbaijan and EU-Georgia Parliamentary Cooperation Committees"
+		},
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Vice-Chair": "European Conservatives and Reformists Group"
+		}
+	]
+}

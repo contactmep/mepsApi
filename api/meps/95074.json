@@ -1,0 +1,24 @@
+{
+	"id": "95074",
+	"fullName": "Jeroen LENAERS",
+	"countryCode": "nl",
+	"countryLabel": "Netherlands",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_nl.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Christen Democratisch Appèl",
+	"email": "jeroen.lenaers@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/jeroen_lenaers",
+	"roles": [
+		{
+			"Substitute": "Committee on Civil Liberties, Justice and Home Affairs"
+		},
+		{
+			"Vice-Chair": "Delegation for relations with the countries of Southeast Asia and the Association of Southeast Asian Nations (ASEAN)"
+		},
+		{
+			"Member": "Committee on Employment and Social Affairs"
+		}
+	]
+}

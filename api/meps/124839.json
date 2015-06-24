@@ -1,0 +1,21 @@
+{
+	"id": "124839",
+	"fullName": "Arne LIETZ",
+	"countryCode": "de",
+	"countryLabel": "Germany",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_de.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Sozialdemokratische Partei Deutschlands",
+	"email": "arne.lietz@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/ArneLietz",
+	"roles": [
+		{
+			"Substitute": "Delegation to the ACP-EU Joint Parliamentary Assembly"
+		},
+		{
+			"Member": "Committee on Development"
+		}
+	]
+}

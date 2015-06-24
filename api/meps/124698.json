@@ -1,0 +1,23 @@
+{
+	"id": "124698",
+	"fullName": "Marju LAURISTIN",
+	"countryCode": "ee",
+	"countryLabel": "Estonia",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_ee.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Sotsiaaldemokraatlik Erakond",
+	"email": "marju.lauristin@europarl.europa.eu",
+	"roles": [
+		{
+			"Member": "Delegation to the EU-Ukraine Parliamentary Cooperation Committee"
+		},
+		{
+			"Substitute": "Committee on Employment and Social Affairs"
+		},
+		{
+			"Vice-Chair": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament"
+		}
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"id": "96603",
+	"fullName": "Nessa CHILDERS",
+	"countryCode": "ie",
+	"countryLabel": "Ireland",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_ie.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Independent",
+	"email": "nessa.childers@europarl.europa.eu",
+	"facebookPageUrl": "https://www.facebook.com/pages/Nessa-Childers/44689933935",
+	"twitterUrl": "http://twitter.com/#!/NChildersMEP",
+	"roles": [
+		{
+			"Substitute": "Committee on Women's Rights and Gender Equality"
+		},
+		{
+			"Member": "Committee on the Environment, Public Health and Food Safety"
+		}
+	]
+}

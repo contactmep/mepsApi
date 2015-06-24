@@ -1,0 +1,21 @@
+{
+	"id": "124722",
+	"fullName": "Csaba MOLNÁR",
+	"countryCode": "hu",
+	"countryLabel": "Hungary",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_hu.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Demokratikus Koalíció",
+	"email": "csaba.molnar@europarl.europa.eu",
+	"facebookPageUrl": "https://www.facebook.com/drmolnarcsaba",
+	"roles": [
+		{
+			"Substitute": "Delegation for relations with the United States"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

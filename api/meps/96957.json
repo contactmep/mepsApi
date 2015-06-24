@@ -1,0 +1,24 @@
+{
+	"id": "96957",
+	"fullName": "Ashley FOX",
+	"countryCode": "gb",
+	"countryLabel": "United Kingdom",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_gb.gif",
+	"politicalGroupCode": "ecr",
+	"politicalGroupLabel": "European Conservatives and Reformists Group",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_ecr.png",
+	"nationalPoliticalGroupLabel": "Conservative Party",
+	"email": "ashley.fox@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/Ashleyfoxmep",
+	"roles": [
+		{
+			"Member": "Delegation for relations with the Federative Republic of Brazil"
+		},
+		{
+			"Substitute": "Delegation for relations with the Arab Peninsula"
+		},
+		{
+			"Member of the Bureau": "European Conservatives and Reformists Group"
+		}
+	]
+}

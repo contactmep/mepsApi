@@ -1,0 +1,24 @@
+{
+	"id": "124759",
+	"fullName": "Gabrielius LANDSBERGIS",
+	"countryCode": "lt",
+	"countryLabel": "Lithuania",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_lt.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Tėvynės sąjunga-Lietuvos krikščionys demokratai",
+	"email": "gabrielius.landsbergis@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/GLandsbergis",
+	"roles": [
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Vice-Chair": "Delegation to the EU-Kazakhstan, EU-Kyrgyzstan, EU-Uzbekistan and EU-Tajikistan Parliamentary Cooperation Committees and for relations with Turkmenistan and Mongolia"
+		},
+		{
+			"Substitute": "Committee on Foreign Affairs"
+		}
+	]
+}

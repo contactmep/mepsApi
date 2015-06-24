@@ -1,0 +1,23 @@
+{
+	"id": "125044",
+	"fullName": "José BLANCO LÓPEZ",
+	"countryCode": "es",
+	"countryLabel": "Spain",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_es.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Partido Socialista Obrero Español",
+	"email": "jose.blancolopez@europarl.europa.eu",
+	"roles": [
+		{
+			"Vice-Chair": "Delegation to the EU-Mexico Joint Parliamentary Committee"
+		},
+		{
+			"Member": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament"
+		},
+		{
+			"Substitute": "Delegation to the Cariforum — EU Parliamentary Committee"
+		}
+	]
+}

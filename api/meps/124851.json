@@ -1,0 +1,21 @@
+{
+	"id": "124851",
+	"fullName": "Nicola CAPUTO",
+	"countryCode": "it",
+	"countryLabel": "Italy",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_it.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Partito Democratico",
+	"email": "nicola.caputo@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/NicolaCaputo",
+	"roles": [
+		{
+			"Substitute": "Committee on the Environment, Public Health and Food Safety"
+		},
+		{
+			"Member": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament"
+		}
+	]
+}

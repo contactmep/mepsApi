@@ -1,0 +1,24 @@
+{
+	"id": "125091",
+	"fullName": "Sofia SAKORAFA",
+	"countryCode": "gr",
+	"countryLabel": "Greece",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_gr.gif",
+	"politicalGroupCode": "guengl",
+	"politicalGroupLabel": "Confederal Group of the European United Left - Nordic Green Left",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_guengl.png",
+	"nationalPoliticalGroupLabel": "Coalition of the Radical Left",
+	"email": "sofia.sakorafa@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/SofiaSakorafa",
+	"roles": [
+		{
+			"Member": "Confederal Group of the European United Left - Nordic Green Left"
+		},
+		{
+			"Chair": "Delegation for relations with the countries of Central America"
+		},
+		{
+			"Substitute": "Delegation for relations with the Palestinian Legislative Council"
+		}
+	]
+}

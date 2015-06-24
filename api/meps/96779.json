@@ -1,0 +1,25 @@
+{
+	"id": "96779",
+	"fullName": "Danuta Maria HÜBNER",
+	"countryCode": "pl",
+	"countryLabel": "Poland",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_pl.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Platforma Obywatelska",
+	"email": "danuta.huebner@europarl.europa.eu",
+	"webPage": "http://www.danuta-hubner.pl/",
+	"facebookPageUrl": "https://www.facebook.com/pages/Danuta-H%C3%BCbner/37942161343",
+	"roles": [
+		{
+			"Chair": "Committee on Constitutional Affairs"
+		},
+		{
+			"Substitute": "Delegation to the Euro-Latin American Parliamentary Assembly"
+		},
+		{
+			"Member": "Delegation for relations with the United States"
+		}
+	]
+}

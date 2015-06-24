@@ -1,0 +1,24 @@
+{
+	"id": "96694",
+	"fullName": "Rolandas PAKSAS",
+	"countryCode": "lt",
+	"countryLabel": "Lithuania",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_lt.gif",
+	"politicalGroupCode": "efd",
+	"politicalGroupLabel": "Europe of Freedom and Direct Democracy Group",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_efd.png",
+	"nationalPoliticalGroupLabel": "Partija Tvarka ir teisingumas",
+	"email": "rolandas.paksas@europarl.europa.eu",
+	"webPage": "http://www.tvarka.lt",
+	"roles": [
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Vice-Chair": "Europe of Freedom and Direct Democracy Group"
+		},
+		{
+			"Substitute": "Committee on Transport and Tourism"
+		}
+	]
+}

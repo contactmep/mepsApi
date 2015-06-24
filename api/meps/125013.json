@@ -1,0 +1,21 @@
+{
+	"id": "125013",
+	"fullName": "Momchil NEKOV",
+	"countryCode": "bg",
+	"countryLabel": "Bulgaria",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_bg.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Bulgarian Socialist Party",
+	"email": "momchil.nekov@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/momchilnekov",
+	"roles": [
+		{
+			"Substitute": "Delegation for relations with Belarus"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

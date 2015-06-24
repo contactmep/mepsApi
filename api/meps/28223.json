@@ -1,0 +1,23 @@
+{
+	"id": "28223",
+	"fullName": "Andreas SCHWAB",
+	"countryCode": "de",
+	"countryLabel": "Germany",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_de.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Christlich Demokratische Union Deutschlands",
+	"email": "andreas.schwab@europarl.europa.eu",
+	"webPage": "http://www.andreas-schwab.de",
+	"facebookPageUrl": "http://www.facebook.com/search.php?q=andreas%20schwab&init=quick&tas=0.04320941172004611&ref=ts#!/dr.andreas.schwab.mdep",
+	"twitterUrl": "https://twitter.com/#!/Andreas_Schwab",
+	"roles": [
+		{
+			"Substitute": "Special Committee on Tax Rulings and Other Measures Similar in Nature or Effect"
+		},
+		{
+			"Member": "Committee on the Internal Market and Consumer Protection"
+		}
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"id": "28220",
+	"fullName": "Ingeborg GRÄSSLE",
+	"countryCode": "de",
+	"countryLabel": "Germany",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_de.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Christlich Demokratische Union Deutschlands",
+	"email": "ingeborg.graessle@europarl.europa.eu",
+	"webPage": "http://www.inge-graessle.eu",
+	"facebookPageUrl": "http://www.facebook.com/?ref=home#!/pages/Dr-Inge-Gr%C3%A4%C3%9Fle/137568042759",
+	"twitterUrl": "http://twitter.com/inge_graessle",
+	"roles": [
+		{
+			"Substitute": "Committee on Employment and Social Affairs"
+		},
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Chair": "Committee on Budgetary Control"
+		}
+	]
+}

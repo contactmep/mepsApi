@@ -1,0 +1,20 @@
+{
+	"id": "124720",
+	"fullName": "Tamás MESZERICS",
+	"countryCode": "hu",
+	"countryLabel": "Hungary",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_hu.gif",
+	"politicalGroupCode": "greensefa",
+	"politicalGroupLabel": "Group of the Greens/European Free Alliance",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_greensefa.png",
+	"nationalPoliticalGroupLabel": "Lehet Más A Politika",
+	"email": "tamas.meszerics@europarl.europa.eu",
+	"roles": [
+		{
+			"Substitute": "Committee on Employment and Social Affairs"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"id": "28508",
+	"fullName": "Alyn SMITH",
+	"countryCode": "gb",
+	"countryLabel": "United Kingdom",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_gb.gif",
+	"politicalGroupCode": "greensefa",
+	"politicalGroupLabel": "Group of the Greens/European Free Alliance",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_greensefa.png",
+	"nationalPoliticalGroupLabel": "Scottish National Party",
+	"email": "alyn.smith@europarl.europa.eu",
+	"facebookPageUrl": "http://www.facebook.com/home.php#!/pages/Alyn-Smith-MEP/192295170796998",
+	"twitterUrl": "http://twitter.com/#!/Alynsmithmep",
+	"roles": [
+		{
+			"Substitute": "Committee on Agriculture and Rural Development"
+		},
+		{
+			"Member": "Committee on Foreign Affairs"
+		}
+	]
+}

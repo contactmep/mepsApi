@@ -1,0 +1,25 @@
+{
+	"id": "96739",
+	"fullName": "Reinhard BÜTIKOFER",
+	"countryCode": "de",
+	"countryLabel": "Germany",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_de.gif",
+	"politicalGroupCode": "greensefa",
+	"politicalGroupLabel": "Group of the Greens/European Free Alliance",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_greensefa.png",
+	"nationalPoliticalGroupLabel": "Bündnis 90/Die Grünen",
+	"email": "reinhard.buetikofer@europarl.europa.eu",
+	"webPage": "http://www.reinhardbuetikofer.eu",
+	"twitterUrl": "http://twitter.com/bueti",
+	"roles": [
+		{
+			"Vice-Chair": "Delegation for relations with the People's Republic of China"
+		},
+		{
+			"Substitute": "Committee on Foreign Affairs"
+		},
+		{
+			"Member": "Delegation for relations with the United States"
+		}
+	]
+}

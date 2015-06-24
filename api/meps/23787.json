@@ -1,0 +1,24 @@
+{
+	"id": "23787",
+	"fullName": "Czesław Adam SIEKIERSKI",
+	"countryCode": "pl",
+	"countryLabel": "Poland",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_pl.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Polskie Stronnictwo Ludowe",
+	"email": "czeslaw.siekierski@europarl.europa.eu",
+	"webPage": "http://www.siekierski.pl",
+	"roles": [
+		{
+			"Substitute": "Committee on Budgetary Control"
+		},
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Chair": "Committee on Agriculture and Rural Development"
+		}
+	]
+}

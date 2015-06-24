@@ -1,0 +1,25 @@
+{
+	"id": "125002",
+	"fullName": "Hugues BAYET",
+	"countryCode": "be",
+	"countryLabel": "Belgium",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_be.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Parti Socialiste",
+	"email": "hugues.bayet@europarl.europa.eu",
+	"facebookPageUrl": "https://www.facebook.com/hbayet",
+	"twitterUrl": "https://twitter.com/jufanuel",
+	"roles": [
+		{
+			"youtubeURL": "https://www.youtube.com/channel/UCALcP0lbU9387eNRfMRqXLg"
+		},
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Substitute": "Delegation for relations with the Maghreb countries and the Arab Maghreb Union"
+		}
+	]
+}

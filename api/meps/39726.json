@@ -1,0 +1,24 @@
+{
+	"id": "39726",
+	"fullName": "László TŐKÉS",
+	"countryCode": "hu",
+	"countryLabel": "Hungary",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_hu.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Fidesz-Magyar Polgári Szövetség-Keresztény Demokrata Néppárt",
+	"email": "laszlo.tokes@europarl.europa.eu",
+	"facebookPageUrl": "http://www.facebook.com/pages/T%C5%91k%C3%A9s-L%C3%A1szl%C3%B3-Sajt%C3%B3irod%C3%A1ja/184919038213287",
+	"roles": [
+		{
+			"Member": "Committee on Foreign Affairs"
+		},
+		{
+			"Substitute": "Delegation for relations with Japan"
+		},
+		{
+			"Vice-Chair": "Subcommittee on Human Rights"
+		}
+	]
+}

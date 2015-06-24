@@ -1,0 +1,23 @@
+{
+	"id": "97203",
+	"fullName": "Ramon TREMOSA i BALCELLS",
+	"countryCode": "es",
+	"countryLabel": "Spain",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_es.gif",
+	"politicalGroupCode": "aldeadle",
+	"politicalGroupLabel": "Group of the Alliance of Liberals and Democrats for Europe",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_aldeadle.png",
+	"nationalPoliticalGroupLabel": "Convergència Democràtica de Catalunya",
+	"email": "ramon.tremosa@europarl.europa.eu",
+	"webPage": "http://www.tremosa.cat",
+	"facebookPageUrl": "https://www.facebook.com/pages/Ramon-Tremosa/51229436530",
+	"twitterUrl": "https://twitter.com/ramontremosa",
+	"roles": [
+		{
+			"Substitute": "Delegation for relations with Israel"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

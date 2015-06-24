@@ -1,0 +1,24 @@
+{
+	"id": "96852",
+	"fullName": "Cornelia ERNST",
+	"countryCode": "de",
+	"countryLabel": "Germany",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_de.gif",
+	"politicalGroupCode": "guengl",
+	"politicalGroupLabel": "Confederal Group of the European United Left - Nordic Green Left",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_guengl.png",
+	"nationalPoliticalGroupLabel": "DIE LINKE.",
+	"email": "cornelia.ernst@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/ErnstCornelia",
+	"roles": [
+		{
+			"Vice-Chair": "Delegation for relations with Iran"
+		},
+		{
+			"Member": "Confederal Group of the European United Left - Nordic Green Left"
+		},
+		{
+			"Substitute": "Committee on Industry, Research and Energy"
+		}
+	]
+}

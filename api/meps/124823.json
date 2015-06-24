@@ -1,0 +1,24 @@
+{
+	"id": "124823",
+	"fullName": "Hans-Olaf HENKEL",
+	"countryCode": "de",
+	"countryLabel": "Germany",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_de.gif",
+	"politicalGroupCode": "ecr",
+	"politicalGroupLabel": "European Conservatives and Reformists Group",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_ecr.png",
+	"nationalPoliticalGroupLabel": "Alternative für Deutschland",
+	"email": "hans-olaf.henkel@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/HansOlafHenkel",
+	"roles": [
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Vice-Chair": "Committee on Industry, Research and Energy"
+		},
+		{
+			"Substitute": "Committee on Foreign Affairs"
+		}
+	]
+}

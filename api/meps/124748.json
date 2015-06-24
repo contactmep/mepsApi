@@ -1,0 +1,20 @@
+{
+	"id": "124748",
+	"fullName": "Marie-Christine ARNAUTU",
+	"countryCode": "fr",
+	"countryLabel": "France",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_fr.gif",
+	"politicalGroupCode": "enf",
+	"politicalGroupLabel": "Europe of Nations and Freedom",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_enf.png",
+	"nationalPoliticalGroupLabel": "Front national",
+	"email": "marie-christine.arnautu@europarl.europa.eu",
+	"roles": [
+		{
+			"Substitute": "Committee on Employment and Social Affairs"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

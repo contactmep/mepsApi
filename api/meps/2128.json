@@ -1,0 +1,23 @@
+{
+	"id": "2128",
+	"fullName": "Paavo VÄYRYNEN",
+	"countryCode": "fi",
+	"countryLabel": "Finland",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_fi.gif",
+	"politicalGroupCode": "aldeadle",
+	"politicalGroupLabel": "Group of the Alliance of Liberals and Democrats for Europe",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_aldeadle.png",
+	"nationalPoliticalGroupLabel": "Suomen Keskusta",
+	"email": "paavo.vayrynen@europarl.europa.eu",
+	"roles": [
+		{
+			"Vice-Chair": "Committee on Development"
+		},
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Substitute": "Committee on Foreign Affairs"
+		}
+	]
+}

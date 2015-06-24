@@ -1,0 +1,23 @@
+{
+	"id": "96933",
+	"fullName": "Milan ZVER",
+	"countryCode": "si",
+	"countryLabel": "Slovenia",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_si.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Slovenska demokratska stranka",
+	"email": "milan.zver@europarl.europa.eu",
+	"webPage": "http://www.milanzver.eu",
+	"facebookPageUrl": "https://www.facebook.com/milan.zver",
+	"twitterUrl": "https://twitter.com/MilanZver",
+	"roles": [
+		{
+			"Substitute": "Committee on Regional Development"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

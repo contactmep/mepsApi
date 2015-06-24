@@ -1,0 +1,25 @@
+{
+	"id": "4507",
+	"fullName": "Bas BELDER",
+	"countryCode": "nl",
+	"countryLabel": "Netherlands",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_nl.gif",
+	"politicalGroupCode": "ecr",
+	"politicalGroupLabel": "European Conservatives and Reformists Group",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_ecr.png",
+	"nationalPoliticalGroupLabel": "Staatkundig Gereformeerde Partij",
+	"email": "bastiaan.belder@europarl.europa.eu",
+	"webPage": "http://eurofractie.sgp.nl",
+	"twitterUrl": "http://twitter.com/#!/eurofractiesgp",
+	"roles": [
+		{
+			"Vice-Chair": "Delegation for relations with Israel"
+		},
+		{
+			"Member": "Committee on Foreign Affairs"
+		},
+		{
+			"Substitute": "Committee on Agriculture and Rural Development"
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"id": "124869",
+	"fullName": "Gianluca BUONANNO",
+	"countryCode": "it",
+	"countryLabel": "Italy",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_it.gif",
+	"politicalGroupCode": "enf",
+	"politicalGroupLabel": "Europe of Nations and Freedom",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_enf.png",
+	"nationalPoliticalGroupLabel": "Lega Nord",
+	"email": "gianluca.buonanno@europarl.europa.eu",
+	"roles": [
+		{
+			"Substitute": "Committee on Agriculture and Rural Development"
+		},
+		{
+			"Member": "Non-attached Members"
+		}
+	]
+}

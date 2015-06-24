@@ -1,0 +1,22 @@
+{
+	"id": "1985",
+	"fullName": "Pervenche BERÈS",
+	"countryCode": "fr",
+	"countryLabel": "France",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_fr.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Parti socialiste",
+	"email": "pervenche.beres@europarl.europa.eu",
+	"webPage": "http://www.pervenche-beres.fr",
+	"twitterUrl": "https://twitter.com/#!/PervencheBeres",
+	"roles": [
+		{
+			"Substitute": "Special Committee on Tax Rulings and Other Measures Similar in Nature or Effect"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

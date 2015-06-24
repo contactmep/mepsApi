@@ -1,0 +1,17 @@
+{
+	"id": "124876",
+	"fullName": "Rikke KARLSSON",
+	"countryCode": "dk",
+	"countryLabel": "Denmark",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_dk.gif",
+	"politicalGroupCode": "ecr",
+	"politicalGroupLabel": "European Conservatives and Reformists Group",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_ecr.png",
+	"nationalPoliticalGroupLabel": "Dansk Folkeparti",
+	"email": "rikke.karlsson@europarl.europa.eu",
+	"roles": [
+		{
+			"Member": "Delegation for relations with the United States"
+		}
+	]
+}

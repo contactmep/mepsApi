@@ -1,0 +1,25 @@
+{
+	"id": "96734",
+	"fullName": "Ska KELLER",
+	"countryCode": "de",
+	"countryLabel": "Germany",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_de.gif",
+	"politicalGroupCode": "greensefa",
+	"politicalGroupLabel": "Group of the Greens/European Free Alliance",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_greensefa.png",
+	"nationalPoliticalGroupLabel": "Bündnis 90/Die Grünen",
+	"email": "franziska.keller@europarl.europa.eu",
+	"webPage": "http://www.skakeller.de",
+	"twitterUrl": "http://twitter.com/SkaKeller",
+	"roles": [
+		{
+			"Substitute": "Delegation to the EU-Mexico Joint Parliamentary Committee"
+		},
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Vice-Chair": "Group of the Greens/European Free Alliance"
+		}
+	]
+}

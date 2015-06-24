@@ -1,0 +1,21 @@
+{
+	"id": "96752",
+	"fullName": "Martin HÄUSLING",
+	"countryCode": "de",
+	"countryLabel": "Germany",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_de.gif",
+	"politicalGroupCode": "greensefa",
+	"politicalGroupLabel": "Group of the Greens/European Free Alliance",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_greensefa.png",
+	"nationalPoliticalGroupLabel": "Bündnis 90/Die Grünen",
+	"email": "martin.haeusling@europarl.europa.eu",
+	"twitterUrl": "http://twitter.com/MartinHaeusling",
+	"roles": [
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Substitute": "Committee on the Environment, Public Health and Food Safety"
+		}
+	]
+}

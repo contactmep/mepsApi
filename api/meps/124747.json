@@ -1,0 +1,23 @@
+{
+	"id": "124747",
+	"fullName": "Pedro SILVA PEREIRA",
+	"countryCode": "pt",
+	"countryLabel": "Portugal",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_pt.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Partido Socialista",
+	"email": "pedro.silvapereira@europarl.europa.eu",
+	"roles": [
+		{
+			"Substitute": "Committee on International Trade"
+		},
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Vice-Chair": "Committee on Constitutional Affairs"
+		}
+	]
+}

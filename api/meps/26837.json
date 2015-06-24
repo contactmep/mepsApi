@@ -1,0 +1,20 @@
+{
+	"id": "26837",
+	"fullName": "Lefteris CHRISTOFOROU",
+	"countryCode": "cy",
+	"countryLabel": "Cyprus",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_cy.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Democratic Rally",
+	"email": "lefteris.christoforou@europarl.europa.eu",
+	"roles": [
+		{
+			"Substitute": "Committee on Industry, Research and Energy"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

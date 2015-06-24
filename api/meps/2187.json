@@ -1,0 +1,24 @@
+{
+	"id": "2187",
+	"fullName": "Antonio TAJANI",
+	"countryCode": "it",
+	"countryLabel": "Italy",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_it.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Forza Italia",
+	"email": "antonio.tajani@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/Antonio_Tajani",
+	"roles": [
+		{
+			"Substitute": "Delegation to the EU-Chile Joint Parliamentary Committee"
+		},
+		{
+			"Member": "Parliament's Bureau"
+		},
+		{
+			"Vice-President": "European Parliament"
+		}
+	]
+}

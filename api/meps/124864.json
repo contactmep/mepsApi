@@ -1,0 +1,21 @@
+{
+	"id": "124864",
+	"fullName": "Michela GIUFFRIDA",
+	"countryCode": "it",
+	"countryLabel": "Italy",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_it.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Partito Democratico",
+	"email": "michela.giuffrida@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/m_giuffrida",
+	"roles": [
+		{
+			"Substitute": "Delegation for relations with the Mashreq countries"
+		},
+		{
+			"Member": "Committee on Regional Development"
+		}
+	]
+}

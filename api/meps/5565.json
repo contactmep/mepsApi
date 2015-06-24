@@ -1,0 +1,22 @@
+{
+	"id": "5565",
+	"fullName": "Brice HORTEFEUX",
+	"countryCode": "fr",
+	"countryLabel": "France",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_fr.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Les Républicains",
+	"email": "brice.hortefeux@europarl.europa.eu",
+	"facebookPageUrl": "http://www.facebook.com/bricehortefeux",
+	"twitterUrl": "https://twitter.com/BriceHortefeux",
+	"roles": [
+		{
+			"Substitute": "Committee on Constitutional Affairs"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

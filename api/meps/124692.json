@@ -1,0 +1,20 @@
+{
+	"id": "124692",
+	"fullName": "Demetris PAPADAKIS",
+	"countryCode": "cy",
+	"countryLabel": "Cyprus",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_cy.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Movement for Social Democracy EDEK",
+	"email": "demetris.papadakis@europarl.europa.eu",
+	"roles": [
+		{
+			"Substitute": "Delegation for relations with the countries of Central America"
+		},
+		{
+			"Member": "Committee on Foreign Affairs"
+		}
+	]
+}

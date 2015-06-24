@@ -1,0 +1,20 @@
+{
+	"id": "125684",
+	"fullName": "Philippe LOISEAU",
+	"countryCode": "fr",
+	"countryLabel": "France",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_fr.gif",
+	"politicalGroupCode": "enf",
+	"politicalGroupLabel": "Europe of Nations and Freedom",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_enf.png",
+	"nationalPoliticalGroupLabel": "Front national",
+	"email": "philippe.loiseau@europarl.europa.eu",
+	"roles": [
+		{
+			"Substitute": "Committee on Transport and Tourism"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

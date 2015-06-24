@@ -1,0 +1,21 @@
+{
+	"id": "124997",
+	"fullName": "Soraya POST",
+	"countryCode": "se",
+	"countryLabel": "Sweden",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_se.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Feministiskt initiativ",
+	"email": "soraya.post@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/SorayaPostFi",
+	"roles": [
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Substitute": "Committee on Foreign Affairs"
+		}
+	]
+}

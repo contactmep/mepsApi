@@ -1,0 +1,21 @@
+{
+	"id": "124700",
+	"fullName": "Yana TOOM",
+	"countryCode": "ee",
+	"countryLabel": "Estonia",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_ee.gif",
+	"politicalGroupCode": "aldeadle",
+	"politicalGroupLabel": "Group of the Alliance of Liberals and Democrats for Europe",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_aldeadle.png",
+	"nationalPoliticalGroupLabel": "Eesti Keskerakond",
+	"email": "yana.toom@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/YanaToom",
+	"roles": [
+		{
+			"Member": "Committee on Employment and Social Affairs"
+		},
+		{
+			"Substitute": "Delegation for relations with the Maghreb countries and the Arab Maghreb Union"
+		}
+	]
+}

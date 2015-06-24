@@ -1,0 +1,21 @@
+{
+	"id": "124743",
+	"fullName": "Artis PABRIKS",
+	"countryCode": "lv",
+	"countryLabel": "Latvia",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_lv.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Partija \"VIENOTĪBA\"",
+	"email": "artis.pabriks@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/Pabriks",
+	"roles": [
+		{
+			"Substitute": "Delegation for relations with Japan"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

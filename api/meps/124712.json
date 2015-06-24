@@ -1,0 +1,23 @@
+{
+	"id": "124712",
+	"fullName": "Andrea BOCSKOR",
+	"countryCode": "hu",
+	"countryLabel": "Hungary",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_hu.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Fidesz-Magyar Polgári Szövetség-Keresztény Demokrata Néppárt",
+	"email": "andrea.bocskor@europarl.europa.eu",
+	"roles": [
+		{
+			"Substitute": "Committee on Civil Liberties, Justice and Home Affairs"
+		},
+		{
+			"Vice-Chair": "Committee on Culture and Education"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

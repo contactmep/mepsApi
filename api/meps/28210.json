@@ -1,0 +1,22 @@
+{
+	"id": "28210",
+	"fullName": "Marine LE PEN",
+	"countryCode": "fr",
+	"countryLabel": "France",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_fr.gif",
+	"politicalGroupCode": "enf",
+	"politicalGroupLabel": "Europe of Nations and Freedom",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_enf.png",
+	"nationalPoliticalGroupLabel": "Front national",
+	"email": "marine.lepen@europarl.europa.eu",
+	"facebookPageUrl": "http://www.facebook.com/MLP.officiel",
+	"twitterUrl": "http://twitter.com/#!/MLP_officiel",
+	"roles": [
+		{
+			"Substitute": "Delegation for relations with the United States"
+		},
+		{
+			"Member": "Non-attached Members"
+		}
+	]
+}

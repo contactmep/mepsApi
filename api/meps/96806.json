@@ -1,0 +1,24 @@
+{
+	"id": "96806",
+	"fullName": "Teresa JIMÉNEZ-BECERRIL BARRIO",
+	"countryCode": "es",
+	"countryLabel": "Spain",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_es.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Partido Popular",
+	"email": "teresa.jimenez-becerril@europarl.europa.eu",
+	"webPage": "http://www.teresajimenezbecerril.eu",
+	"roles": [
+		{
+			"Member": "Committee on Development"
+		},
+		{
+			"Chair": "Delegation to the EU-Mexico Joint Parliamentary Committee"
+		},
+		{
+			"Substitute": "Delegation to the ACP-EU Joint Parliamentary Assembly"
+		}
+	]
+}

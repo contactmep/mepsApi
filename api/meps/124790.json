@@ -1,0 +1,20 @@
+{
+	"id": "124790",
+	"fullName": "Doru-Claudian FRUNZULICĂ",
+	"countryCode": "ro",
+	"countryLabel": "Romania",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_ro.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Uniunea Națională pentru Progresul României",
+	"email": "doru.frunzulica@europarl.europa.eu",
+	"roles": [
+		{
+			"Substitute": "Delegation for relations with Japan"
+		},
+		{
+			"Member": "Committee on Development"
+		}
+	]
+}

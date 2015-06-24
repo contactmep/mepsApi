@@ -1,0 +1,20 @@
+{
+	"id": "125023",
+	"fullName": "Anja HAZEKAMP",
+	"countryCode": "nl",
+	"countryLabel": "Netherlands",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_nl.gif",
+	"politicalGroupCode": "guengl",
+	"politicalGroupLabel": "Confederal Group of the European United Left - Nordic Green Left",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_guengl.png",
+	"nationalPoliticalGroupLabel": "Partij voor de Dieren",
+	"email": "anja.hazekamp@europarl.europa.eu",
+	"roles": [
+		{
+			"Substitute": "Committee on Fisheries"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

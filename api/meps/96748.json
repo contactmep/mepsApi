@@ -1,0 +1,21 @@
+{
+	"id": "96748",
+	"fullName": "Dennis de JONG",
+	"countryCode": "nl",
+	"countryLabel": "Netherlands",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_nl.gif",
+	"politicalGroupCode": "guengl",
+	"politicalGroupLabel": "Confederal Group of the European United Left - Nordic Green Left",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_guengl.png",
+	"nationalPoliticalGroupLabel": "Socialistische Partij",
+	"email": "dennis.dejong@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/DdJong",
+	"roles": [
+		{
+			"Member": "Socialistische Partij"
+		},
+		{
+			"Substitute": "Committee on Civil Liberties, Justice and Home Affairs"
+		}
+	]
+}

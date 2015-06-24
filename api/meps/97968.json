@@ -1,0 +1,26 @@
+{
+	"id": "97968",
+	"fullName": "Andrey KOVATCHEV",
+	"countryCode": "bg",
+	"countryLabel": "Bulgaria",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_bg.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Citizens for European Development of Bulgaria",
+	"email": "andrey.kovatchev@europarl.europa.eu",
+	"webPage": "http://www.andrey-kovatchev.eu",
+	"facebookPageUrl": "http://www.facebook.com/pages/Andrey-Kovatchev/133004451640",
+	"twitterUrl": "https://twitter.com/andreykovatchev",
+	"roles": [
+		{
+			"Member": "Quaestors"
+		},
+		{
+			"Substitute": "Committee on the Environment, Public Health and Food Safety"
+		},
+		{
+			"Quaestor": "European Parliament"
+		}
+	]
+}

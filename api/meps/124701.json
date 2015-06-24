@@ -1,0 +1,20 @@
+{
+	"id": "124701",
+	"fullName": "Luděk NIEDERMAYER",
+	"countryCode": "cz",
+	"countryLabel": "Czech Republic",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_cz.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "TOP 09 a Starostové",
+	"email": "ludek.niedermayer@europarl.europa.eu",
+	"roles": [
+		{
+			"Member": "Delegation for relations with the United States"
+		},
+		{
+			"Substitute": "Committee on Industry, Research and Energy"
+		}
+	]
+}

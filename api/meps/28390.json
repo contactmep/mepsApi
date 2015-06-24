@@ -1,0 +1,23 @@
+{
+	"id": "28390",
+	"fullName": "Pilar del CASTILLO VERA",
+	"countryCode": "es",
+	"countryLabel": "Spain",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_es.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Partido Popular",
+	"email": "pilar.delcastillo@europarl.europa.eu",
+	"webPage": "http://www.pilardelcastillo.com",
+	"facebookPageUrl": "https://www.facebook.com/PilardelCastilloOficial",
+	"twitterUrl": "http://twitter.com/#!/delcastillop/",
+	"roles": [
+		{
+			"Substitute": "Committee on Economic and Monetary Affairs"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

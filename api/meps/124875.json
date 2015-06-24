@@ -1,0 +1,21 @@
+{
+	"id": "124875",
+	"fullName": "Anders Primdahl VISTISEN",
+	"countryCode": "dk",
+	"countryLabel": "Denmark",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_dk.gif",
+	"politicalGroupCode": "ecr",
+	"politicalGroupLabel": "European Conservatives and Reformists Group",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_ecr.png",
+	"nationalPoliticalGroupLabel": "Dansk Folkeparti",
+	"email": "anders.vistisen@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/AndersVistisen",
+	"roles": [
+		{
+			"Substitute": "Delegation for relations with the Palestinian Legislative Council"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

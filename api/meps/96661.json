@@ -1,0 +1,22 @@
+{
+	"id": "96661",
+	"fullName": "Krisztina MORVAI",
+	"countryCode": "hu",
+	"countryLabel": "Hungary",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_hu.gif",
+	"politicalGroupCode": "ni",
+	"politicalGroupLabel": "Non-attached Members",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_ni.png",
+	"nationalPoliticalGroupLabel": "Jobbik Magyarországért Mozgalom",
+	"email": "krisztina.morvai@europarl.europa.eu",
+	"webPage": "http://www.morvaikrisztina.hu",
+	"facebookPageUrl": "https://www.facebook.com/morvai.krisztina?sk=wall",
+	"roles": [
+		{
+			"Substitute": "Committee on Employment and Social Affairs"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

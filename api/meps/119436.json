@@ -1,0 +1,24 @@
+{
+	"id": "119436",
+	"fullName": "Ivana MALETIĆ",
+	"countryCode": "hr",
+	"countryLabel": "Croatia",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_hr.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Hrvatska demokratska zajednica",
+	"email": "ivana.maletic@europarl.europa.eu",
+	"facebookPageUrl": "https://www.facebook.com/ivana.maletic.cro",
+	"roles": [
+		{
+			"youtubeURL": "https://www.youtube.com/user/MEPOfficeMaletic"
+		},
+		{
+			"Substitute": "Committee on Regional Development"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

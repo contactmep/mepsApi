@@ -1,0 +1,20 @@
+{
+	"id": "124813",
+	"fullName": "Dario TAMBURRANO",
+	"countryCode": "it",
+	"countryLabel": "Italy",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_it.gif",
+	"politicalGroupCode": "efd",
+	"politicalGroupLabel": "Europe of Freedom and Direct Democracy Group",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_efd.png",
+	"nationalPoliticalGroupLabel": "Movimento 5 Stelle",
+	"email": "dario.tamburrano@europarl.europa.eu",
+	"roles": [
+		{
+			"Member": "Delegation to the EU-Russia Parliamentary Cooperation Committee"
+		},
+		{
+			"Substitute": "Delegation to the EU-Ukraine Parliamentary Cooperation Committee"
+		}
+	]
+}

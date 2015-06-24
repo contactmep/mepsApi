@@ -1,0 +1,25 @@
+{
+	"id": "96955",
+	"fullName": "Catherine BEARDER",
+	"countryCode": "gb",
+	"countryLabel": "United Kingdom",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_gb.gif",
+	"politicalGroupCode": "aldeadle",
+	"politicalGroupLabel": "Group of the Alliance of Liberals and Democrats for Europe",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_aldeadle.png",
+	"nationalPoliticalGroupLabel": "Liberal Democrats",
+	"email": "catherine.bearder@europarl.europa.eu",
+	"webPage": "http://www.bearder.eu",
+	"twitterUrl": "https://twitter.com/catherinemep",
+	"roles": [
+		{
+			"Member": "Parliament's Bureau"
+		},
+		{
+			"Substitute": "Committee on Development"
+		},
+		{
+			"Quaestor": "European Parliament"
+		}
+	]
+}

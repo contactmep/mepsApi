@@ -1,0 +1,23 @@
+{
+	"id": "96787",
+	"fullName": "Herbert DORFMANN",
+	"countryCode": "it",
+	"countryLabel": "Italy",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_it.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Südtiroler Volkspartei (Partito popolare sudtirolese)",
+	"email": "herbert.dorfmann@europarl.europa.eu",
+	"webPage": "http://www.herbert-dorfmann.eu",
+	"facebookPageUrl": "https://www.facebook.com/1560429730868291",
+	"twitterUrl": "https://twitter.com/HerbertDorfmann",
+	"roles": [
+		{
+			"Member": "Committee on Agriculture and Rural Development"
+		},
+		{
+			"Substitute": "Committee on the Environment, Public Health and Food Safety"
+		}
+	]
+}

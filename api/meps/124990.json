@@ -1,0 +1,24 @@
+{
+	"id": "124990",
+	"fullName": "Lars ADAKTUSSON",
+	"countryCode": "se",
+	"countryLabel": "Sweden",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_se.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Kristdemokraterna",
+	"email": "lars.adaktusson@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/Ladaktusson",
+	"roles": [
+		{
+			"Vice-Chair": "Delegation for relations with Afghanistan"
+		},
+		{
+			"Substitute": "Committee on Transport and Tourism"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

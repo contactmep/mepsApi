@@ -1,0 +1,22 @@
+{
+	"id": "28135",
+	"fullName": "György SCHÖPFLIN",
+	"countryCode": "hu",
+	"countryLabel": "Hungary",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_hu.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Fidesz-Magyar Polgári Szövetség-Keresztény Demokrata Néppárt",
+	"email": "gyorgy.schopflin@europarl.europa.eu",
+	"facebookPageUrl": "https://www.facebook.com/pages/Sch%C3%B6pflin-Gy%C3%B6rgy/425842774175213?ref=hl&focus_composer=true",
+	"twitterUrl": "https://twitter.com/schopflinMEP",
+	"roles": [
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Substitute": "Committee on Foreign Affairs"
+		}
+	]
+}

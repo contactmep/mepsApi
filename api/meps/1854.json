@@ -1,0 +1,26 @@
+{
+	"id": "1854",
+	"fullName": "Constanze KREHL",
+	"countryCode": "de",
+	"countryLabel": "Germany",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_de.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Sozialdemokratische Partei Deutschlands",
+	"email": "constanze.krehl@europarl.europa.eu",
+	"webPage": "http://www.constanze-krehl.de/",
+	"facebookPageUrl": "facebook.com/krehlconstanze",
+	"twitterUrl": "http://twitter.com/constanzekrehl",
+	"roles": [
+		{
+			"Member": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament"
+		},
+		{
+			"Chair": "Delegation to the EU-Chile Joint Parliamentary Committee"
+		},
+		{
+			"Substitute": "Delegation for relations with the United States"
+		}
+	]
+}

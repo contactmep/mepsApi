@@ -1,0 +1,22 @@
+{
+	"id": "96744",
+	"fullName": "José BOVÉ",
+	"countryCode": "fr",
+	"countryLabel": "France",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_fr.gif",
+	"politicalGroupCode": "greensefa",
+	"politicalGroupLabel": "Group of the Greens/European Free Alliance",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_greensefa.png",
+	"nationalPoliticalGroupLabel": "Europe Écologie",
+	"email": "jose.bove@europarl.europa.eu",
+	"facebookPageUrl": "https://www.facebook.com/pages/Jos%C3%A9-Bov%C3%A9/117329398312147#!/pages/Jos%C3%A9-Bov%C3%A9/117329398312147?sk=wall",
+	"twitterUrl": "http://twitter.com/josebove",
+	"roles": [
+		{
+			"Substitute": "Committee on International Trade"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

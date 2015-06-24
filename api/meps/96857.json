@@ -1,0 +1,22 @@
+{
+	"id": "96857",
+	"fullName": "Cătălin Sorin IVAN",
+	"countryCode": "ro",
+	"countryLabel": "Romania",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_ro.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Partidul Social Democrat",
+	"email": "catalin-sorin.ivan@europarl.europa.eu",
+	"webPage": "http://www.catalinivan.ro",
+	"twitterUrl": "http://twitter.com/Catalin_Ivan",
+	"roles": [
+		{
+			"Substitute": "Delegation to the EU-Ukraine Parliamentary Cooperation Committee"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

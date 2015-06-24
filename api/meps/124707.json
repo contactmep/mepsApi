@@ -1,0 +1,24 @@
+{
+	"id": "124707",
+	"fullName": "Petr JEŽEK",
+	"countryCode": "cz",
+	"countryLabel": "Czech Republic",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_cz.gif",
+	"politicalGroupCode": "aldeadle",
+	"politicalGroupLabel": "Group of the Alliance of Liberals and Democrats for Europe",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_aldeadle.png",
+	"nationalPoliticalGroupLabel": "ANO 2011",
+	"email": "petr.jezek@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/JezekCZ",
+	"roles": [
+		{
+			"Member": "Group of the Alliance of Liberals and Democrats for Europe"
+		},
+		{
+			"Chair": "Delegation for relations with Japan"
+		},
+		{
+			"Substitute": "Delegation to the ACP-EU Joint Parliamentary Assembly"
+		}
+	]
+}

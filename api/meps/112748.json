@@ -1,0 +1,22 @@
+{
+	"id": "112748",
+	"fullName": "Biljana BORZAN",
+	"countryCode": "hr",
+	"countryLabel": "Croatia",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_hr.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Socijaldemokratska partija Hrvatske",
+	"email": "biljana.borzan@europarl.europa.eu",
+	"facebookPageUrl": "https://www.facebook.com/pages/Biljana-Borzan/478557245556978?ref=hl#!/pages/Biljana-Borzan/478557245556978",
+	"twitterUrl": "https://twitter.com/BiljanaBorzan",
+	"roles": [
+		{
+			"Substitute": "Committee on Women's Rights and Gender Equality"
+		},
+		{
+			"Member": "Committee on the Environment, Public Health and Food Safety"
+		}
+	]
+}

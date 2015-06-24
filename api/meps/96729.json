@@ -1,0 +1,25 @@
+{
+	"id": "96729",
+	"fullName": "Santiago FISAS AYXELÀ",
+	"countryCode": "es",
+	"countryLabel": "Spain",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_es.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Partido Popular",
+	"email": "santiago.fisasayxela@europarl.europa.eu",
+	"facebookPageUrl": "https://www.facebook.com/santi.fisas",
+	"twitterUrl": "https://twitter.com/SantiagoFisas",
+	"roles": [
+		{
+			"youtubeURL": "http://www.youtube.com/user/santifisaseuropa/"
+		},
+		{
+			"Member": "Committee on International Trade"
+		},
+		{
+			"Substitute": "Committee on Culture and Education"
+		}
+	]
+}

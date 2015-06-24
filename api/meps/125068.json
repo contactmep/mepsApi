@@ -1,0 +1,23 @@
+{
+	"id": "125068",
+	"fullName": "Manolis KEFALOGIANNIS",
+	"countryCode": "gr",
+	"countryLabel": "Greece",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_gr.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Nea Demokratia",
+	"email": "manolis.kefalogiannis@europarl.europa.eu",
+	"roles": [
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Chair": "Delegation to the EU-Turkey Joint Parliamentary Committee"
+		},
+		{
+			"Substitute": "Delegation for relations with the Arab Peninsula"
+		}
+	]
+}

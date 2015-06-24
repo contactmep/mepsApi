@@ -1,0 +1,21 @@
+{
+	"id": "124732",
+	"fullName": "Angélique DELAHAYE",
+	"countryCode": "fr",
+	"countryLabel": "France",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_fr.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Les Républicains",
+	"email": "angelique.delahaye@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/Delahaye_Europe",
+	"roles": [
+		{
+			"Substitute": "Committee on Agriculture and Rural Development"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

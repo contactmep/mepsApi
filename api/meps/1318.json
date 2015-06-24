@@ -1,0 +1,25 @@
+{
+	"id": "1318",
+	"fullName": "James NICHOLSON",
+	"countryCode": "gb",
+	"countryLabel": "United Kingdom",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_gb.gif",
+	"politicalGroupCode": "ecr",
+	"politicalGroupLabel": "European Conservatives and Reformists Group",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_ecr.png",
+	"nationalPoliticalGroupLabel": "Ulster Unionist Party",
+	"email": "james.nicholson@europarl.europa.eu",
+	"facebookPageUrl": "http://www.facebook.com/jimnicholsonmep",
+	"twitterUrl": "http://twitter.com/#!/JimNicholsonMEP",
+	"roles": [
+		{
+			"Member of the Bureau": "European Conservatives and Reformists Group"
+		},
+		{
+			"Substitute": "Committee on the Environment, Public Health and Food Safety"
+		},
+		{
+			"Member": "Ulster Unionist Party"
+		}
+	]
+}

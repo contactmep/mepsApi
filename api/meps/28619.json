@@ -1,0 +1,26 @@
+{
+	"id": "28619",
+	"fullName": "Tatjana ŽDANOKA",
+	"countryCode": "lv",
+	"countryLabel": "Latvia",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_lv.gif",
+	"politicalGroupCode": "greensefa",
+	"politicalGroupLabel": "Group of the Greens/European Free Alliance",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_greensefa.png",
+	"nationalPoliticalGroupLabel": "Latvijas Krievu savienība",
+	"email": "tatjana.zdanoka@europarl.europa.eu",
+	"webPage": "http://www.tatjanazdanok.lv",
+	"facebookPageUrl": "http://www.facebook.com/pages/Tatjana-%C5%BDdanoka/146160892112506",
+	"twitterUrl": "http://twitter.com/#!/Tatjana_Zdanoka",
+	"roles": [
+		{
+			"Vice-Chair": "Delegation to the EU-Kazakhstan, EU-Kyrgyzstan, EU-Uzbekistan and EU-Tajikistan Parliamentary Cooperation Committees and for relations with Turkmenistan and Mongolia"
+		},
+		{
+			"Member": "Group of the Greens/European Free Alliance"
+		},
+		{
+			"Substitute": "Delegation for relations with Belarus"
+		}
+	]
+}

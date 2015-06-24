@@ -1,0 +1,21 @@
+{
+	"id": "1922",
+	"fullName": "Thomas MANN",
+	"countryCode": "de",
+	"countryLabel": "Germany",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_de.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Christlich Demokratische Union Deutschlands",
+	"email": "thomas.mann@europarl.europa.eu",
+	"webPage": "http://www.mann-europa.de",
+	"roles": [
+		{
+			"Substitute": "Special Committee on Tax Rulings and Other Measures Similar in Nature or Effect"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

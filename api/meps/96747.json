@@ -1,0 +1,26 @@
+{
+	"id": "96747",
+	"fullName": "Arnaud DANJEAN",
+	"countryCode": "fr",
+	"countryLabel": "France",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_fr.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Les Républicains",
+	"email": "arnaud.danjean@europarl.europa.eu",
+	"webPage": "http://www.arnaud-danjean.fr/",
+	"facebookPageUrl": "https://www.facebook.com/pages/Arnaud-Danjean-page-officielle/136970386414559",
+	"twitterUrl": "https://twitter.com/#!/ArnaudDanjean/",
+	"roles": [
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Substitute": "Committee on Budgets"
+		},
+		{
+			"Vice-Chair": "Delegation for relations with the NATO Parliamentary Assembly"
+		}
+	]
+}

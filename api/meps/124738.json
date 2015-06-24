@@ -1,0 +1,21 @@
+{
+	"id": "124738",
+	"fullName": "Gilles LEBRETON",
+	"countryCode": "fr",
+	"countryLabel": "France",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_fr.gif",
+	"politicalGroupCode": "enf",
+	"politicalGroupLabel": "Europe of Nations and Freedom",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_enf.png",
+	"nationalPoliticalGroupLabel": "Front national/ Rassemblement Bleu Marine",
+	"email": "gilles.lebreton@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/Gilles_Lebreton",
+	"roles": [
+		{
+			"Substitute": "Delegation to the Parliamentary Assembly of the Union for the Mediterranean"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

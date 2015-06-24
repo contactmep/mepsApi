@@ -1,0 +1,25 @@
+{
+	"id": "96833",
+	"fullName": "Jens GEIER",
+	"countryCode": "de",
+	"countryLabel": "Germany",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_de.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Sozialdemokratische Partei Deutschlands",
+	"email": "jens.geier@europarl.europa.eu",
+	"webPage": "http://www.jensgeier.eu",
+	"twitterUrl": "http://twitter.com/#!/EuropaJens",
+	"roles": [
+		{
+			"Member": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament"
+		},
+		{
+			"Substitute": "Delegation for relations with Japan"
+		},
+		{
+			"Vice-Chair": "Committee on Budgets"
+		}
+	]
+}

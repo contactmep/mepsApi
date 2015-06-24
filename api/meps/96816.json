@@ -1,0 +1,41 @@
+{
+	"id": "96816",
+	"fullName": "Giovanni LA VIA",
+	"countryCode": "it",
+	"countryLabel": "Italy",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_it.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Nuovo Centrodestra - Unione di Centro",
+	"email": "giovanni.lavia@europarl.europa.eu",
+	"webPage": "http://www.giovannilavia.eu",
+	"facebookPageUrl": "http://www.facebook.com/giovannilaviaeuroparl",
+	"twitterUrl": "http://twitter.com/#!/GiovanniLaVia",
+	"roles": [
+		{
+			"additionalSite1": "http://www.linkedin.com/profile/view?id=152591337&trk=tab_pro"
+		},
+		{
+			"additionalSite2": "http://pinterest.com/search/people/?q=giovanni+la+via"
+		},
+		{
+			"googlePlusId": "http://www.facebook.com/giovannilaviaeuroparl"
+		},
+		{
+			"flickrURL": "http://www.flickr.com/photos/giovannilavia/"
+		},
+		{
+			"youtubeURL": "http://www.youtube.com/user/GiovanniLaVia"
+		},
+		{
+			"Substitute": "Delegation for relations with the Maghreb countries and the Arab Maghreb Union"
+		},
+		{
+			"Member": "Group of the European People's Party (Christian Democrats)"
+		},
+		{
+			"Chair": "Committee on the Environment, Public Health and Food Safety"
+		}
+	]
+}

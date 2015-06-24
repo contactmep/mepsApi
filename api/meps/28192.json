@@ -1,0 +1,21 @@
+{
+	"id": "28192",
+	"fullName": "Vladimír MAŇKA",
+	"countryCode": "sk",
+	"countryLabel": "Slovakia",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_sk.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "SMER-Sociálna demokracia",
+	"email": "vladimir.manka@europarl.europa.eu",
+	"webPage": "http://www.europoslanec.sk",
+	"roles": [
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Substitute": "Delegation to the EU-Serbia Stabilisation and Association Parliamentary Committee"
+		}
+	]
+}

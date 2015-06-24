@@ -1,0 +1,20 @@
+{
+	"id": "124765",
+	"fullName": "Joëlle MÉLIN",
+	"countryCode": "fr",
+	"countryLabel": "France",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_fr.gif",
+	"politicalGroupCode": "enf",
+	"politicalGroupLabel": "Europe of Nations and Freedom",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_enf.png",
+	"nationalPoliticalGroupLabel": "Front national",
+	"email": "joelle.melin@europarl.europa.eu",
+	"roles": [
+		{
+			"Substitute": "Committee on the Environment, Public Health and Food Safety"
+		},
+		{
+			"Member": "Non-attached Members"
+		}
+	]
+}

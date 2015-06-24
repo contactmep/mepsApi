@@ -1,0 +1,21 @@
+{
+	"id": "124987",
+	"fullName": "Liadh NÍ RIADA",
+	"countryCode": "ie",
+	"countryLabel": "Ireland",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_ie.gif",
+	"politicalGroupCode": "guengl",
+	"politicalGroupLabel": "Confederal Group of the European United Left - Nordic Green Left",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_guengl.png",
+	"nationalPoliticalGroupLabel": "Sinn Féin",
+	"email": "liadh.niriada@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/NiRiada4Europe",
+	"roles": [
+		{
+			"Member": "Confederal Group of the European United Left - Nordic Green Left"
+		},
+		{
+			"Substitute": "Committee on Culture and Education"
+		}
+	]
+}

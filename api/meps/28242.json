@@ -1,0 +1,26 @@
+{
+	"id": "28242",
+	"fullName": "Alexander Graf LAMBSDORFF",
+	"countryCode": "de",
+	"countryLabel": "Germany",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_de.gif",
+	"politicalGroupCode": "aldeadle",
+	"politicalGroupLabel": "Group of the Alliance of Liberals and Democrats for Europe",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_aldeadle.png",
+	"nationalPoliticalGroupLabel": "Freie Demokratische Partei",
+	"email": "alexandergraf.lambsdorff@europarl.europa.eu",
+	"webPage": "http://www.lambsdorffdirekt.de",
+	"facebookPageUrl": "http://www.facebook.com/alexander.graf.lambsdorff",
+	"twitterUrl": "http://twitter.com/#!/Lambsdorff_live",
+	"roles": [
+		{
+			"Member": "Parliament's Bureau"
+		},
+		{
+			"Substitute": "Committee on Foreign Affairs"
+		},
+		{
+			"Vice-President": "European Parliament"
+		}
+	]
+}

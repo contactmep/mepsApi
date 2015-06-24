@@ -1,0 +1,22 @@
+{
+	"id": "103488",
+	"fullName": "Sergio GUTIÉRREZ PRIETO",
+	"countryCode": "es",
+	"countryLabel": "Spain",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_es.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Partido Socialista Obrero Español",
+	"email": "sergio.gutierrezprieto@europarl.europa.eu",
+	"webPage": "http://www.sergiogutierrez.es",
+	"twitterUrl": "https://twitter.com/Sergio_GP",
+	"roles": [
+		{
+			"Substitute": "Committee on Employment and Social Affairs"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

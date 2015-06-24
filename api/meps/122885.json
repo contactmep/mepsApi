@@ -1,0 +1,21 @@
+{
+	"id": "122885",
+	"fullName": "Rina Ronja KARI",
+	"countryCode": "dk",
+	"countryLabel": "Denmark",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_dk.gif",
+	"politicalGroupCode": "guengl",
+	"politicalGroupLabel": "Confederal Group of the European United Left - Nordic Green Left",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_guengl.png",
+	"nationalPoliticalGroupLabel": "Folkebevægelsen mod EU",
+	"email": "rinaronja.kari@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/rinakari",
+	"roles": [
+		{
+			"Substitute": "Committee on Economic and Monetary Affairs"
+		},
+		{
+			"Member": "Confederal Group of the European United Left - Nordic Green Left"
+		}
+	]
+}

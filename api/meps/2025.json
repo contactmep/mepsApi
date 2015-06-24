@@ -1,0 +1,25 @@
+{
+	"id": "2025",
+	"fullName": "Françoise GROSSETÊTE",
+	"countryCode": "fr",
+	"countryLabel": "France",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_fr.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Les Républicains",
+	"email": "francoise.grossetete@europarl.europa.eu",
+	"webPage": "http://www.francoise-grossetete.eu",
+	"twitterUrl": "http://twitter.com/#!/grossetetef",
+	"roles": [
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Substitute": "Committee on Industry, Research and Energy"
+		},
+		{
+			"Vice-Chair": "Group of the European People's Party (Christian Democrats)"
+		}
+	]
+}

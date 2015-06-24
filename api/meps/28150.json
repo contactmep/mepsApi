@@ -1,0 +1,21 @@
+{
+	"id": "28150",
+	"fullName": "Kinga GÁL",
+	"countryCode": "hu",
+	"countryLabel": "Hungary",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_hu.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Fidesz-Magyar Polgári Szövetség-Keresztény Demokrata Néppárt",
+	"email": "kinga.gal@europarl.europa.eu",
+	"webPage": "http://www.galkinga.hu",
+	"roles": [
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Vice-Chair": "Committee on Civil Liberties, Justice and Home Affairs"
+		}
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"id": "96771",
+	"fullName": "Jarosław KALINOWSKI",
+	"countryCode": "pl",
+	"countryLabel": "Poland",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_pl.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Polskie Stronnictwo Ludowe",
+	"email": "jaroslaw.kalinowski@europarl.europa.eu",
+	"webPage": "http://www.kalinowski.pl/",
+	"facebookPageUrl": "http://www.facebook.com/pages/Jaros%C5%82aw-Kalinowski/150155298350245",
+	"roles": [
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Substitute": "Delegation to the EU-Serbia Stabilisation and Association Parliamentary Committee"
+		}
+	]
+}

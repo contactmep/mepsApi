@@ -1,0 +1,25 @@
+{
+	"id": "97014",
+	"fullName": "Karin KADENBACH",
+	"countryCode": "at",
+	"countryLabel": "Austria",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_at.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Sozialdemokratische Partei Österreichs",
+	"email": "karin.kadenbach@europarl.europa.eu",
+	"webPage": "http://www.karinkadenbach.at/",
+	"twitterUrl": "http://twitter.com/#!/karinkadenbach",
+	"roles": [
+		{
+			"Vice-Chair": "Delegation for relations with Japan"
+		},
+		{
+			"Substitute": "Delegation for relations with the Korean Peninsula"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

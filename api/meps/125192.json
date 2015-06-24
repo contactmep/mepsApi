@@ -1,0 +1,21 @@
+{
+	"id": "125192",
+	"fullName": "Curzio MALTESE",
+	"countryCode": "it",
+	"countryLabel": "Italy",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_it.gif",
+	"politicalGroupCode": "guengl",
+	"politicalGroupLabel": "Confederal Group of the European United Left - Nordic Green Left",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_guengl.png",
+	"nationalPoliticalGroupLabel": "Lista Tsipras-L'Altra Europa",
+	"email": "curzio.maltese@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/curziomaltesetw",
+	"roles": [
+		{
+			"Member": "Confederal Group of the European United Left - Nordic Green Left"
+		},
+		{
+			"Substitute": "Committee on Transport and Tourism"
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"id": "124933",
+	"fullName": "Ernest MARAGALL",
+	"countryCode": "es",
+	"countryLabel": "Spain",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_es.gif",
+	"politicalGroupCode": "greensefa",
+	"politicalGroupLabel": "Group of the Greens/European Free Alliance",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_greensefa.png",
+	"nationalPoliticalGroupLabel": "Nova Esquerra Catalana",
+	"email": "ernest.maragall@europarl.europa.eu",
+	"roles": [
+		{
+			"Substitute": "Committee on Culture and Education"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

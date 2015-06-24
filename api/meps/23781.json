@@ -1,0 +1,24 @@
+{
+	"id": "23781",
+	"fullName": "Janusz LEWANDOWSKI",
+	"countryCode": "pl",
+	"countryLabel": "Poland",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_pl.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Platforma Obywatelska",
+	"email": "janusz.lewandowski@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/J_Lewandowski",
+	"roles": [
+		{
+			"Substitute": "Delegation for relations with the People's Republic of China"
+		},
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Chair": "Delegation for relations with Iran"
+		}
+	]
+}

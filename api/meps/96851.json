@@ -1,0 +1,24 @@
+{
+	"id": "96851",
+	"fullName": "Thomas HÄNDEL",
+	"countryCode": "de",
+	"countryLabel": "Germany",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_de.gif",
+	"politicalGroupCode": "guengl",
+	"politicalGroupLabel": "Confederal Group of the European United Left - Nordic Green Left",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_guengl.png",
+	"nationalPoliticalGroupLabel": "DIE LINKE.",
+	"email": "thomas.haendel@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/thaendel",
+	"roles": [
+		{
+			"Substitute": "Committee on the Internal Market and Consumer Protection"
+		},
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Chair": "Committee on Employment and Social Affairs"
+		}
+	]
+}

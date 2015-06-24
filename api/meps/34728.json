@@ -1,0 +1,29 @@
+{
+	"id": "34728",
+	"fullName": "Matthias GROOTE",
+	"countryCode": "de",
+	"countryLabel": "Germany",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_de.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Sozialdemokratische Partei Deutschlands",
+	"email": "matthias.groote@europarl.europa.eu",
+	"webPage": "http://www.matthias-groote.eu",
+	"facebookPageUrl": "http://www.facebook.com/groote.eu",
+	"twitterUrl": "http://twitter.com/#!/Groote",
+	"roles": [
+		{
+			"flickrURL": "http://www.flickr.com/photos/groote/"
+		},
+		{
+			"youtubeURL": "http://www.youtube.com/user/matthiasgroote?feature=watch"
+		},
+		{
+			"Substitute": "Delegation for relations with Belarus"
+		},
+		{
+			"Member": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament"
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"id": "127330",
+	"fullName": "Tania GONZÁLEZ PEÑAS",
+	"countryCode": "es",
+	"countryLabel": "Spain",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_es.gif",
+	"politicalGroupCode": "guengl",
+	"politicalGroupLabel": "Confederal Group of the European United Left - Nordic Green Left",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_guengl.png",
+	"nationalPoliticalGroupLabel": "PODEMOS",
+	"email": "tania.gonzalezpenas@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/TaniaGonzalezPs",
+	"roles": [
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Substitute": "Committee on Employment and Social Affairs"
+		},
+		{
+			"Vice-Chair": "Delegation for relations with the countries of the Andean Community"
+		}
+	]
+}

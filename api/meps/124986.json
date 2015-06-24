@@ -1,0 +1,21 @@
+{
+	"id": "124986",
+	"fullName": "Matt CARTHY",
+	"countryCode": "ie",
+	"countryLabel": "Ireland",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_ie.gif",
+	"politicalGroupCode": "guengl",
+	"politicalGroupLabel": "Confederal Group of the European United Left - Nordic Green Left",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_guengl.png",
+	"nationalPoliticalGroupLabel": "Sinn Féin",
+	"email": "matt.carthy@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/mattcarthy",
+	"roles": [
+		{
+			"Substitute": "Committee on Economic and Monetary Affairs"
+		},
+		{
+			"Member": "Delegation for relations with the United States"
+		}
+	]
+}

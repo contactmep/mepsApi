@@ -1,0 +1,25 @@
+{
+	"id": "2341",
+	"fullName": "Michael GAHLER",
+	"countryCode": "de",
+	"countryLabel": "Germany",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_de.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Christlich Demokratische Union Deutschlands",
+	"email": "michael.gahler@europarl.europa.eu",
+	"webPage": "http://www.michael-gahler.eu",
+	"facebookPageUrl": "http://www.facebook.com/pages/Michael-Gahler/107905435929497",
+	"roles": [
+		{
+			"Member": "Committee on Foreign Affairs"
+		},
+		{
+			"Chair": "Delegation for relations with the Pan-African Parliament"
+		},
+		{
+			"Substitute": "Committee on Transport and Tourism"
+		}
+	]
+}

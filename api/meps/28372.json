@@ -1,0 +1,31 @@
+{
+	"id": "28372",
+	"fullName": "Ryszard CZARNECKI",
+	"countryCode": "pl",
+	"countryLabel": "Poland",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_pl.gif",
+	"politicalGroupCode": "ecr",
+	"politicalGroupLabel": "European Conservatives and Reformists Group",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_ecr.png",
+	"nationalPoliticalGroupLabel": "Prawo i Sprawiedliwość",
+	"email": "ryszard.czarnecki@europarl.europa.eu",
+	"webPage": "http://www.RyszardCzarnecki.pl",
+	"twitterUrl": "https://twitter.com/#!/r_czarnecki",
+	"roles": [
+		{
+			"Substitute": "Committee on Foreign Affairs"
+		},
+		{
+			"Member": "Parliament's Bureau"
+		},
+		{
+			"Vice-Chair": "Delegation to the Euronest Parliamentary Assembly"
+		},
+		{
+			"Member of the Bureau": "European Conservatives and Reformists Group"
+		},
+		{
+			"Vice-President": "European Parliament"
+		}
+	]
+}

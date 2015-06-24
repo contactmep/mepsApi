@@ -1,0 +1,24 @@
+{
+	"id": "23704",
+	"fullName": "Jiří MAŠTÁLKA",
+	"countryCode": "cz",
+	"countryLabel": "Czech Republic",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_cz.gif",
+	"politicalGroupCode": "guengl",
+	"politicalGroupLabel": "Confederal Group of the European United Left - Nordic Green Left",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_guengl.png",
+	"nationalPoliticalGroupLabel": "Komunistická strana Čech a Moravy",
+	"email": "jiri.mastalka@europarl.europa.eu",
+	"webPage": "http://www.mastalka.cz",
+	"roles": [
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Substitute": "Delegation to the EU-Moldova Parliamentary Cooperation Committee"
+		},
+		{
+			"Vice-Chair": "Delegation to the EU-Russia Parliamentary Cooperation Committee"
+		}
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"id": "125065",
+	"fullName": "Elissavet VOZEMBERG",
+	"countryCode": "gr",
+	"countryLabel": "Greece",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_gr.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Nea Demokratia",
+	"email": "elissavet.vozemberg@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/vozemberg",
+	"roles": [
+		{
+			"Substitute": "Delegation for relations with the People's Republic of China"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

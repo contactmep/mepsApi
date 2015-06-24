@@ -1,0 +1,20 @@
+{
+	"id": "124713",
+	"fullName": "Tomáš ZDECHOVSKÝ",
+	"countryCode": "cz",
+	"countryLabel": "Czech Republic",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_cz.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Křesťanská a demokratická unie - Československá strana lidová",
+	"email": "tomas.zdechovsky@europarl.europa.eu",
+	"roles": [
+		{
+			"Substitute": "Delegation for relations with Japan"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"id": "1928",
+	"fullName": "Werner LANGEN",
+	"countryCode": "de",
+	"countryLabel": "Germany",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_de.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Christlich Demokratische Union Deutschlands",
+	"email": "werner.langen@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/langen_werner",
+	"roles": [
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Chair": "Delegation for relations with the countries of Southeast Asia and the Association of Southeast Asian Nations (ASEAN)"
+		},
+		{
+			"Substitute": "Committee on Industry, Research and Energy"
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"id": "4556",
+	"fullName": "Nirj DEVA",
+	"countryCode": "gb",
+	"countryLabel": "United Kingdom",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_gb.gif",
+	"politicalGroupCode": "ecr",
+	"politicalGroupLabel": "European Conservatives and Reformists Group",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_ecr.png",
+	"nationalPoliticalGroupLabel": "Conservative Party",
+	"email": "nirj.deva@europarl.europa.eu",
+	"webPage": "http://www.nirjdeva.com",
+	"twitterUrl": "https://twitter.com/NirjDeva",
+	"roles": [
+		{
+			"Member": "European Conservatives and Reformists Group"
+		},
+		{
+			"Chair": "Delegation for relations with the Korean Peninsula"
+		},
+		{
+			"Substitute": "Committee on Foreign Affairs"
+		},
+		{
+			"Vice-Chair": "Committee on Development"
+		}
+	]
+}

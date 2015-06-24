@@ -1,0 +1,23 @@
+{
+	"id": "96884",
+	"fullName": "Philippe JUVIN",
+	"countryCode": "fr",
+	"countryLabel": "France",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_fr.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Les Républicains",
+	"email": "philippe.juvin@europarl.europa.eu",
+	"webPage": "http://www.philippejuvin.fr/",
+	"facebookPageUrl": "http://www.facebook.com/philippe.juvin#!/pages/Philippe-Juvin/10494001458",
+	"twitterUrl": "http://twitter.com/#!/philippejuvin",
+	"roles": [
+		{
+			"Substitute": "Delegation for relations with Iran"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

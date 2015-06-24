@@ -1,0 +1,23 @@
+{
+	"id": "96742",
+	"fullName": "Jean-Luc MÉLENCHON",
+	"countryCode": "fr",
+	"countryLabel": "France",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_fr.gif",
+	"politicalGroupCode": "guengl",
+	"politicalGroupLabel": "Confederal Group of the European United Left - Nordic Green Left",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_guengl.png",
+	"nationalPoliticalGroupLabel": "Front de Gauche",
+	"email": "jean-luc.melenchon@europarl.europa.eu",
+	"webPage": "http://www.jean-luc-melenchon.fr",
+	"facebookPageUrl": "https://www.facebook.com/#!/JLMelenchon",
+	"twitterUrl": "http://twitter.com/melenchon2012",
+	"roles": [
+		{
+			"Substitute": "Delegation for relations with the countries of the Andean Community"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

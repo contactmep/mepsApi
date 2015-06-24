@@ -1,0 +1,22 @@
+{
+	"id": "28238",
+	"fullName": "Michael CRAMER",
+	"countryCode": "de",
+	"countryLabel": "Germany",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_de.gif",
+	"politicalGroupCode": "greensefa",
+	"politicalGroupLabel": "Group of the Greens/European Free Alliance",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_greensefa.png",
+	"nationalPoliticalGroupLabel": "Bündnis 90/Die Grünen",
+	"email": "michael.cramer@europarl.europa.eu",
+	"webPage": "http://www.michael-cramer.eu/",
+	"twitterUrl": "https://twitter.com/MepMCramer",
+	"roles": [
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Chair": "Committee on Transport and Tourism"
+		}
+	]
+}

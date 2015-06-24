@@ -1,0 +1,22 @@
+{
+	"id": "96940",
+	"fullName": "Gerben-Jan GERBRANDY",
+	"countryCode": "nl",
+	"countryLabel": "Netherlands",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_nl.gif",
+	"politicalGroupCode": "aldeadle",
+	"politicalGroupLabel": "Group of the Alliance of Liberals and Democrats for Europe",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_aldeadle.png",
+	"nationalPoliticalGroupLabel": "Democraten 66",
+	"email": "gerben-jan.gerbrandy@europarl.europa.eu",
+	"webPage": "http://www.gerbenjangerbrandy.nl",
+	"twitterUrl": "http://twitter.com/#!/Gerbrandy",
+	"roles": [
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Substitute": "Committee on Industry, Research and Energy"
+		}
+	]
+}

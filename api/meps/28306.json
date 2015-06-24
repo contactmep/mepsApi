@@ -1,0 +1,23 @@
+{
+	"id": "28306",
+	"fullName": "Ana GOMES",
+	"countryCode": "pt",
+	"countryLabel": "Portugal",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_pt.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Partido Socialista",
+	"email": "anamaria.gomes@europarl.europa.eu",
+	"webPage": "http://www.anagomes.eu",
+	"facebookPageUrl": "https://www.facebook.com/pages/Ana-Gomes/199168490096879",
+	"twitterUrl": "http://twitter.com/#!/Anargomes",
+	"roles": [
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Substitute": "Delegation for relations with Iraq"
+		}
+	]
+}

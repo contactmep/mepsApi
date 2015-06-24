@@ -1,0 +1,24 @@
+{
+	"id": "117477",
+	"fullName": "Mark DEMESMAEKER",
+	"countryCode": "be",
+	"countryLabel": "Belgium",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_be.gif",
+	"politicalGroupCode": "ecr",
+	"politicalGroupLabel": "European Conservatives and Reformists Group",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_ecr.png",
+	"nationalPoliticalGroupLabel": "Nieuw-Vlaamse Alliantie",
+	"email": "mark.demesmaeker@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/markdemesmaeker",
+	"roles": [
+		{
+			"Member": "Committee on Foreign Affairs"
+		},
+		{
+			"Member of the Bureau": "European Conservatives and Reformists Group"
+		},
+		{
+			"Substitute": "Committee on the Environment, Public Health and Food Safety"
+		}
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"id": "124761",
+	"fullName": "Bernard MONOT",
+	"countryCode": "fr",
+	"countryLabel": "France",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_fr.gif",
+	"politicalGroupCode": "enf",
+	"politicalGroupLabel": "Europe of Nations and Freedom",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_enf.png",
+	"nationalPoliticalGroupLabel": "Front national",
+	"email": "bernard.monot@europarl.europa.eu",
+	"facebookPageUrl": "https://www.facebook.com/monot.bernard",
+	"twitterUrl": "https://twitter.com/bernard_monot",
+	"roles": [
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Substitute": "Delegation for relations with the Korean Peninsula"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"id": "96761",
+	"fullName": "Axel VOSS",
+	"countryCode": "de",
+	"countryLabel": "Germany",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_de.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Christlich Demokratische Union Deutschlands",
+	"email": "axel.voss@europarl.europa.eu",
+	"webPage": "http://axel-voss-europa.de",
+	"twitterUrl": "http://twitter.com/#!/AxelVossMdEP",
+	"roles": [
+		{
+			"Vice-Chair": "Committee on Legal Affairs"
+		},
+		{
+			"Substitute": "Committee on Petitions"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

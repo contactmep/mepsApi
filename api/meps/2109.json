@@ -1,0 +1,25 @@
+{
+	"id": "2109",
+	"fullName": "Brian CROWLEY",
+	"countryCode": "ie",
+	"countryLabel": "Ireland",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_ie.gif",
+	"politicalGroupCode": "ecr",
+	"politicalGroupLabel": "European Conservatives and Reformists Group",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_ecr.png",
+	"nationalPoliticalGroupLabel": "Fianna Fáil Party",
+	"email": "brian.crowley@europarl.europa.eu",
+	"webPage": "http://www.briancrowleymep.ie",
+	"facebookPageUrl": "http://www.facebook.com/briancrowleymep",
+	"roles": [
+		{
+			"Substitute": "Committee on Industry, Research and Energy"
+		},
+		{
+			"Member of the Bureau": "European Conservatives and Reformists Group"
+		},
+		{
+			"Member": "Committee on the Environment, Public Health and Food Safety"
+		}
+	]
+}

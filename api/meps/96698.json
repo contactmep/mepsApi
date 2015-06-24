@@ -1,0 +1,21 @@
+{
+	"id": "96698",
+	"fullName": "Viktor USPASKICH",
+	"countryCode": "lt",
+	"countryLabel": "Lithuania",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_lt.gif",
+	"politicalGroupCode": "aldeadle",
+	"politicalGroupLabel": "Group of the Alliance of Liberals and Democrats for Europe",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_aldeadle.png",
+	"nationalPoliticalGroupLabel": "Darbo partija",
+	"email": "viktor.uspaskich@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/ViktorUspaskich",
+	"roles": [
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Substitute": "Delegation to the EU-Russia Parliamentary Cooperation Committee"
+		}
+	]
+}

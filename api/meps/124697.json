@@ -1,0 +1,24 @@
+{
+	"id": "124697",
+	"fullName": "Kaja KALLAS",
+	"countryCode": "ee",
+	"countryLabel": "Estonia",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_ee.gif",
+	"politicalGroupCode": "aldeadle",
+	"politicalGroupLabel": "Group of the Alliance of Liberals and Democrats for Europe",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_aldeadle.png",
+	"nationalPoliticalGroupLabel": "Eesti Reformierakond",
+	"email": "kaja.kallas@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/kajakallas",
+	"roles": [
+		{
+			"Vice-Chair": "Delegation to the EU-Ukraine Parliamentary Cooperation Committee"
+		},
+		{
+			"Member": "Group of the Alliance of Liberals and Democrats for Europe"
+		},
+		{
+			"Substitute": "Committee on the Internal Market and Consumer Protection"
+		}
+	]
+}

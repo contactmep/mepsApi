@@ -1,0 +1,21 @@
+{
+	"id": "124837",
+	"fullName": "Joachim SCHUSTER",
+	"countryCode": "de",
+	"countryLabel": "Germany",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_de.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Sozialdemokratische Partei Deutschlands",
+	"email": "joachim.schuster@europarl.europa.eu",
+	"facebookPageUrl": "https://www.facebook.com/joachim.schuster.eu",
+	"roles": [
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Substitute": "Committee on Employment and Social Affairs"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"id": "96934",
+	"fullName": "Sandra KALNIETE",
+	"countryCode": "lv",
+	"countryLabel": "Latvia",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_lv.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Partija \"VIENOTĪBA\"",
+	"email": "sandra.kalniete@europarl.europa.eu",
+	"facebookPageUrl": "https://www.facebook.com/kalniete.sandra",
+	"twitterUrl": "http://twitter.com/#!/Kalniete",
+	"roles": [
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Substitute": "Delegation to the EU-Ukraine Parliamentary Cooperation Committee"
+		},
+		{
+			"Vice-Chair": "Group of the European People's Party (Christian Democrats)"
+		}
+	]
+}

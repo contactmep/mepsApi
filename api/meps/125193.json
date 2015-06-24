@@ -1,0 +1,24 @@
+{
+	"id": "125193",
+	"fullName": "Eleonora FORENZA",
+	"countryCode": "it",
+	"countryLabel": "Italy",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_it.gif",
+	"politicalGroupCode": "guengl",
+	"politicalGroupLabel": "Confederal Group of the European United Left - Nordic Green Left",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_guengl.png",
+	"nationalPoliticalGroupLabel": "Lista Tsipras-L'Altra Europa",
+	"email": "eleonora.forenza@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/eleonoraforenza",
+	"roles": [
+		{
+			"Substitute": "Committee on the Environment, Public Health and Food Safety"
+		},
+		{
+			"Vice-Chair": "Delegation to the EU-Chile Joint Parliamentary Committee"
+		},
+		{
+			"Member": "Confederal Group of the European United Left - Nordic Green Left"
+		}
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"id": "96684",
+	"fullName": "Liisa JAAKONSAARI",
+	"countryCode": "fi",
+	"countryLabel": "Finland",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_fi.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Suomen Sosialidemokraattinen Puolue/Finlands Socialdemokratiska Parti",
+	"email": "liisa.jaakonsaari@europarl.europa.eu",
+	"webPage": "http://www.liisajaakonsaari.fi/",
+	"facebookPageUrl": "https://www.facebook.com/pages/Liisa-Jaakonsaari-SDPn-presidenttiehdokkaaksi/209062879133908",
+	"twitterUrl": "http://twitter.com/Jaakonsaari",
+	"roles": [
+		{
+			"Substitute": "Delegation for relations with the Pan-African Parliament"
+		},
+		{
+			"Vice-Chair": "Delegation to the EU-Russia Parliamentary Cooperation Committee"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

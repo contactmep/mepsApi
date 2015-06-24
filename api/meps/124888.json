@@ -1,0 +1,21 @@
+{
+	"id": "124888",
+	"fullName": "Gabriele PREUSS",
+	"countryCode": "de",
+	"countryLabel": "Germany",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_de.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Sozialdemokratische Partei Deutschlands",
+	"email": "gabriele.preuss@europarl.europa.eu",
+	"facebookPageUrl": "https://www.facebook.com/gabriele.preuss.europa",
+	"roles": [
+		{
+			"Member": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament"
+		},
+		{
+			"Substitute": "Committee on the Environment, Public Health and Food Safety"
+		}
+	]
+}

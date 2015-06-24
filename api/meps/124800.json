@@ -1,0 +1,20 @@
+{
+	"id": "124800",
+	"fullName": "Flavio ZANONATO",
+	"countryCode": "it",
+	"countryLabel": "Italy",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_it.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Partito Democratico",
+	"email": "flavio.zanonato@europarl.europa.eu",
+	"roles": [
+		{
+			"Substitute": "Delegation for relations with Iran"
+		},
+		{
+			"Member": "Partito Democratico"
+		}
+	]
+}

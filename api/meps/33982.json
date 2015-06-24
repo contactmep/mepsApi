@@ -1,0 +1,25 @@
+{
+	"id": "33982",
+	"fullName": "Marian-Jean MARINESCU",
+	"countryCode": "ro",
+	"countryLabel": "Romania",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_ro.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Partidul Naţional Liberal",
+	"email": "marian-jean.marinescu@europarl.europa.eu",
+	"webPage": "http://www.marian-jean-marinescu.oltenia.ro",
+	"twitterUrl": "https://twitter.com/MarianMarinescu",
+	"roles": [
+		{
+			"Substitute": "Committee on Industry, Research and Energy"
+		},
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Vice-Chair": "Group of the European People's Party (Christian Democrats)"
+		}
+	]
+}

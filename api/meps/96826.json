@@ -1,0 +1,21 @@
+{
+	"id": "96826",
+	"fullName": "Tamás DEUTSCH",
+	"countryCode": "hu",
+	"countryLabel": "Hungary",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_hu.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Fidesz-Magyar Polgári Szövetség-Keresztény Demokrata Néppárt",
+	"email": "tamas.deutsch@europarl.europa.eu",
+	"twitterUrl": "http://twitter.com/dajcstomi",
+	"roles": [
+		{
+			"Member": "Committee on Regional Development"
+		},
+		{
+			"Substitute": "Delegation for relations with the United States"
+		}
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"id": "111014",
+	"fullName": "Josef WEIDENHOLZER",
+	"countryCode": "at",
+	"countryLabel": "Austria",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_at.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Sozialdemokratische Partei Österreichs",
+	"email": "josef.weidenholzer@europarl.europa.eu",
+	"webPage": "http://www.weidenholzer.eu",
+	"facebookPageUrl": "http://www.facebook.com/mepjoe",
+	"twitterUrl": "http://twitter.com/Weidenholzer",
+	"roles": [
+		{
+			"youtubeURL": "http://www.youtube.com/user/weidenholzer"
+		},
+		{
+			"Member": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament"
+		},
+		{
+			"Substitute": "Committee on the Internal Market and Consumer Protection"
+		}
+	]
+}

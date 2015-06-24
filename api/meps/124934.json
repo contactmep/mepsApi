@@ -1,0 +1,21 @@
+{
+	"id": "124934",
+	"fullName": "Monika VANA",
+	"countryCode": "at",
+	"countryLabel": "Austria",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_at.gif",
+	"politicalGroupCode": "greensefa",
+	"politicalGroupLabel": "Group of the Greens/European Free Alliance",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_greensefa.png",
+	"nationalPoliticalGroupLabel": "Die Grünen - Die Grüne Alternative",
+	"email": "monika.vana@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/MonikaVana",
+	"roles": [
+		{
+			"Member": "Group of the Greens/European Free Alliance"
+		},
+		{
+			"Substitute": "Committee on Employment and Social Affairs"
+		}
+	]
+}

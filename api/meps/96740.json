@@ -1,0 +1,26 @@
+{
+	"id": "96740",
+	"fullName": "Yannick JADOT",
+	"countryCode": "fr",
+	"countryLabel": "France",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_fr.gif",
+	"politicalGroupCode": "greensefa",
+	"politicalGroupLabel": "Group of the Greens/European Free Alliance",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_greensefa.png",
+	"nationalPoliticalGroupLabel": "Europe Écologie",
+	"email": "yannick.jadot@europarl.europa.eu",
+	"webPage": "http://yannickjadot.fr/",
+	"facebookPageUrl": "https://www.facebook.com/#!/pages/Yannick-Jadot/178284520599",
+	"twitterUrl": "http://twitter.com/yannickjadot",
+	"roles": [
+		{
+			"Substitute": "Committee on Industry, Research and Energy"
+		},
+		{
+			"Member": "Group of the Greens/European Free Alliance"
+		},
+		{
+			"Vice-Chair": "Committee on International Trade"
+		}
+	]
+}

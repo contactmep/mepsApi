@@ -1,0 +1,21 @@
+{
+	"id": "124752",
+	"fullName": "Aymeric CHAUPRADE",
+	"countryCode": "fr",
+	"countryLabel": "France",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_fr.gif",
+	"politicalGroupCode": "ni",
+	"politicalGroupLabel": "Non-attached Members",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_ni.png",
+	"nationalPoliticalGroupLabel": "Front national",
+	"email": "aymeric.chauprade@europarl.europa.eu",
+	"facebookPageUrl": "https://www.facebook.com/aymeric.chauprade",
+	"roles": [
+		{
+			"Member": "Non-attached Members"
+		},
+		{
+			"Substitute": "Committee on International Trade"
+		}
+	]
+}

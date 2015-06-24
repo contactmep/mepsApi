@@ -1,0 +1,20 @@
+{
+	"id": "125214",
+	"fullName": "Bronis ROPĖ",
+	"countryCode": "lt",
+	"countryLabel": "Lithuania",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_lt.gif",
+	"politicalGroupCode": "greensefa",
+	"politicalGroupLabel": "Group of the Greens/European Free Alliance",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_greensefa.png",
+	"nationalPoliticalGroupLabel": "Lietuvos valstiečių ir žaliųjų sąjunga",
+	"email": "bronis.rope@europarl.europa.eu",
+	"roles": [
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Substitute": "Delegation to the EU-Moldova Parliamentary Cooperation Committee"
+		}
+	]
+}

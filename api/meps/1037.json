@@ -1,0 +1,22 @@
+{
+	"id": "1037",
+	"fullName": "Reimer BÖGE",
+	"countryCode": "de",
+	"countryLabel": "Germany",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_de.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Christlich Demokratische Union Deutschlands",
+	"email": "reimer.boege@europarl.europa.eu",
+	"webPage": "http://www.reimerboege.de/",
+	"twitterUrl": "http://twitter.com/#!/reimerboege",
+	"roles": [
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Substitute": "Committee on International Trade"
+		}
+	]
+}

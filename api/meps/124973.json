@@ -1,0 +1,20 @@
+{
+	"id": "124973",
+	"fullName": "Gerolf ANNEMANS",
+	"countryCode": "be",
+	"countryLabel": "Belgium",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_be.gif",
+	"politicalGroupCode": "enf",
+	"politicalGroupLabel": "Europe of Nations and Freedom",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_enf.png",
+	"nationalPoliticalGroupLabel": "Vlaams Belang",
+	"email": "gerolf.annemans@europarl.europa.eu",
+	"roles": [
+		{
+			"Substitute": "Committee on Constitutional Affairs"
+		},
+		{
+			"Member": "Non-attached Members"
+		}
+	]
+}

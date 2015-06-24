@@ -1,0 +1,21 @@
+{
+	"id": "124733",
+	"fullName": "Sofia RIBEIRO",
+	"countryCode": "pt",
+	"countryLabel": "Portugal",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_pt.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Partido Social Democrata",
+	"email": "sofia.ribeiro@europarl.europa.eu",
+	"facebookPageUrl": "https://www.facebook.com/maisacoresnaeuropa",
+	"roles": [
+		{
+			"Substitute": "Delegation for relations with Canada"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

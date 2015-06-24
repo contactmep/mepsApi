@@ -1,0 +1,23 @@
+{
+	"id": "124768",
+	"fullName": "Valentinas MAZURONIS",
+	"countryCode": "lt",
+	"countryLabel": "Lithuania",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_lt.gif",
+	"politicalGroupCode": "aldeadle",
+	"politicalGroupLabel": "Group of the Alliance of Liberals and Democrats for Europe",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_aldeadle.png",
+	"nationalPoliticalGroupLabel": "Partija Tvarka ir teisingumas",
+	"email": "valentinas.mazuronis@europarl.europa.eu",
+	"roles": [
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Substitute": "Delegation for relations with the People's Republic of China"
+		},
+		{
+			"Vice-Chair": "Europe of Freedom and Direct Democracy Group"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"id": "96883",
+	"fullName": "Eva JOLY",
+	"countryCode": "fr",
+	"countryLabel": "France",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_fr.gif",
+	"politicalGroupCode": "greensefa",
+	"politicalGroupLabel": "Group of the Greens/European Free Alliance",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_greensefa.png",
+	"nationalPoliticalGroupLabel": "Europe Écologie",
+	"email": "eva.joly@europarl.europa.eu",
+	"facebookPageUrl": "http://www.facebook.com/EvaJoly.fr?sk=wall",
+	"twitterUrl": "http://twitter.com/#!/evajoly",
+	"roles": [
+		{
+			"Vice-Chair": "Delegation for relations with Afghanistan"
+		},
+		{
+			"Member": "Group of the Greens/European Free Alliance"
+		},
+		{
+			"Substitute": "Delegation for relations with the Mashreq countries"
+		}
+	]
+}

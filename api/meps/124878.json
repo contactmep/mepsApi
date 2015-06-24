@@ -1,0 +1,23 @@
+{
+	"id": "124878",
+	"fullName": "Jørn DOHRMANN",
+	"countryCode": "dk",
+	"countryLabel": "Denmark",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_dk.gif",
+	"politicalGroupCode": "ecr",
+	"politicalGroupLabel": "European Conservatives and Reformists Group",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_ecr.png",
+	"nationalPoliticalGroupLabel": "Dansk Folkeparti",
+	"email": "jorn.dohrmann@europarl.europa.eu",
+	"roles": [
+		{
+			"Member": "European Conservatives and Reformists Group"
+		},
+		{
+			"Chair": "Delegation for relations with Switzerland and Norway and to the EU-Iceland Joint Parliamentary Committee and the European Economic Area (EEA) Joint Parliamentary Committee"
+		},
+		{
+			"Substitute": "Delegation to the EU-Ukraine Parliamentary Cooperation Committee"
+		}
+	]
+}

@@ -1,0 +1,23 @@
+{
+	"id": "124739",
+	"fullName": "Carlos ZORRINHO",
+	"countryCode": "pt",
+	"countryLabel": "Portugal",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_pt.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Partido Socialista",
+	"email": "carlos.zorrinho@europarl.europa.eu",
+	"roles": [
+		{
+			"Vice-Chair": "Delegation for relations with the Federative Republic of Brazil"
+		},
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Substitute": "Committee on the Environment, Public Health and Food Safety"
+		}
+	]
+}

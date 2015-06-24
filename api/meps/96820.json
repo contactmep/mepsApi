@@ -1,0 +1,28 @@
+{
+	"id": "96820",
+	"fullName": "Marisa MATIAS",
+	"countryCode": "pt",
+	"countryLabel": "Portugal",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_pt.gif",
+	"politicalGroupCode": "guengl",
+	"politicalGroupLabel": "Confederal Group of the European United Left - Nordic Green Left",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_guengl.png",
+	"nationalPoliticalGroupLabel": "Bloco de Esquerda",
+	"email": "marisa.matias@europarl.europa.eu",
+	"facebookPageUrl": "https://www.facebook.com/pages/Marisa-Matias/142396325817735?v=wall",
+	"twitterUrl": "https://twitter.com/mmatias_",
+	"roles": [
+		{
+			"Vice-Chair": "Special Committee on Tax Rulings and Other Measures Similar in Nature or Effect"
+		},
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Chair": "Delegation for relations with the Mashreq countries"
+		},
+		{
+			"Substitute": "Committee on Industry, Research and Energy"
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"id": "124855",
+	"fullName": "Georgi PIRINSKI",
+	"countryCode": "bg",
+	"countryLabel": "Bulgaria",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_bg.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Bulgarian Socialist Party",
+	"email": "georgi.pirinski@europarl.europa.eu",
+	"roles": [
+		{
+			"Member": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament"
+		},
+		{
+			"Substitute": "Delegation to the EU-Albania Stabilisation and Association Parliamentary Committee"
+		}
+	]
+}

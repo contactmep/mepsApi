@@ -1,0 +1,21 @@
+{
+	"id": "124883",
+	"fullName": "Krystyna ŁYBACKA",
+	"countryCode": "pl",
+	"countryLabel": "Poland",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_pl.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Sojusz Lewicy Demokratycznej",
+	"email": "krystyna.lybacka@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/KrystynaLybacka",
+	"roles": [
+		{
+			"Substitute": "Delegation for relations with the NATO Parliamentary Assembly"
+		},
+		{
+			"Member": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament"
+		}
+	]
+}

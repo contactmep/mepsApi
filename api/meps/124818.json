@@ -1,0 +1,21 @@
+{
+	"id": "124818",
+	"fullName": "Klaus BUCHNER",
+	"countryCode": "de",
+	"countryLabel": "Germany",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_de.gif",
+	"politicalGroupCode": "greensefa",
+	"politicalGroupLabel": "Group of the Greens/European Free Alliance",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_greensefa.png",
+	"nationalPoliticalGroupLabel": "Ökologisch-Demokratische Partei",
+	"email": "klaus.buchner@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/Dr_KlausBuchner",
+	"roles": [
+		{
+			"Member": "Committee on Foreign Affairs"
+		},
+		{
+			"Substitute": "Committee on International Trade"
+		}
+	]
+}

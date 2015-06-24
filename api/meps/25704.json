@@ -1,0 +1,22 @@
+{
+	"id": "25704",
+	"fullName": "Eleni THEOCHAROUS",
+	"countryCode": "cy",
+	"countryLabel": "Cyprus",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_cy.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Democratic Rally",
+	"email": "eleni.theocharous@europarl.europa.eu",
+	"facebookPageUrl": "http://www.facebook.com/pages/%CE%94%CF%81-%CE%95%CE%9B%CE%95%CE%9D%CE%97-%CE%98%CE%95%CE%9F%CE%A7%CE%91%CE%A1%CE%9F%CE%A5%CE%A3-Dr-ELENI-THEOCHAROUS/46620712083",
+	"twitterUrl": "https://twitter.com/mep_theocharous",
+	"roles": [
+		{
+			"Substitute": "Committee on Development"
+		},
+		{
+			"Member": "Committee on Foreign Affairs"
+		}
+	]
+}

@@ -1,0 +1,23 @@
+{
+	"id": "124901",
+	"fullName": "Jana ŽITŇANSKÁ",
+	"countryCode": "sk",
+	"countryLabel": "Slovakia",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_sk.gif",
+	"politicalGroupCode": "ecr",
+	"politicalGroupLabel": "European Conservatives and Reformists Group",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_ecr.png",
+	"nationalPoliticalGroupLabel": "NOVA",
+	"email": "jana.zitnanska@europarl.europa.eu",
+	"roles": [
+		{
+			"Member of the Bureau": "European Conservatives and Reformists Group"
+		},
+		{
+			"Vice-Chair": "Committee on Women's Rights and Gender Equality"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"id": "28365",
+	"fullName": "Pier Antonio PANZERI",
+	"countryCode": "it",
+	"countryLabel": "Italy",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_it.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Partito Democratico",
+	"email": "pierantonio.panzeri@europarl.europa.eu",
+	"webPage": "http://www.delegazionepse.it",
+	"facebookPageUrl": "https://www.facebook.com/AntonioPanzeri",
+	"twitterUrl": "https://twitter.com/AntonioPanzeri",
+	"roles": [
+		{
+			"Member": "Committee on Foreign Affairs"
+		},
+		{
+			"Chair": "Conference of Delegation Chairs"
+		},
+		{
+			"Substitute": "Delegation to the Parliamentary Assembly of the Union for the Mediterranean"
+		}
+	]
+}

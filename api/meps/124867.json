@@ -1,0 +1,22 @@
+{
+	"id": "124867",
+	"fullName": "Brando BENIFEI",
+	"countryCode": "it",
+	"countryLabel": "Italy",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_it.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Partito Democratico",
+	"email": "brando.benifei@europarl.europa.eu",
+	"facebookPageUrl": "https://www.facebook.com/brando.benifei#!/benifeibrando?fref=ts",
+	"twitterUrl": "https://twitter.com/brandobenifei",
+	"roles": [
+		{
+			"Substitute": "Delegation for relations with the Palestinian Legislative Council"
+		},
+		{
+			"Member": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament"
+		}
+	]
+}

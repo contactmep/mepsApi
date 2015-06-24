@@ -1,0 +1,21 @@
+{
+	"id": "97293",
+	"fullName": "Georges BACH",
+	"countryCode": "lu",
+	"countryLabel": "Luxembourg",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_lu.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Parti chrétien social luxembourgeois",
+	"email": "georges.bach@europarl.europa.eu",
+	"webPage": "http://www.georgesbach.eu",
+	"roles": [
+		{
+			"Substitute": "Delegation for relations with Canada"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"id": "1185",
+	"fullName": "Viviane REDING",
+	"countryCode": "lu",
+	"countryLabel": "Luxembourg",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_lu.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Parti chrétien social luxembourgeois",
+	"email": "viviane.reding@europarl.europa.eu",
+	"facebookPageUrl": "https://www.facebook.com/pages/Viviane-Reding/291423897690447",
+	"twitterUrl": "https://twitter.com/VivianeRedingEU",
+	"roles": [
+		{
+			"Substitute": "Delegation for relations with Australia and New Zealand"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"id": "28165",
+	"fullName": "Lambert van NISTELROOIJ",
+	"countryCode": "nl",
+	"countryLabel": "Netherlands",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_nl.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Christen Democratisch Appèl",
+	"email": "lambert.vannistelrooij@europarl.europa.eu",
+	"webPage": "http://www.lambertvannistelrooij.eu",
+	"twitterUrl": "http://twitter.com/#!/lvnistelrooij",
+	"roles": [
+		{
+			"Substitute": "Committee on the Internal Market and Consumer Protection"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

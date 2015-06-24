@@ -1,0 +1,20 @@
+{
+	"id": "125070",
+	"fullName": "Lampros FOUNTOULIS",
+	"countryCode": "gr",
+	"countryLabel": "Greece",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_gr.gif",
+	"politicalGroupCode": "ni",
+	"politicalGroupLabel": "Non-attached Members",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_ni.png",
+	"nationalPoliticalGroupLabel": "Popular Association – Golden Dawn",
+	"email": "lampros.fountoulis@europarl.europa.eu",
+	"roles": [
+		{
+			"Member": "Non-attached Members"
+		},
+		{
+			"Substitute": "Committee on the Environment, Public Health and Food Safety"
+		}
+	]
+}

@@ -1,0 +1,23 @@
+{
+	"id": "119431",
+	"fullName": "Ruža TOMAŠIĆ",
+	"countryCode": "hr",
+	"countryLabel": "Croatia",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_hr.gif",
+	"politicalGroupCode": "ecr",
+	"politicalGroupLabel": "European Conservatives and Reformists Group",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_ecr.png",
+	"nationalPoliticalGroupLabel": "Hrvatska konzervativna stranka",
+	"email": "ruza.tomasic@europarl.europa.eu",
+	"roles": [
+		{
+			"Substitute": "Committee on Foreign Affairs"
+		},
+		{
+			"Member": "Committee on Fisheries"
+		},
+		{
+			"Member of the Bureau": "European Conservatives and Reformists Group"
+		}
+	]
+}

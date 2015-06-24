@@ -1,0 +1,24 @@
+{
+	"id": "124848",
+	"fullName": "Maria HEUBUCH",
+	"countryCode": "de",
+	"countryLabel": "Germany",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_de.gif",
+	"politicalGroupCode": "greensefa",
+	"politicalGroupLabel": "Group of the Greens/European Free Alliance",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_greensefa.png",
+	"nationalPoliticalGroupLabel": "Bündnis 90/Die Grünen",
+	"email": "maria.heubuch@europarl.europa.eu",
+	"facebookPageUrl": "https://www.facebook.com/maria.heubuch.mep",
+	"roles": [
+		{
+			"Vice-Chair": "Delegation for relations with the Pan-African Parliament"
+		},
+		{
+			"Member": "Committee on Development"
+		},
+		{
+			"Substitute": "Committee on Fisheries"
+		}
+	]
+}

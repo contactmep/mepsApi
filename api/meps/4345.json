@@ -1,0 +1,25 @@
+{
+	"id": "4345",
+	"fullName": "Tokia SAÏFI",
+	"countryCode": "fr",
+	"countryLabel": "France",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_fr.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Les Républicains",
+	"email": "tokia.saifi@europarl.europa.eu",
+	"webPage": "http://www.tokia-saifi.com",
+	"twitterUrl": "http://twitter.com/TokiaSaifi",
+	"roles": [
+		{
+			"Vice-Chair": "Committee on International Trade"
+		},
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Substitute": "Committee on Foreign Affairs"
+		}
+	]
+}

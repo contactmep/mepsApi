@@ -1,0 +1,21 @@
+{
+	"id": "125110",
+	"fullName": "Nikos ANDROULAKIS",
+	"countryCode": "gr",
+	"countryLabel": "Greece",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_gr.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Panhellenic Socialist Movement - Olive Tree",
+	"email": "nikos.androulakis@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/androulakisnick",
+	"roles": [
+		{
+			"Substitute": "Committee on the Environment, Public Health and Food Safety"
+		},
+		{
+			"Member": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament"
+		}
+	]
+}

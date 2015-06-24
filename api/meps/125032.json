@@ -1,0 +1,23 @@
+{
+	"id": "125032",
+	"fullName": "Ramón Luis VALCÁRCEL SISO",
+	"countryCode": "es",
+	"countryLabel": "Spain",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_es.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Partido Popular",
+	"email": "ramonluis.valcarcelsiso@europarl.europa.eu",
+	"roles": [
+		{
+			"Member": "Partido Popular"
+		},
+		{
+			"Substitute": "Delegation for relations with the Palestinian Legislative Council"
+		},
+		{
+			"Vice-President": "European Parliament"
+		}
+	]
+}

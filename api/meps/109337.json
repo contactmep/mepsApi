@@ -1,0 +1,21 @@
+{
+	"id": "109337",
+	"fullName": "Philippe DE BACKER",
+	"countryCode": "be",
+	"countryLabel": "Belgium",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_be.gif",
+	"politicalGroupCode": "aldeadle",
+	"politicalGroupLabel": "Group of the Alliance of Liberals and Democrats for Europe",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_aldeadle.png",
+	"nationalPoliticalGroupLabel": "Open Vlaamse Liberalen en Democraten",
+	"email": "philippe.debacker@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/debackerphil",
+	"roles": [
+		{
+			"Substitute": "Committee on Economic and Monetary Affairs"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"id": "28233",
+	"fullName": "Rebecca HARMS",
+	"countryCode": "de",
+	"countryLabel": "Germany",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_de.gif",
+	"politicalGroupCode": "greensefa",
+	"politicalGroupLabel": "Group of the Greens/European Free Alliance",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_greensefa.png",
+	"nationalPoliticalGroupLabel": "Bündnis 90/Die Grünen",
+	"email": "rebecca.harms@europarl.europa.eu",
+	"webPage": "http://www.rebecca-harms.de",
+	"twitterUrl": "https://twitter.com/RebHarms",
+	"roles": [
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Substitute": "Committee on Foreign Affairs"
+		},
+		{
+			"Co-Chair": "Group of the Greens/European Free Alliance"
+		}
+	]
+}

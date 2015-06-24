@@ -1,0 +1,21 @@
+{
+	"id": "125061",
+	"fullName": "Kostas CHRYSOGONOS",
+	"countryCode": "gr",
+	"countryLabel": "Greece",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_gr.gif",
+	"politicalGroupCode": "guengl",
+	"politicalGroupLabel": "Confederal Group of the European United Left - Nordic Green Left",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_guengl.png",
+	"nationalPoliticalGroupLabel": "Coalition of the Radical Left",
+	"email": "kostas.chrysogonos@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/Chrysogonos_K",
+	"roles": [
+		{
+			"Substitute": "Delegation for relations with the United States"
+		},
+		{
+			"Member": "Coalition of the Radical Left"
+		}
+	]
+}

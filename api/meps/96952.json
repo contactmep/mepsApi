@@ -1,0 +1,26 @@
+{
+	"id": "96952",
+	"fullName": "Sylvie GUILLAUME",
+	"countryCode": "fr",
+	"countryLabel": "France",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_fr.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Parti socialiste",
+	"email": "sylvie.guillaume@europarl.europa.eu",
+	"webPage": "http://www.sylvieguillaume.eu",
+	"facebookPageUrl": "https://www.facebook.com/sylvieguillaume.deputeeeuropeenne",
+	"twitterUrl": "http://twitter.com/#!/sylvieguillaume",
+	"roles": [
+		{
+			"Substitute": "Committee on Culture and Education"
+		},
+		{
+			"Member": "Parti socialiste"
+		},
+		{
+			"Vice-President": "European Parliament"
+		}
+	]
+}

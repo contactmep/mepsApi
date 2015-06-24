@@ -1,0 +1,25 @@
+{
+	"id": "96775",
+	"fullName": "Lara COMI",
+	"countryCode": "it",
+	"countryLabel": "Italy",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_it.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Forza Italia",
+	"email": "lara.comi@europarl.europa.eu",
+	"facebookPageUrl": "https://www.facebook.com/pages/Lara-Comi/155619044465389",
+	"twitterUrl": "http://twitter.com/comilara",
+	"roles": [
+		{
+			"Substitute": "Committee on Economic and Monetary Affairs"
+		},
+		{
+			"Vice-Chair": "Group of the European People's Party (Christian Democrats)"
+		},
+		{
+			"Member": "Delegation for relations with the United States"
+		}
+	]
+}

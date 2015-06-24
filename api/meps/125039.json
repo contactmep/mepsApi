@@ -1,0 +1,23 @@
+{
+	"id": "125039",
+	"fullName": "Fernando MAURA BARANDIARÁN",
+	"countryCode": "es",
+	"countryLabel": "Spain",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_es.gif",
+	"politicalGroupCode": "aldeadle",
+	"politicalGroupLabel": "Group of the Alliance of Liberals and Democrats for Europe",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_aldeadle.png",
+	"nationalPoliticalGroupLabel": "Unión, Progreso y Democracia",
+	"email": "fernando.maurabarandiaran@europarl.europa.eu",
+	"roles": [
+		{
+			"Substitute": "Committee on Foreign Affairs"
+		},
+		{
+			"Vice-Chair": "Group of the Alliance of Liberals and Democrats for Europe"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

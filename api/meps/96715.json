@@ -1,0 +1,25 @@
+{
+	"id": "96715",
+	"fullName": "Pavel POC",
+	"countryCode": "cz",
+	"countryLabel": "Czech Republic",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_cz.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Česká strana sociálně demokratická",
+	"email": "pavel.poc@europarl.europa.eu",
+	"facebookPageUrl": "https://www.facebook.com/pages/Pavel-Poc-Team/202974613060409",
+	"twitterUrl": "http://twitter.com/pavelpoc",
+	"roles": [
+		{
+			"Member": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament"
+		},
+		{
+			"Substitute": "Delegation for relations with Japan"
+		},
+		{
+			"Vice-Chair": "Committee on the Environment, Public Health and Food Safety"
+		}
+	]
+}

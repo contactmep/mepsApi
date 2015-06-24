@@ -1,0 +1,21 @@
+{
+	"id": "124695",
+	"fullName": "Jan KELLER",
+	"countryCode": "cz",
+	"countryLabel": "Czech Republic",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_cz.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Česká strana sociálně demokratická",
+	"email": "jan.keller@europarl.europa.eu",
+	"facebookPageUrl": "https://www.facebook.com/keller.honza?fref=ts",
+	"roles": [
+		{
+			"Substitute": "Delegation to the EU-Moldova Parliamentary Cooperation Committee"
+		},
+		{
+			"Member": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament"
+		}
+	]
+}

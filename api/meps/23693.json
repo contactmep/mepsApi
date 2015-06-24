@@ -1,0 +1,29 @@
+{
+	"id": "23693",
+	"fullName": "Alojz PETERLE",
+	"countryCode": "si",
+	"countryLabel": "Slovenia",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_si.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Nova Slovenija – Krščanski demokrati",
+	"email": "alojz.peterle@europarl.europa.eu",
+	"webPage": "http://www.peterle.eu",
+	"facebookPageUrl": "http://www.facebook.com/alojz.p",
+	"twitterUrl": "https://twitter.com/lojzepeterle",
+	"roles": [
+		{
+			"youtubeURL": "http://www.youtube.com/user/EUveceri"
+		},
+		{
+			"Member": "Committee on Foreign Affairs"
+		},
+		{
+			"Chair": "Delegation to the EU-Former Yugoslav Republic of Macedonia Joint Parliamentary Committee"
+		},
+		{
+			"Substitute": "Committee on the Environment, Public Health and Food Safety"
+		}
+	]
+}

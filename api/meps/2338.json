@@ -1,0 +1,23 @@
+{
+	"id": "2338",
+	"fullName": "Ian HUDGHTON",
+	"countryCode": "gb",
+	"countryLabel": "United Kingdom",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_gb.gif",
+	"politicalGroupCode": "greensefa",
+	"politicalGroupLabel": "Group of the Greens/European Free Alliance",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_greensefa.png",
+	"nationalPoliticalGroupLabel": "Scottish National Party",
+	"email": "ian.hudghton@europarl.europa.eu",
+	"webPage": "http://www.hudghtonmep.com",
+	"facebookPageUrl": "http://www.facebook.com/pages/Ian-Hudghton/112160948801194#!/group.php?gid=55983037095",
+	"twitterUrl": "https://twitter.com/hudghtonmepSNP",
+	"roles": [
+		{
+			"Substitute": "Delegation for relations with the United States"
+		},
+		{
+			"Member": "Delegation for relations with Japan"
+		}
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"id": "1038",
+	"fullName": "Karl-Heinz FLORENZ",
+	"countryCode": "de",
+	"countryLabel": "Germany",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_de.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Christlich Demokratische Union Deutschlands",
+	"email": "karl-heinz.florenz@europarl.europa.eu",
+	"webPage": "http://www.karl-heinz-florenz.de",
+	"facebookPageUrl": "www.facebook.com/KHFlorenz",
+	"roles": [
+		{
+			"Substitute": "Delegation for relations with the Palestinian Legislative Council"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

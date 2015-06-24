@@ -1,0 +1,20 @@
+{
+	"id": "129073",
+	"fullName": "Urmas PAET",
+	"countryCode": "ee",
+	"countryLabel": "Estonia",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_ee.gif",
+	"politicalGroupCode": "aldeadle",
+	"politicalGroupLabel": "Group of the Alliance of Liberals and Democrats for Europe",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_aldeadle.png",
+	"nationalPoliticalGroupLabel": "Eesti Reformierakond",
+	"email": "urmas.paet@europarl.europa.eu",
+	"roles": [
+		{
+			"Substitute": "Committee on Regional Development"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

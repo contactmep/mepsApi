@@ -1,0 +1,24 @@
+{
+	"id": "124737",
+	"fullName": "Maria João RODRIGUES",
+	"countryCode": "pt",
+	"countryLabel": "Portugal",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_pt.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Partido Socialista",
+	"email": "mariajoao.rodrigues@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/mjr_eu",
+	"roles": [
+		{
+			"Substitute": "Delegation for relations with India"
+		},
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Vice-Chair": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament"
+		}
+	]
+}

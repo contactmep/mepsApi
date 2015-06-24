@@ -1,0 +1,25 @@
+{
+	"id": "96728",
+	"fullName": "Barbara LOCHBIHLER",
+	"countryCode": "de",
+	"countryLabel": "Germany",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_de.gif",
+	"politicalGroupCode": "greensefa",
+	"politicalGroupLabel": "Group of the Greens/European Free Alliance",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_greensefa.png",
+	"nationalPoliticalGroupLabel": "Bündnis 90/Die Grünen",
+	"email": "barbara.lochbihler@europarl.europa.eu",
+	"webPage": "http://www.barbara-lochbihler.de",
+	"twitterUrl": "http://twitter.com/#!/blochbihler",
+	"roles": [
+		{
+			"Member": "Committee on Foreign Affairs"
+		},
+		{
+			"Vice-Chair": "Subcommittee on Human Rights"
+		},
+		{
+			"Substitute": "Delegation for relations with the Maghreb countries and the Arab Maghreb Union"
+		}
+	]
+}

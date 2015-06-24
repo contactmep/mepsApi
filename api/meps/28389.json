@@ -1,0 +1,21 @@
+{
+	"id": "28389",
+	"fullName": "Zbigniew KUŹMIUK",
+	"countryCode": "pl",
+	"countryLabel": "Poland",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_pl.gif",
+	"politicalGroupCode": "ecr",
+	"politicalGroupLabel": "European Conservatives and Reformists Group",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_ecr.png",
+	"nationalPoliticalGroupLabel": "Prawo i Sprawiedliwość",
+	"email": "zbigniew.kuzmiuk@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/ZbigniewKuzmiuk",
+	"roles": [
+		{
+			"Substitute": "Delegation for relations with Belarus"
+		},
+		{
+			"Member": "Delegation to the EU-Russia Parliamentary Cooperation Committee"
+		}
+	]
+}

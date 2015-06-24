@@ -1,0 +1,25 @@
+{
+	"id": "96840",
+	"fullName": "Knut FLECKENSTEIN",
+	"countryCode": "de",
+	"countryLabel": "Germany",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_de.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Sozialdemokratische Partei Deutschlands",
+	"email": "knut.fleckenstein@europarl.europa.eu",
+	"facebookPageUrl": "https://www.facebook.com/pages/Knut-Fleckenstein/194900680538033",
+	"twitterUrl": "http://twitter.com/#!/knufleckenstein",
+	"roles": [
+		{
+			"Member": "Committee on Foreign Affairs"
+		},
+		{
+			"Substitute": "Delegation to the EU-Serbia Stabilisation and Association Parliamentary Committee"
+		},
+		{
+			"Vice-Chair": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament"
+		}
+	]
+}

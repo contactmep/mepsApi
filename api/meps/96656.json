@@ -1,0 +1,23 @@
+{
+	"id": "96656",
+	"fullName": "Boris ZALA",
+	"countryCode": "sk",
+	"countryLabel": "Slovakia",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_sk.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "SMER-Sociálna demokracia",
+	"email": "boris.zala@europarl.europa.eu",
+	"roles": [
+		{
+			"Vice-Chair": "Delegation for relations with South Africa"
+		},
+		{
+			"Substitute": "Delegation to the EU-Armenia, EU-Azerbaijan and EU-Georgia Parliamentary Cooperation Committees"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

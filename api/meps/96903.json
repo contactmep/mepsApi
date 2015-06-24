@@ -1,0 +1,28 @@
+{
+	"id": "96903",
+	"fullName": "Paulo RANGEL",
+	"countryCode": "pt",
+	"countryLabel": "Portugal",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_pt.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Partido Social Democrata",
+	"email": "paulo.rangel@europarl.europa.eu",
+	"facebookPageUrl": "http://www.facebook.com/pages/Paulo-Rangel/80671299889",
+	"twitterUrl": "http://twitter.com/#!/libertarofuturo",
+	"roles": [
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Chair": "Delegation for relations with the Federative Republic of Brazil"
+		},
+		{
+			"Vice-Chair": "Group of the European People's Party (Christian Democrats)"
+		},
+		{
+			"Substitute": "Committee on Foreign Affairs"
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"id": "125024",
+	"fullName": "Barbara KAPPEL",
+	"countryCode": "at",
+	"countryLabel": "Austria",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_at.gif",
+	"politicalGroupCode": "enf",
+	"politicalGroupLabel": "Europe of Nations and Freedom",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_enf.png",
+	"nationalPoliticalGroupLabel": "Freiheitliche Partei Österreichs",
+	"email": "barbara.kappel@europarl.europa.eu",
+	"roles": [
+		{
+			"Substitute": "Committee on Economic and Monetary Affairs"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

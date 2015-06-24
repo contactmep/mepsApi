@@ -1,0 +1,21 @@
+{
+	"id": "125053",
+	"fullName": "Jordi SEBASTIÀ",
+	"countryCode": "es",
+	"countryLabel": "Spain",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_es.gif",
+	"politicalGroupCode": "greensefa",
+	"politicalGroupLabel": "Group of the Greens/European Free Alliance",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_greensefa.png",
+	"nationalPoliticalGroupLabel": "COMPROMIS",
+	"email": "jordi.sebastia@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/Sebastia_Jordi",
+	"roles": [
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Substitute": "Committee on Development"
+		}
+	]
+}

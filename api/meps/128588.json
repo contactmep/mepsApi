@@ -1,0 +1,23 @@
+{
+	"id": "128588",
+	"fullName": "Linnéa ENGSTRÖM",
+	"countryCode": "se",
+	"countryLabel": "Sweden",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_se.gif",
+	"politicalGroupCode": "greensefa",
+	"politicalGroupLabel": "Group of the Greens/European Free Alliance",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_greensefa.png",
+	"nationalPoliticalGroupLabel": "Miljöpartiet de gröna",
+	"email": "linnea.engstrom@europarl.europa.eu",
+	"roles": [
+		{
+			"Vice-Chair": "Committee on Fisheries"
+		},
+		{
+			"Substitute": "Committee on the Environment, Public Health and Food Safety"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"id": "117491",
+	"fullName": "Anneleen VAN BOSSUYT",
+	"countryCode": "be",
+	"countryLabel": "Belgium",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_be.gif",
+	"politicalGroupCode": "ecr",
+	"politicalGroupLabel": "European Conservatives and Reformists Group",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_ecr.png",
+	"nationalPoliticalGroupLabel": "Nieuw-Vlaamse Alliantie",
+	"email": "anneleen.vanbossuyt@europarl.europa.eu",
+	"roles": [
+		{
+			"Member": "Committee on the Internal Market and Consumer Protection"
+		},
+		{
+			"Substitute": "Committee on Industry, Research and Energy"
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"id": "124787",
+	"fullName": "Renata BRIANO",
+	"countryCode": "it",
+	"countryLabel": "Italy",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_it.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Partito Democratico",
+	"email": "renata.briano@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/Renata_Briano",
+	"roles": [
+		{
+			"Member": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament"
+		},
+		{
+			"Vice-Chair": "Committee on Fisheries"
+		},
+		{
+			"Substitute": "Delegation for relations with Japan"
+		}
+	]
+}

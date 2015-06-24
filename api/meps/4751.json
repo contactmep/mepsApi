@@ -1,0 +1,23 @@
+{
+	"id": "4751",
+	"fullName": "Bart STAES",
+	"countryCode": "be",
+	"countryLabel": "Belgium",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_be.gif",
+	"politicalGroupCode": "greensefa",
+	"politicalGroupLabel": "Group of the Greens/European Free Alliance",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_greensefa.png",
+	"nationalPoliticalGroupLabel": "Groen",
+	"email": "bart.staes@europarl.europa.eu",
+	"webPage": "http://www.bartstaes.be",
+	"facebookPageUrl": "http://www.facebook.com/pages/Bart-Staes/37339765706",
+	"twitterUrl": "http://twitter.com/#!/bartstaes",
+	"roles": [
+		{
+			"Member": "Delegation for relations with the United States"
+		},
+		{
+			"Substitute": "Committee on the Environment, Public Health and Food Safety"
+		}
+	]
+}

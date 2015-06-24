@@ -1,0 +1,23 @@
+{
+	"id": "28208",
+	"fullName": "Nathalie GRIESBECK",
+	"countryCode": "fr",
+	"countryLabel": "France",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_fr.gif",
+	"politicalGroupCode": "aldeadle",
+	"politicalGroupLabel": "Group of the Alliance of Liberals and Democrats for Europe",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_aldeadle.png",
+	"nationalPoliticalGroupLabel": "Mouvement Démocrate",
+	"email": "nathalie.griesbeck@europarl.europa.eu",
+	"webPage": "http://www.nathalie-griesbeck.org",
+	"facebookPageUrl": "http://www.facebook.com/pages/Nathalie-Griesbeck/122229430180",
+	"twitterUrl": "https://twitter.com/Nat_GRIESBECK",
+	"roles": [
+		{
+			"Substitute": "Delegation for relations with the countries of Central America"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

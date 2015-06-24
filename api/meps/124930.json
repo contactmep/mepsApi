@@ -1,0 +1,24 @@
+{
+	"id": "124930",
+	"fullName": "Pál CSÁKY",
+	"countryCode": "sk",
+	"countryLabel": "Slovakia",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_sk.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Strana mad'arskej komunity- Magyar Közösség Pártja",
+	"email": "pal.csaky@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/csakypal",
+	"roles": [
+		{
+			"Substitute": "Delegation for relations with the Federative Republic of Brazil"
+		},
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Vice-Chair": "Committee on Petitions"
+		}
+	]
+}

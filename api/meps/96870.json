@@ -1,0 +1,22 @@
+{
+	"id": "96870",
+	"fullName": "Gesine MEISSNER",
+	"countryCode": "de",
+	"countryLabel": "Germany",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_de.gif",
+	"politicalGroupCode": "aldeadle",
+	"politicalGroupLabel": "Group of the Alliance of Liberals and Democrats for Europe",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_aldeadle.png",
+	"nationalPoliticalGroupLabel": "Freie Demokratische Partei",
+	"email": "gesine.meissner@europarl.europa.eu",
+	"webPage": "http://www.gesine-meissner.de",
+	"twitterUrl": "http://twitter.com/#!/gesine_meissner",
+	"roles": [
+		{
+			"Substitute": "Committee on the Environment, Public Health and Food Safety"
+		},
+		{
+			"Member": "Committee on Transport and Tourism"
+		}
+	]
+}

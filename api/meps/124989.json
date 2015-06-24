@@ -1,0 +1,23 @@
+{
+	"id": "124989",
+	"fullName": "Fredrick FEDERLEY",
+	"countryCode": "se",
+	"countryLabel": "Sweden",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_se.gif",
+	"politicalGroupCode": "aldeadle",
+	"politicalGroupLabel": "Group of the Alliance of Liberals and Democrats for Europe",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_aldeadle.png",
+	"nationalPoliticalGroupLabel": "Centerpartiet",
+	"email": "fredrick.federley@europarl.europa.eu",
+	"roles": [
+		{
+			"Vice-Chair": "Delegation for relations with the Pan-African Parliament"
+		},
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Substitute": "Committee on Agriculture and Rural Development"
+		}
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"id": "28617",
+	"fullName": "Inese VAIDERE",
+	"countryCode": "lv",
+	"countryLabel": "Latvia",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_lv.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Partija \"VIENOTĪBA\"",
+	"email": "inese.vaidere@europarl.europa.eu",
+	"facebookPageUrl": "https://www.facebook.com/inese.vaidere.9",
+	"twitterUrl": "https://twitter.com/IneseVaidere",
+	"roles": [
+		{
+			"Substitute": "Delegation to the Euro-Latin American Parliamentary Assembly"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

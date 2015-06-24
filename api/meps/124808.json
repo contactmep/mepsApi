@@ -1,0 +1,21 @@
+{
+	"id": "124808",
+	"fullName": "Norbert LINS",
+	"countryCode": "de",
+	"countryLabel": "Germany",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_de.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Christlich Demokratische Union Deutschlands",
+	"email": "norbert.lins@europarl.europa.eu",
+	"facebookPageUrl": "https://www.facebook.com/Norbert.Lins.EU",
+	"roles": [
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Substitute": "Committee on Agriculture and Rural Development"
+		}
+	]
+}

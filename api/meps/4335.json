@@ -1,0 +1,25 @@
+{
+	"id": "4335",
+	"fullName": "Marielle de SARNEZ",
+	"countryCode": "fr",
+	"countryLabel": "France",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_fr.gif",
+	"politicalGroupCode": "aldeadle",
+	"politicalGroupLabel": "Group of the Alliance of Liberals and Democrats for Europe",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_aldeadle.png",
+	"nationalPoliticalGroupLabel": "Mouvement Démocrate",
+	"email": "marielle.desarnez@europarl.europa.eu",
+	"facebookPageUrl": "http://www.facebook.com/pages/MARIELLE-DE-SARNEZ/116543802183",
+	"twitterUrl": "http://twitter.com/#!/desarnez",
+	"roles": [
+		{
+			"Substitute": "Committee on Foreign Affairs"
+		},
+		{
+			"Member": "Committee on International Trade"
+		},
+		{
+			"Vice-Chair": "Group of the Alliance of Liberals and Democrats for Europe"
+		}
+	]
+}

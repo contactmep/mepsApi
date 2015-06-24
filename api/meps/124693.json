@@ -1,0 +1,22 @@
+{
+	"id": "124693",
+	"fullName": "Pascal DURAND",
+	"countryCode": "fr",
+	"countryLabel": "France",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_fr.gif",
+	"politicalGroupCode": "greensefa",
+	"politicalGroupLabel": "Group of the Greens/European Free Alliance",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_greensefa.png",
+	"nationalPoliticalGroupLabel": "Europe Écologie",
+	"email": "pascal.durand@europarl.europa.eu",
+	"facebookPageUrl": "https://www.facebook.com/Pascal.Durand.EELV",
+	"twitterUrl": "https://twitter.com/DurandEELV",
+	"roles": [
+		{
+			"Member": "Delegation for relations with the Federative Republic of Brazil"
+		},
+		{
+			"Substitute": "Delegation for relations with Japan"
+		}
+	]
+}

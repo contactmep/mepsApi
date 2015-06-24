@@ -1,0 +1,25 @@
+{
+	"id": "4270",
+	"fullName": "Marit PAULSEN",
+	"countryCode": "se",
+	"countryLabel": "Sweden",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_se.gif",
+	"politicalGroupCode": "aldeadle",
+	"politicalGroupLabel": "Group of the Alliance of Liberals and Democrats for Europe",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_aldeadle.png",
+	"nationalPoliticalGroupLabel": "Folkpartiet liberalerna",
+	"email": "marit.paulsen@europarl.europa.eu",
+	"webPage": "http://www.marit.nu",
+	"facebookPageUrl": "http://www.facebook.com/pages/Europaparlamentariker-Marit-Paulsen/357868655707",
+	"roles": [
+		{
+			"Vice-Chair": "Delegation for relations with Switzerland and Norway and to the EU-Iceland Joint Parliamentary Committee and the European Economic Area (EEA) Joint Parliamentary Committee"
+		},
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Substitute": "Committee on the Environment, Public Health and Food Safety"
+		}
+	]
+}

@@ -1,0 +1,23 @@
+{
+	"id": "125113",
+	"fullName": "Miltiadis KYRKOS",
+	"countryCode": "gr",
+	"countryLabel": "Greece",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_gr.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "The River",
+	"email": "miltiadis.kyrkos@europarl.europa.eu",
+	"roles": [
+		{
+			"Substitute": "Delegation for relations with Israel"
+		},
+		{
+			"Vice-Chair": "Delegation to the EU-Turkey Joint Parliamentary Committee"
+		},
+		{
+			"Member": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament"
+		}
+	]
+}

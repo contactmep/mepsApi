@@ -1,0 +1,25 @@
+{
+	"id": "96663",
+	"fullName": "Morten MESSERSCHMIDT",
+	"countryCode": "dk",
+	"countryLabel": "Denmark",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_dk.gif",
+	"politicalGroupCode": "ecr",
+	"politicalGroupLabel": "European Conservatives and Reformists Group",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_ecr.png",
+	"nationalPoliticalGroupLabel": "Dansk Folkeparti",
+	"email": "morten.messerschmidt@europarl.europa.eu",
+	"webPage": "http://www.danskfolkeparti.eu",
+	"facebookPageUrl": "https://www.facebook.com/pages/Morten-Messerschmidt/111394892261429",
+	"roles": [
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Vice-Chair": "European Conservatives and Reformists Group"
+		},
+		{
+			"Substitute": "Delegation for relations with Israel"
+		}
+	]
+}

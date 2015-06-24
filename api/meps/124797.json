@@ -1,0 +1,21 @@
+{
+	"id": "124797",
+	"fullName": "Marco AFFRONTE",
+	"countryCode": "it",
+	"countryLabel": "Italy",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_it.gif",
+	"politicalGroupCode": "efd",
+	"politicalGroupLabel": "Europe of Freedom and Direct Democracy Group",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_efd.png",
+	"nationalPoliticalGroupLabel": "Movimento 5 Stelle",
+	"email": "marco.affronte@europarl.europa.eu",
+	"facebookPageUrl": "https://www.facebook.com/pages/Marco-Affronte/615832768499515",
+	"roles": [
+		{
+			"Substitute": "Committee on Petitions"
+		},
+		{
+			"Member": "Committee on the Environment, Public Health and Food Safety"
+		}
+	]
+}

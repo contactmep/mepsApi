@@ -1,0 +1,25 @@
+{
+	"id": "124856",
+	"fullName": "Ignazio CORRAO",
+	"countryCode": "it",
+	"countryLabel": "Italy",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_it.gif",
+	"politicalGroupCode": "efd",
+	"politicalGroupLabel": "Europe of Freedom and Direct Democracy Group",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_efd.png",
+	"nationalPoliticalGroupLabel": "Movimento 5 Stelle",
+	"email": "ignazio.corrao@europarl.europa.eu",
+	"facebookPageUrl": "https://www.facebook.com/Igna1984",
+	"twitterUrl": "https://twitter.com/Igna84",
+	"roles": [
+		{
+			"Member": "Committee on Development"
+		},
+		{
+			"Substitute": "Committee on Legal Affairs"
+		},
+		{
+			"Vice-Chair": "Europe of Freedom and Direct Democracy Group"
+		}
+	]
+}

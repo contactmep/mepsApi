@@ -1,0 +1,20 @@
+{
+	"id": "120478",
+	"fullName": "Martina MICHELS",
+	"countryCode": "de",
+	"countryLabel": "Germany",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_de.gif",
+	"politicalGroupCode": "guengl",
+	"politicalGroupLabel": "Confederal Group of the European United Left - Nordic Green Left",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_guengl.png",
+	"nationalPoliticalGroupLabel": "DIE LINKE.",
+	"email": "martina.michels@europarl.europa.eu",
+	"roles": [
+		{
+			"Substitute": "Committee on Culture and Education"
+		},
+		{
+			"Member": "Confederal Group of the European United Left - Nordic Green Left"
+		}
+	]
+}

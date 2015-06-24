@@ -1,0 +1,21 @@
+{
+	"id": "96713",
+	"fullName": "Evžen TOŠENOVSKÝ",
+	"countryCode": "cz",
+	"countryLabel": "Czech Republic",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_cz.gif",
+	"politicalGroupCode": "ecr",
+	"politicalGroupLabel": "European Conservatives and Reformists Group",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_ecr.png",
+	"nationalPoliticalGroupLabel": "Občanská demokratická strana",
+	"email": "evzen.tosenovsky@europarl.europa.eu",
+	"webPage": "http://www.tosenovsky.cz",
+	"roles": [
+		{
+			"Substitute": "Committee on Transport and Tourism"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

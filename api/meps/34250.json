@@ -1,0 +1,23 @@
+{
+	"id": "34250",
+	"fullName": "Nedzhmi ALI",
+	"countryCode": "bg",
+	"countryLabel": "Bulgaria",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_bg.gif",
+	"politicalGroupCode": "aldeadle",
+	"politicalGroupLabel": "Group of the Alliance of Liberals and Democrats for Europe",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_aldeadle.png",
+	"nationalPoliticalGroupLabel": "Movement for Rights and Freedoms",
+	"email": "nedzhmi.ali@europarl.europa.eu",
+	"roles": [
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Vice-Chair": "Delegation for relations with the Korean Peninsula"
+		},
+		{
+			"Substitute": "Committee on Foreign Affairs"
+		}
+	]
+}

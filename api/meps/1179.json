@@ -1,0 +1,24 @@
+{
+	"id": "1179",
+	"fullName": "Michèle ALLIOT-MARIE",
+	"countryCode": "fr",
+	"countryLabel": "France",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_fr.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Les Républicains",
+	"email": "michele.alliot-marie@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/MAlliotMarie",
+	"roles": [
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Chair": "Delegation for relations with the Arab Peninsula"
+		},
+		{
+			"Substitute": "Delegation for relations with the People's Republic of China"
+		}
+	]
+}

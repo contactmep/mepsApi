@@ -1,0 +1,20 @@
+{
+	"id": "96877",
+	"fullName": "Zoltán BALCZÓ",
+	"countryCode": "hu",
+	"countryLabel": "Hungary",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_hu.gif",
+	"politicalGroupCode": "ni",
+	"politicalGroupLabel": "Non-attached Members",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_ni.png",
+	"nationalPoliticalGroupLabel": "Jobbik Magyarországért Mozgalom",
+	"email": "zoltan.balczo@europarl.europa.eu",
+	"roles": [
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Substitute": "Committee on Regional Development"
+		}
+	]
+}

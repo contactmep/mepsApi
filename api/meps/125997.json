@@ -1,0 +1,23 @@
+{
+	"id": "125997",
+	"fullName": "Javier COUSO PERMUY",
+	"countryCode": "es",
+	"countryLabel": "Spain",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_es.gif",
+	"politicalGroupCode": "guengl",
+	"politicalGroupLabel": "Confederal Group of the European United Left - Nordic Green Left",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_guengl.png",
+	"nationalPoliticalGroupLabel": "Izquierda Unida",
+	"email": "javier.cousopermuy@europarl.europa.eu",
+	"roles": [
+		{
+			"Vice-Chair": "Committee on Foreign Affairs"
+		},
+		{
+			"Member": "Delegation for relations with the NATO Parliamentary Assembly"
+		},
+		{
+			"Substitute": "Delegation to the Euro-Latin American Parliamentary Assembly"
+		}
+	]
+}

@@ -1,0 +1,23 @@
+{
+	"id": "96858",
+	"fullName": "Marie-Christine VERGIAT",
+	"countryCode": "fr",
+	"countryLabel": "France",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_fr.gif",
+	"politicalGroupCode": "guengl",
+	"politicalGroupLabel": "Confederal Group of the European United Left - Nordic Green Left",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_guengl.png",
+	"nationalPoliticalGroupLabel": "Front de Gauche",
+	"email": "marie-christine.vergiat@europarl.europa.eu",
+	"webPage": "http://www.eurocitoyenne.fr/",
+	"facebookPageUrl": "http://www.facebook.com/pages/Marie-Christine-Vergiat-D%C3%A9put%C3%A9e-europ%C3%A9enne-Front-de-gauche/197597963585193",
+	"twitterUrl": "http://twitter.com/#!/MCVergiat",
+	"roles": [
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Substitute": "Committee on Foreign Affairs"
+		}
+	]
+}

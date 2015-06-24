@@ -1,0 +1,24 @@
+{
+	"id": "124773",
+	"fullName": "Jean ARTHUIS",
+	"countryCode": "fr",
+	"countryLabel": "France",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_fr.gif",
+	"politicalGroupCode": "aldeadle",
+	"politicalGroupLabel": "Group of the Alliance of Liberals and Democrats for Europe",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_aldeadle.png",
+	"nationalPoliticalGroupLabel": "Union des Démocrates et Indépendants",
+	"email": "jean.arthuis@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/JeanArthuis",
+	"roles": [
+		{
+			"Substitute": "Committee on Agriculture and Rural Development"
+		},
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Chair": "Committee on Budgets"
+		}
+	]
+}

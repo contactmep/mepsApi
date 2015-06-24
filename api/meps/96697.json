@@ -1,0 +1,28 @@
+{
+	"id": "96697",
+	"fullName": "Valdemar TOMAŠEVSKI",
+	"countryCode": "lt",
+	"countryLabel": "Lithuania",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_lt.gif",
+	"politicalGroupCode": "ecr",
+	"politicalGroupLabel": "European Conservatives and Reformists Group",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_ecr.png",
+	"nationalPoliticalGroupLabel": "Lietuvos lenkų rinkimų akcija",
+	"email": "valdemar.tomasevski@europarl.europa.eu",
+	"webPage": "http://www.vtomasevski.lt",
+	"facebookPageUrl": "https://www.facebook.com/home.php#!/VTomasevski",
+	"roles": [
+		{
+			"Vice-Chair": "Delegation for relations with Belarus"
+		},
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Substitute": "Committee on Agriculture and Rural Development"
+		},
+		{
+			"Member of the Bureau": "European Conservatives and Reformists Group"
+		}
+	]
+}

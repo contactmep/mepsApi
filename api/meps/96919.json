@@ -1,0 +1,25 @@
+{
+	"id": "96919",
+	"fullName": "Emma McCLARKIN",
+	"countryCode": "gb",
+	"countryLabel": "United Kingdom",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_gb.gif",
+	"politicalGroupCode": "ecr",
+	"politicalGroupLabel": "European Conservatives and Reformists Group",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_ecr.png",
+	"nationalPoliticalGroupLabel": "Conservative Party",
+	"email": "emma.mcclarkin@europarl.europa.eu",
+	"webPage": "http://www.emmamcclarkin.com/",
+	"twitterUrl": "http://twitter.com/#!/EmmaMcClarkin",
+	"roles": [
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Substitute": "Committee on Culture and Education"
+		},
+		{
+			"Treasurer": "European Conservatives and Reformists Group"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"id": "23768",
+	"fullName": "Bogusław LIBERADZKI",
+	"countryCode": "pl",
+	"countryLabel": "Poland",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_pl.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Sojusz Lewicy Demokratycznej",
+	"email": "boguslaw.liberadzki@europarl.europa.eu",
+	"webPage": "http://www.liberadzki.pl/",
+	"twitterUrl": "https://twitter.com/BLiberadzki",
+	"roles": [
+		{
+			"Member": "Quaestors"
+		},
+		{
+			"Substitute": "Delegation for relations with the Arab Peninsula"
+		},
+		{
+			"Quaestor": "European Parliament"
+		}
+	]
+}

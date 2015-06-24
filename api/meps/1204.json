@@ -1,0 +1,26 @@
+{
+	"id": "1204",
+	"fullName": "Alain LAMASSOURE",
+	"countryCode": "fr",
+	"countryLabel": "France",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_fr.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Les Républicains",
+	"email": "alain.lamassoure@europarl.europa.eu",
+	"webPage": "http://www.alainlamassoure.com",
+	"facebookPageUrl": "https://www.facebook.com/alainlamassoure#!/lamassoure?fref=ts",
+	"twitterUrl": "https://twitter.com/ALamassoure",
+	"roles": [
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Chair": "Special Committee on Tax Rulings and Other Measures Similar in Nature or Effect"
+		},
+		{
+			"Substitute": "Committee on Budgets"
+		}
+	]
+}

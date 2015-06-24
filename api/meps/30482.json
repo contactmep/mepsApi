@@ -1,0 +1,24 @@
+{
+	"id": "30482",
+	"fullName": "Younous OMARJEE",
+	"countryCode": "fr",
+	"countryLabel": "France",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_fr.gif",
+	"politicalGroupCode": "guengl",
+	"politicalGroupLabel": "Confederal Group of the European United Left - Nordic Green Left",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_guengl.png",
+	"nationalPoliticalGroupLabel": "L'union pour les Outremer",
+	"email": "younous.omarjee@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/younousomarjee",
+	"roles": [
+		{
+			"Member": "Confederal Group of the European United Left - Nordic Green Left"
+		},
+		{
+			"Vice-Chair": "Committee on Regional Development"
+		},
+		{
+			"Substitute": "Committee on the Environment, Public Health and Food Safety"
+		}
+	]
+}

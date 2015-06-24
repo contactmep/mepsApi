@@ -1,0 +1,24 @@
+{
+	"id": "96948",
+	"fullName": "Gilles PARGNEAUX",
+	"countryCode": "fr",
+	"countryLabel": "France",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_fr.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Parti socialiste",
+	"email": "gilles.pargneaux@europarl.europa.eu",
+	"twitterUrl": "http://twitter.com/#!/gillespargneaux",
+	"roles": [
+		{
+			"Vice-Chair": "Committee on the Environment, Public Health and Food Safety"
+		},
+		{
+			"Substitute": "Delegation for relations with the Maghreb countries and the Arab Maghreb Union"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

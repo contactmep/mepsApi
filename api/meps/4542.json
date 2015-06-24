@@ -1,0 +1,22 @@
+{
+	"id": "4542",
+	"fullName": "Timothy KIRKHOPE",
+	"countryCode": "gb",
+	"countryLabel": "United Kingdom",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_gb.gif",
+	"politicalGroupCode": "ecr",
+	"politicalGroupLabel": "European Conservatives and Reformists Group",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_ecr.png",
+	"nationalPoliticalGroupLabel": "Conservative Party",
+	"email": "timothy.kirkhope@europarl.europa.eu",
+	"webPage": "http://www.kirkhope.org.GB/",
+	"twitterUrl": "https://twitter.com/TimKirkhopeMEP",
+	"roles": [
+		{
+			"Member": "Delegation for relations with the United States"
+		},
+		{
+			"Substitute": "Committee on Transport and Tourism"
+		}
+	]
+}

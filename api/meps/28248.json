@@ -1,0 +1,24 @@
+{
+	"id": "28248",
+	"fullName": "Gabriele ZIMMER",
+	"countryCode": "de",
+	"countryLabel": "Germany",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_de.gif",
+	"politicalGroupCode": "guengl",
+	"politicalGroupLabel": "Confederal Group of the European United Left - Nordic Green Left",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_guengl.png",
+	"nationalPoliticalGroupLabel": "DIE LINKE.",
+	"email": "gabriele.zimmer@europarl.europa.eu",
+	"webPage": "http://www.gabi-zimmer.de",
+	"roles": [
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Substitute": "Committee on Employment and Social Affairs"
+		},
+		{
+			"Chair": "Confederal Group of the European United Left - Nordic Green Left"
+		}
+	]
+}

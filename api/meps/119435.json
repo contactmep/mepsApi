@@ -1,0 +1,22 @@
+{
+	"id": "119435",
+	"fullName": "Davor Ivo STIER",
+	"countryCode": "hr",
+	"countryLabel": "Croatia",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_hr.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Hrvatska demokratska zajednica",
+	"email": "davor.stier@europarl.europa.eu",
+	"facebookPageUrl": "https://www.facebook.com/davorstier",
+	"twitterUrl": "https://twitter.com/davorstier",
+	"roles": [
+		{
+			"Substitute": "Committee on International Trade"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

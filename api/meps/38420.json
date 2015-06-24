@@ -1,0 +1,20 @@
+{
+	"id": "38420",
+	"fullName": "Cristian-Silviu BUŞOI",
+	"countryCode": "ro",
+	"countryLabel": "Romania",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_ro.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Partidul Naţional Liberal",
+	"email": "cristiansilviu.busoi@europarl.europa.eu",
+	"roles": [
+		{
+			"Substitute": "Committee on the Internal Market and Consumer Protection"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

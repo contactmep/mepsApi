@@ -1,0 +1,24 @@
+{
+	"id": "125109",
+	"fullName": "Eva KAILI",
+	"countryCode": "gr",
+	"countryLabel": "Greece",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_gr.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Panhellenic Socialist Movement - Olive Tree",
+	"email": "eva.kaili@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/EvaKaili",
+	"roles": [
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Substitute": "Delegation to the EU-Russia Parliamentary Cooperation Committee"
+		},
+		{
+			"Chair": "Delegation for relations with the NATO Parliamentary Assembly"
+		}
+	]
+}

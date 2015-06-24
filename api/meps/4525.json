@@ -1,0 +1,26 @@
+{
+	"id": "4525",
+	"fullName": "Nigel FARAGE",
+	"countryCode": "gb",
+	"countryLabel": "United Kingdom",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_gb.gif",
+	"politicalGroupCode": "efd",
+	"politicalGroupLabel": "Europe of Freedom and Direct Democracy Group",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_efd.png",
+	"nationalPoliticalGroupLabel": "United Kingdom Independence Party",
+	"email": "nigel.farage@europarl.europa.eu",
+	"webPage": "http://nigelfaragemep.co.uk/",
+	"facebookPageUrl": "http://www.facebook.com/pages/Nigel-Farage-MEP/133737666673845",
+	"twitterUrl": "http://twitter.com/#!/nigel_farage",
+	"roles": [
+		{
+			"youtubeURL": "http://www.youtube.com/user/NigelFarageChannel"
+		},
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Co-Chair": "Europe of Freedom and Direct Democracy Group"
+		}
+	]
+}

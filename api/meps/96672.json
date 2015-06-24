@@ -1,0 +1,25 @@
+{
+	"id": "96672",
+	"fullName": "Marita ULVSKOG",
+	"countryCode": "se",
+	"countryLabel": "Sweden",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_se.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Arbetarepartiet- Socialdemokraterna",
+	"email": "marita.ulvskog@europarl.europa.eu",
+	"webPage": "http://www.sap.se/marita",
+	"twitterUrl": "http://twitter.com/maritaulvskog",
+	"roles": [
+		{
+			"Vice-Chair": "Committee on Employment and Social Affairs"
+		},
+		{
+			"Substitute": "Delegation for relations with the United States"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

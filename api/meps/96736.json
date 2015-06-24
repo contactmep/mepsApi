@@ -1,0 +1,26 @@
+{
+	"id": "96736",
+	"fullName": "Jan Philipp ALBRECHT",
+	"countryCode": "de",
+	"countryLabel": "Germany",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_de.gif",
+	"politicalGroupCode": "greensefa",
+	"politicalGroupLabel": "Group of the Greens/European Free Alliance",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_greensefa.png",
+	"nationalPoliticalGroupLabel": "Bündnis 90/Die Grünen",
+	"email": "jan.albrecht@europarl.europa.eu",
+	"webPage": "http://www.janalbrecht.eu",
+	"facebookPageUrl": "http://www.facebook.com/#!/janphilippalbrecht",
+	"twitterUrl": "http://twitter.com/janalbrecht",
+	"roles": [
+		{
+			"Substitute": "Committee on the Internal Market and Consumer Protection"
+		},
+		{
+			"Vice-Chair": "Committee on Civil Liberties, Justice and Home Affairs"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

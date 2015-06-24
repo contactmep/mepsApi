@@ -1,0 +1,22 @@
+{
+	"id": "96646",
+	"fullName": "Helmut SCHOLZ",
+	"countryCode": "de",
+	"countryLabel": "Germany",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_de.gif",
+	"politicalGroupCode": "guengl",
+	"politicalGroupLabel": "Confederal Group of the European United Left - Nordic Green Left",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_guengl.png",
+	"nationalPoliticalGroupLabel": "DIE LINKE.",
+	"email": "helmut.scholz@europarl.europa.eu",
+	"webPage": "http//www.die-linke.de",
+	"facebookPageUrl": "http://www.facebook.com/pages/Helmut-Scholz/187440699554",
+	"roles": [
+		{
+			"Substitute": "Committee on Foreign Affairs"
+		},
+		{
+			"Member": "Confederal Group of the European United Left - Nordic Green Left"
+		}
+	]
+}

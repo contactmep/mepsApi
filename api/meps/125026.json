@@ -1,0 +1,21 @@
+{
+	"id": "125026",
+	"fullName": "Angelika MLINAR",
+	"countryCode": "at",
+	"countryLabel": "Austria",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_at.gif",
+	"politicalGroupCode": "aldeadle",
+	"politicalGroupLabel": "Group of the Alliance of Liberals and Democrats for Europe",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_aldeadle.png",
+	"nationalPoliticalGroupLabel": "NEOS – Das Neue Österreich",
+	"email": "angelika.mlinar@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/AngelikaMlinar",
+	"roles": [
+		{
+			"Substitute": "Delegation for relations with Switzerland and Norway and to the EU-Iceland Joint Parliamentary Committee and the European Economic Area (EEA) Joint Parliamentary Committee"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

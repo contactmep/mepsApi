@@ -1,0 +1,25 @@
+{
+	"id": "124816",
+	"fullName": "Julia REDA",
+	"countryCode": "de",
+	"countryLabel": "Germany",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_de.gif",
+	"politicalGroupCode": "greensefa",
+	"politicalGroupLabel": "Group of the Greens/European Free Alliance",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_greensefa.png",
+	"nationalPoliticalGroupLabel": "Piratenpartei Deutschland",
+	"email": "julia.reda@europarl.europa.eu",
+	"facebookPageUrl": "https://www.facebook.com/JuliaRedaMEP",
+	"twitterUrl": "https://twitter.com/#!/senficon",
+	"roles": [
+		{
+			"Substitute": "Committee on the Internal Market and Consumer Protection"
+		},
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Vice-Chair": "Group of the Greens/European Free Alliance"
+		}
+	]
+}

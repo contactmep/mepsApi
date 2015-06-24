@@ -1,0 +1,23 @@
+{
+	"id": "124810",
+	"fullName": "Barbara SPINELLI",
+	"countryCode": "it",
+	"countryLabel": "Italy",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_it.gif",
+	"politicalGroupCode": "guengl",
+	"politicalGroupLabel": "Confederal Group of the European United Left - Nordic Green Left",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_guengl.png",
+	"nationalPoliticalGroupLabel": "Independent",
+	"email": "barbara.spinelli@europarl.europa.eu",
+	"roles": [
+		{
+			"Substitute": "Delegation to the EU-Russia Parliamentary Cooperation Committee"
+		},
+		{
+			"Vice-Chair": "Committee on Constitutional Affairs"
+		},
+		{
+			"Member": "Confederal Group of the European United Left - Nordic Green Left"
+		}
+	]
+}

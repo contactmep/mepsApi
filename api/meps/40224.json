@@ -1,0 +1,24 @@
+{
+	"id": "40224",
+	"fullName": "Andi CRISTEA",
+	"countryCode": "ro",
+	"countryLabel": "Romania",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_ro.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Partidul Social Democrat",
+	"email": "andi.cristea@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/andicristeamep",
+	"roles": [
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Substitute": "Committee on the Internal Market and Consumer Protection"
+		},
+		{
+			"Chair": "Delegation to the EU-Moldova Parliamentary Cooperation Committee"
+		}
+	]
+}

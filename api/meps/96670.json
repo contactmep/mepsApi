@@ -1,0 +1,24 @@
+{
+	"id": "96670",
+	"fullName": "Louis MICHEL",
+	"countryCode": "be",
+	"countryLabel": "Belgium",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_be.gif",
+	"politicalGroupCode": "aldeadle",
+	"politicalGroupLabel": "Group of the Alliance of Liberals and Democrats for Europe",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_aldeadle.png",
+	"nationalPoliticalGroupLabel": "Mouvement Réformateur",
+	"email": "louis.michel@europarl.europa.eu",
+	"facebookPageUrl": "https://www.facebook.com/pages/Louis-MICHEL/59334014584",
+	"roles": [
+		{
+			"Substitute": "Committee on Development"
+		},
+		{
+			"Member": "Conference of Delegation Chairs"
+		},
+		{
+			"Chair": "Delegation to the ACP-EU Joint Parliamentary Assembly"
+		}
+	]
+}

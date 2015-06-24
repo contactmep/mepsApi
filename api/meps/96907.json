@@ -1,0 +1,24 @@
+{
+	"id": "96907",
+	"fullName": "Takis HADJIGEORGIOU",
+	"countryCode": "cy",
+	"countryLabel": "Cyprus",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_cy.gif",
+	"politicalGroupCode": "guengl",
+	"politicalGroupLabel": "Confederal Group of the European United Left - Nordic Green Left",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_guengl.png",
+	"nationalPoliticalGroupLabel": "Progressive Party of Working People - Left - New Forces",
+	"email": "takis.hadjigeorgiou@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/thadjigeorgiou",
+	"roles": [
+		{
+			"Member": "Confederal Group of the European United Left - Nordic Green Left"
+		},
+		{
+			"Substitute": "Committee on Foreign Affairs"
+		},
+		{
+			"Vice-Chair": "Delegation to the EU-Turkey Joint Parliamentary Committee"
+		}
+	]
+}

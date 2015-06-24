@@ -1,0 +1,21 @@
+{
+	"id": "125670",
+	"fullName": "Massimiliano SALINI",
+	"countryCode": "it",
+	"countryLabel": "Italy",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_it.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Nuovo Centrodestra - Unione di Centro",
+	"email": "massimiliano.salini@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/MaxSalini",
+	"roles": [
+		{
+			"Member": "Group of the European People's Party (Christian Democrats)"
+		},
+		{
+			"Substitute": "Committee on Industry, Research and Energy"
+		}
+	]
+}

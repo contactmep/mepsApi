@@ -1,0 +1,20 @@
+{
+	"id": "124745",
+	"fullName": "Iveta GRIGULE",
+	"countryCode": "lv",
+	"countryLabel": "Latvia",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_lv.gif",
+	"politicalGroupCode": "aldeadle",
+	"politicalGroupLabel": "Group of the Alliance of Liberals and Democrats for Europe",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_aldeadle.png",
+	"nationalPoliticalGroupLabel": "Zaļo un Zemnieku savienība",
+	"email": "iveta.grigule@europarl.europa.eu",
+	"roles": [
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Chair": "Delegation to the EU-Kazakhstan, EU-Kyrgyzstan, EU-Uzbekistan and EU-Tajikistan Parliamentary Cooperation Committees and for relations with Turkmenistan and Mongolia"
+		}
+	]
+}

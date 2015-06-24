@@ -1,0 +1,25 @@
+{
+	"id": "118859",
+	"fullName": "Roberta METSOLA",
+	"countryCode": "mt",
+	"countryLabel": "Malta",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_mt.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Partit Nazzjonalista",
+	"email": "roberta.metsola@europarl.europa.eu",
+	"facebookPageUrl": "https://www.facebook.com/roberta.metsola",
+	"twitterUrl": "https://twitter.com/robertametsola",
+	"roles": [
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Substitute": "Committee on the Internal Market and Consumer Protection"
+		},
+		{
+			"Vice-Chair": "Committee on Petitions"
+		}
+	]
+}

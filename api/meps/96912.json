@@ -1,0 +1,24 @@
+{
+	"id": "96912",
+	"fullName": "David CAMPBELL BANNERMAN",
+	"countryCode": "gb",
+	"countryLabel": "United Kingdom",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_gb.gif",
+	"politicalGroupCode": "ecr",
+	"politicalGroupLabel": "European Conservatives and Reformists Group",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_ecr.png",
+	"nationalPoliticalGroupLabel": "Conservative Party",
+	"email": "david.campbellbannerman@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/DCBMEP",
+	"roles": [
+		{
+			"Substitute": "Subcommittee on Security and Defence"
+		},
+		{
+			"Member": "Committee on International Trade"
+		},
+		{
+			"Chair": "Delegation for relations with Iraq"
+		}
+	]
+}

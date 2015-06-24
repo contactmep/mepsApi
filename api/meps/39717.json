@@ -1,0 +1,23 @@
+{
+	"id": "39717",
+	"fullName": "Ramona Nicole MĂNESCU",
+	"countryCode": "ro",
+	"countryLabel": "Romania",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_ro.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Partidul Naţional Liberal",
+	"email": "ramonanicole.manescu@europarl.europa.eu",
+	"roles": [
+		{
+			"Vice-Chair": "Delegation for relations with the Mashreq countries"
+		},
+		{
+			"Substitute": "Delegation for relations with the Arab Peninsula"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

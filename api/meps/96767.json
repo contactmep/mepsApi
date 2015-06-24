@@ -1,0 +1,25 @@
+{
+	"id": "96767",
+	"fullName": "Werner KUHN",
+	"countryCode": "de",
+	"countryLabel": "Germany",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_de.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Christlich Demokratische Union Deutschlands",
+	"email": "werner.kuhn@europarl.europa.eu",
+	"facebookPageUrl": "http://www.facebook.com/?ref=home#!/pages/Werner-Kuhn-Mitglied-des-Europ%C3%A4ischen-Parlaments/125192747538592",
+	"twitterUrl": "http://twitter.com/#!/WernerKuhnMdEP",
+	"roles": [
+		{
+			"Vice-Chair": "Committee on Fisheries"
+		},
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Substitute": "Delegation to the EU-Russia Parliamentary Cooperation Committee"
+		}
+	]
+}

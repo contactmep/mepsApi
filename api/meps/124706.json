@@ -1,0 +1,24 @@
+{
+	"id": "124706",
+	"fullName": "Pavel TELIČKA",
+	"countryCode": "cz",
+	"countryLabel": "Czech Republic",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_cz.gif",
+	"politicalGroupCode": "aldeadle",
+	"politicalGroupLabel": "Group of the Alliance of Liberals and Democrats for Europe",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_aldeadle.png",
+	"nationalPoliticalGroupLabel": "ANO 2011",
+	"email": "pavel.telicka@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/Telicka",
+	"roles": [
+		{
+			"Substitute": "Delegation for relations with Belarus"
+		},
+		{
+			"Vice-Chair": "Group of the Alliance of Liberals and Democrats for Europe"
+		},
+		{
+			"Member": "Committee on Transport and Tourism"
+		}
+	]
+}

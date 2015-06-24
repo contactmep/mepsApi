@@ -1,0 +1,23 @@
+{
+	"id": "124702",
+	"fullName": "Jaromír ŠTĚTINA",
+	"countryCode": "cz",
+	"countryLabel": "Czech Republic",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_cz.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "TOP 09 a Starostové",
+	"email": "jaromir.stetina@europarl.europa.eu",
+	"roles": [
+		{
+			"Vice-Chair": "Subcommittee on Security and Defence"
+		},
+		{
+			"Substitute": "Delegation for relations with Belarus"
+		},
+		{
+			"Member": "Committee on Foreign Affairs"
+		}
+	]
+}

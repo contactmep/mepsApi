@@ -1,0 +1,27 @@
+{
+	"id": "124820",
+	"fullName": "Bernd LUCKE",
+	"countryCode": "de",
+	"countryLabel": "Germany",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_de.gif",
+	"politicalGroupCode": "ecr",
+	"politicalGroupLabel": "European Conservatives and Reformists Group",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_ecr.png",
+	"nationalPoliticalGroupLabel": "Alternative für Deutschland",
+	"email": "bernd.lucke@europarl.europa.eu",
+	"facebookPageUrl": "https://www.facebook.com/BerndLuckeMdEP",
+	"roles": [
+		{
+			"Vice-Chair": "Special Committee on Tax Rulings and Other Measures Similar in Nature or Effect"
+		},
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Substitute": "Committee on Development"
+		},
+		{
+			"Member of the Bureau": "European Conservatives and Reformists Group"
+		}
+	]
+}

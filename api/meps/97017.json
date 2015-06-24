@@ -1,0 +1,28 @@
+{
+	"id": "97017",
+	"fullName": "Ulrike LUNACEK",
+	"countryCode": "at",
+	"countryLabel": "Austria",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_at.gif",
+	"politicalGroupCode": "greensefa",
+	"politicalGroupLabel": "Group of the Greens/European Free Alliance",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_greensefa.png",
+	"nationalPoliticalGroupLabel": "Die Grünen - Die Grüne Alternative",
+	"email": "ulrike.lunacek@europarl.europa.eu",
+	"facebookPageUrl": "http://www.facebook.com/ulrike.lunacek",
+	"twitterUrl": "http://twitter.com/#!/UlrikeLunacek",
+	"roles": [
+		{
+			"Vice-Chair": "Delegation for relations with Bosnia and Herzegovina, and Kosovo"
+		},
+		{
+			"Substitute": "Delegation to the EU-Serbia Stabilisation and Association Parliamentary Committee"
+		},
+		{
+			"Member": "Group of the Greens/European Free Alliance"
+		},
+		{
+			"Vice-President": "European Parliament"
+		}
+	]
+}

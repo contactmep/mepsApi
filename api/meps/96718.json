@@ -1,0 +1,25 @@
+{
+	"id": "96718",
+	"fullName": "Olga SEHNALOVÁ",
+	"countryCode": "cz",
+	"countryLabel": "Czech Republic",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_cz.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Česká strana sociálně demokratická",
+	"email": "olga.sehnalova@europarl.europa.eu",
+	"webPage": "http://www.sehnalova.cz",
+	"twitterUrl": "https://twitter.com/#!/OlgaSehnalova",
+	"roles": [
+		{
+			"Vice-Chair": "Delegation for relations with Israel"
+		},
+		{
+			"Substitute": "Delegation for relations with the countries of Southeast Asia and the Association of Southeast Asian Nations (ASEAN)"
+		},
+		{
+			"Member": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament"
+		}
+	]
+}

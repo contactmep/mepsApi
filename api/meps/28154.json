@@ -1,0 +1,22 @@
+{
+	"id": "28154",
+	"fullName": "Ole CHRISTENSEN",
+	"countryCode": "dk",
+	"countryLabel": "Denmark",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_dk.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Socialdemokratiet",
+	"email": "ole.christensen@europarl.europa.eu",
+	"webPage": "http://www.oleeu.dk",
+	"twitterUrl": "https://twitter.com/OleEU",
+	"roles": [
+		{
+			"Substitute": "Delegation to the EU-Turkey Joint Parliamentary Committee"
+		},
+		{
+			"Member": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament"
+		}
+	]
+}

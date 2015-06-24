@@ -1,0 +1,27 @@
+{
+	"id": "96871",
+	"fullName": "Michael THEURER",
+	"countryCode": "de",
+	"countryLabel": "Germany",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_de.gif",
+	"politicalGroupCode": "aldeadle",
+	"politicalGroupLabel": "Group of the Alliance of Liberals and Democrats for Europe",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_aldeadle.png",
+	"nationalPoliticalGroupLabel": "Freie Demokratische Partei",
+	"email": "michael.theurer@europarl.europa.eu",
+	"webPage": "http://michaeltheurer.de",
+	"roles": [
+		{
+			"youtubeURL": "http://www.youtube.com/user/TheurerMichael"
+		},
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Chair": "Delegation for relations with Australia and New Zealand"
+		},
+		{
+			"Substitute": "Committee on Industry, Research and Energy"
+		}
+	]
+}

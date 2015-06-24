@@ -1,0 +1,25 @@
+{
+	"id": "96882",
+	"fullName": "Elisabeth KÖSTINGER",
+	"countryCode": "at",
+	"countryLabel": "Austria",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_at.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Österreichische Volkspartei",
+	"email": "elisabeth.koestinger@europarl.europa.eu",
+	"webPage": "http://www.elisabeth-koestinger.at",
+	"twitterUrl": "http://twitter.com/#!/ElliKoestinger",
+	"roles": [
+		{
+			"Substitute": "Committee on the Environment, Public Health and Food Safety"
+		},
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Vice-Chair": "Delegation to the EU-Armenia, EU-Azerbaijan and EU-Georgia Parliamentary Cooperation Committees"
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"id": "96991",
+	"fullName": "Eider GARDIAZABAL RUBIAL",
+	"countryCode": "es",
+	"countryLabel": "Spain",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_es.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Partido Socialista Obrero Español",
+	"email": "eider.gardiazabalrubial@europarl.europa.eu",
+	"roles": [
+		{
+			"Substitute": "Special Committee on Tax Rulings and Other Measures Similar in Nature or Effect"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"id": "124776",
+	"fullName": "Mady DELVAUX",
+	"countryCode": "lu",
+	"countryLabel": "Luxembourg",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_lu.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Parti ouvrier socialiste luxembourgeois",
+	"email": "mady.delvaux-stehres@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/mady_delvaux",
+	"roles": [
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Substitute": "Delegation for relations with the Pan-African Parliament"
+		},
+		{
+			"Vice-Chair": "Committee on Legal Affairs"
+		}
+	]
+}

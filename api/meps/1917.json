@@ -1,0 +1,29 @@
+{
+	"id": "1917",
+	"fullName": "Markus FERBER",
+	"countryCode": "de",
+	"countryLabel": "Germany",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_de.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Christlich-Soziale Union in Bayern e.V.",
+	"email": "markus.ferber@europarl.europa.eu",
+	"webPage": "http://www.markus-ferber.de",
+	"facebookPageUrl": "https://www.facebook.com/MarkusFerberEU?ref=hl",
+	"twitterUrl": "https://twitter.com/MarkusFerber",
+	"roles": [
+		{
+			"youtubeURL": "https://www.youtube.com/user/MarkusFerber"
+		},
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Substitute": "Committee on Transport and Tourism"
+		},
+		{
+			"Vice-Chair": "Committee on Economic and Monetary Affairs"
+		}
+	]
+}

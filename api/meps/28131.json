@@ -1,0 +1,25 @@
+{
+	"id": "28131",
+	"fullName": "Anna HEDH",
+	"countryCode": "se",
+	"countryLabel": "Sweden",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_se.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Arbetarepartiet- Socialdemokraterna",
+	"email": "anna.hedh@europarl.europa.eu",
+	"webPage": "http://www.sap.se/anna",
+	"twitterUrl": "https://twitter.com/#!/AnnaHedh",
+	"roles": [
+		{
+			"Substitute": "Delegation for relations with the countries of Central America"
+		},
+		{
+			"Vice-Chair": "Delegation for relations with Switzerland and Norway and to the EU-Iceland Joint Parliamentary Committee and the European Economic Area (EEA) Joint Parliamentary Committee"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

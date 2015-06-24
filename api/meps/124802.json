@@ -1,0 +1,25 @@
+{
+	"id": "124802",
+	"fullName": "Siegfried MUREŞAN",
+	"countryCode": "ro",
+	"countryLabel": "Romania",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_ro.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Partidul Mișcarea Populară",
+	"email": "siegfried.muresan@europarl.europa.eu",
+	"facebookPageUrl": "https://www.facebook.com/SiegfriedMEP",
+	"twitterUrl": "https://twitter.com/SMuresan",
+	"roles": [
+		{
+			"Substitute": "Delegation for relations with India"
+		},
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Vice-Chair": "Committee on Budgets"
+		}
+	]
+}

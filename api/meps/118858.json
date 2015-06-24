@@ -1,0 +1,25 @@
+{
+	"id": "118858",
+	"fullName": "Marlene MIZZI",
+	"countryCode": "mt",
+	"countryLabel": "Malta",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_mt.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Partit Laburista",
+	"email": "marlene.mizzi@europarl.europa.eu",
+	"facebookPageUrl": "http://www.facebook.com/mizzimarlene",
+	"twitterUrl": "https://twitter.com/MarleneMizzi",
+	"roles": [
+		{
+			"Substitute": "Committee on Culture and Education"
+		},
+		{
+			"Member": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament"
+		},
+		{
+			"Vice-Chair": "Committee on Petitions"
+		}
+	]
+}

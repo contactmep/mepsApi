@@ -1,0 +1,25 @@
+{
+	"id": "124872",
+	"fullName": "Morten Helveg PETERSEN",
+	"countryCode": "dk",
+	"countryLabel": "Denmark",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_dk.gif",
+	"politicalGroupCode": "aldeadle",
+	"politicalGroupLabel": "Group of the Alliance of Liberals and Democrats for Europe",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_aldeadle.png",
+	"nationalPoliticalGroupLabel": "Det Radikale Venstre",
+	"email": "mortenhelveg.petersen@europarl.europa.eu",
+	"facebookPageUrl": "https://www.facebook.com/morten.h.petersen.75",
+	"twitterUrl": "https://twitter.com/mortenhelveg",
+	"roles": [
+		{
+			"Substitute": "Delegation for relations with the United States"
+		},
+		{
+			"Vice-Chair": "Committee on Industry, Research and Energy"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

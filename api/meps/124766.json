@@ -1,0 +1,27 @@
+{
+	"id": "124766",
+	"fullName": "Petras AUŠTREVIČIUS",
+	"countryCode": "lt",
+	"countryLabel": "Lithuania",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_lt.gif",
+	"politicalGroupCode": "aldeadle",
+	"politicalGroupLabel": "Group of the Alliance of Liberals and Democrats for Europe",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_aldeadle.png",
+	"nationalPoliticalGroupLabel": "Lietuvos Respublikos liberalų sąjūdis",
+	"email": "petras.austrevicius@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/petras_petras",
+	"roles": [
+		{
+			"Member": "Committee on Foreign Affairs"
+		},
+		{
+			"Chair": "Delegation for relations with Afghanistan"
+		},
+		{
+			"Vice-Chair": "Group of the Alliance of Liberals and Democrats for Europe"
+		},
+		{
+			"Substitute": "Delegation to the EU-Moldova Parliamentary Cooperation Committee"
+		}
+	]
+}

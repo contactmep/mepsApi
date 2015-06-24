@@ -1,0 +1,25 @@
+{
+	"id": "28178",
+	"fullName": "Miroslav MIKOLÁŠIK",
+	"countryCode": "sk",
+	"countryLabel": "Slovakia",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_sk.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Kresťanskodemokratické hnutie",
+	"email": "miroslav.mikolasik@europarl.europa.eu",
+	"webPage": "http://www.mikolasik.sk",
+	"facebookPageUrl": "https://www.facebook.com/mikolasik.sk",
+	"roles": [
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Vice-Chair": "Delegation to the Euro-Latin American Parliamentary Assembly"
+		},
+		{
+			"Substitute": "Delegation to the EU-Russia Parliamentary Cooperation Committee"
+		}
+	]
+}

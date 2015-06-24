@@ -1,0 +1,25 @@
+{
+	"id": "23894",
+	"fullName": "Anna ZÁBORSKÁ",
+	"countryCode": "sk",
+	"countryLabel": "Slovakia",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_sk.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Kresťanskodemokratické hnutie",
+	"email": "anna.zaborska@europarl.europa.eu",
+	"webPage": "http://www.zaborska.sk",
+	"twitterUrl": "http://twitter.com/#!/AnnaZaborska",
+	"roles": [
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Vice-Chair": "Delegation to the Cariforum — EU Parliamentary Committee"
+		},
+		{
+			"Substitute": "Delegation for relations with the Maghreb countries and the Arab Maghreb Union"
+		}
+	]
+}

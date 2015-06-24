@@ -1,0 +1,25 @@
+{
+	"id": "96680",
+	"fullName": "Zigmantas BALČYTIS",
+	"countryCode": "lt",
+	"countryLabel": "Lithuania",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_lt.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Lietuvos socialdemokratų partija",
+	"email": "zigmantas.balcytis@europarl.europa.eu",
+	"webPage": "http://www.balcytis.lt",
+	"twitterUrl": "http://twitter.com/balcytis",
+	"roles": [
+		{
+			"Substitute": "Committee on Foreign Affairs"
+		},
+		{
+			"Member": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament"
+		},
+		{
+			"Vice-Chair": "Delegation to the Euronest Parliamentary Assembly"
+		}
+	]
+}

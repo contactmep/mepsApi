@@ -1,0 +1,28 @@
+{
+	"id": "112611",
+	"fullName": "Petri SARVAMAA",
+	"countryCode": "fi",
+	"countryLabel": "Finland",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_fi.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Kansallinen Kokoomus",
+	"email": "petri.sarvamaa@europarl.europa.eu",
+	"webPage": "http://www.youtube.com/user/petrisarvamaa",
+	"twitterUrl": "http://twitter.com/#!/petrisarvamaa",
+	"roles": [
+		{
+			"youtubeURL": "http://www.youtube.com/user/petrisarvamaa"
+		},
+		{
+			"Substitute": "Delegation to the EU-Russia Parliamentary Cooperation Committee"
+		},
+		{
+			"Member": "Kansallinen Kokoomus"
+		},
+		{
+			"Vice-Chair": "Committee on Budgets"
+		}
+	]
+}

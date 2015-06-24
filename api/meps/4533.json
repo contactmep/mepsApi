@@ -1,0 +1,24 @@
+{
+	"id": "4533",
+	"fullName": "Neena GILL",
+	"countryCode": "gb",
+	"countryLabel": "United Kingdom",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_gb.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Labour Party",
+	"email": "neena.gill@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/NeenaGmep",
+	"roles": [
+		{
+			"Substitute": "Special Committee on Tax Rulings and Other Measures Similar in Nature or Effect"
+		},
+		{
+			"Vice-Chair": "Delegation for relations with India"
+		},
+		{
+			"Member": "Delegation for relations with the United States"
+		}
+	]
+}

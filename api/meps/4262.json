@@ -1,0 +1,25 @@
+{
+	"id": "4262",
+	"fullName": "Jo LEINEN",
+	"countryCode": "de",
+	"countryLabel": "Germany",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_de.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Sozialdemokratische Partei Deutschlands",
+	"email": "jo.leinen@europarl.europa.eu",
+	"webPage": "http://www.joleinen.de",
+	"facebookPageUrl": "http://www.facebook.com/#!/JoLeinen",
+	"roles": [
+		{
+			"Member": "Sozialdemokratische Partei Deutschlands"
+		},
+		{
+			"Chair": "Delegation for relations with the People's Republic of China"
+		},
+		{
+			"Substitute": "Committee on the Environment, Public Health and Food Safety"
+		}
+	]
+}

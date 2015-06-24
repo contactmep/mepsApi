@@ -1,0 +1,23 @@
+{
+	"id": "1164",
+	"fullName": "Bruno GOLLNISCH",
+	"countryCode": "fr",
+	"countryLabel": "France",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_fr.gif",
+	"politicalGroupCode": "ni",
+	"politicalGroupLabel": "Non-attached Members",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_ni.png",
+	"nationalPoliticalGroupLabel": "Front national",
+	"email": "bruno.gollnisch@europarl.europa.eu",
+	"webPage": "http://www.gollnisch.com",
+	"facebookPageUrl": "http://www.facebook.com/pages/BRUNO-GOLLNISCH/10150116023785282",
+	"twitterUrl": "http://twitter.com/#!/brunogollnisch",
+	"roles": [
+		{
+			"Substitute": "Committee on Industry, Research and Energy"
+		},
+		{
+			"Member": "Non-attached Members"
+		}
+	]
+}

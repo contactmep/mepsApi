@@ -1,0 +1,26 @@
+{
+	"id": "96848",
+	"fullName": "Mariya GABRIEL",
+	"countryCode": "bg",
+	"countryLabel": "Bulgaria",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_bg.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Citizens for European Development of Bulgaria",
+	"email": "mariya.gabriel@europarl.europa.eu",
+	"webPage": "http://www.mariya-nedelcheva.eu",
+	"facebookPageUrl": "http://www.facebook.com/pages/Mariya-Nedelcheva/162032700492472",
+	"twitterUrl": "https://twitter.com/GabrielMariya",
+	"roles": [
+		{
+			"Substitute": "Delegation for relations with the Arab Peninsula"
+		},
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Vice-Chair": "Group of the European People's Party (Christian Democrats)"
+		}
+	]
+}

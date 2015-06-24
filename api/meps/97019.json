@@ -1,0 +1,21 @@
+{
+	"id": "97019",
+	"fullName": "Ivo VAJGL",
+	"countryCode": "si",
+	"countryLabel": "Slovenia",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_si.gif",
+	"politicalGroupCode": "aldeadle",
+	"politicalGroupLabel": "Group of the Alliance of Liberals and Democrats for Europe",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_aldeadle.png",
+	"nationalPoliticalGroupLabel": "DeSUS - Demokratična Stranka Upokojencev Slovenije",
+	"email": "ivo.vajgl@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/ivajgl",
+	"roles": [
+		{
+			"Member": "Committee on Foreign Affairs"
+		},
+		{
+			"Substitute": "Committee on Employment and Social Affairs"
+		}
+	]
+}

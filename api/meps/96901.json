@@ -1,0 +1,22 @@
+{
+	"id": "96901",
+	"fullName": "Krišjānis KARIŅŠ",
+	"countryCode": "lv",
+	"countryLabel": "Latvia",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_lv.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Partija \"VIENOTĪBA\"",
+	"email": "krisjanis.karins@europarl.europa.eu",
+	"webPage": "http://www.karins.lv",
+	"twitterUrl": "http://twitter.com/#!/krisjaniskarins",
+	"roles": [
+		{
+			"Substitute": "Delegation to the EU-Armenia, EU-Azerbaijan and EU-Georgia Parliamentary Cooperation Committees"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

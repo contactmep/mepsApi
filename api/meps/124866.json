@@ -1,0 +1,21 @@
+{
+	"id": "124866",
+	"fullName": "Ilhan KYUCHYUK",
+	"countryCode": "bg",
+	"countryLabel": "Bulgaria",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_bg.gif",
+	"politicalGroupCode": "aldeadle",
+	"politicalGroupLabel": "Group of the Alliance of Liberals and Democrats for Europe",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_aldeadle.png",
+	"nationalPoliticalGroupLabel": "Movement for Rights and Freedoms",
+	"email": "ilhan.kyuchyuk@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/ilhankyuchyuk",
+	"roles": [
+		{
+			"Member": "Committee on Foreign Affairs"
+		},
+		{
+			"Substitute": "Delegation for relations with the United States"
+		}
+	]
+}

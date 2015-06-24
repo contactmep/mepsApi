@@ -1,0 +1,21 @@
+{
+	"id": "4465",
+	"fullName": "Raffaele FITTO",
+	"countryCode": "it",
+	"countryLabel": "Italy",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_it.gif",
+	"politicalGroupCode": "ecr",
+	"politicalGroupLabel": "European Conservatives and Reformists Group",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_ecr.png",
+	"nationalPoliticalGroupLabel": "Forza Italia",
+	"email": "raffaele.fitto@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/RaffaeleFitto",
+	"roles": [
+		{
+			"Substitute": "Delegation for relations with the countries of Southeast Asia and the Association of Southeast Asian Nations (ASEAN)"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

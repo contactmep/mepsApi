@@ -1,0 +1,25 @@
+{
+	"id": "28297",
+	"fullName": "Jacek SARYUSZ-WOLSKI",
+	"countryCode": "pl",
+	"countryLabel": "Poland",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_pl.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Platforma Obywatelska",
+	"email": "jacek.saryusz-wolski@europarl.europa.eu",
+	"webPage": "http://www.saryusz-wolski.pl",
+	"facebookPageUrl": "http://www.facebook.com/pages/Jacek-Saryusz-Wolski/136832079670438",
+	"roles": [
+		{
+			"Member": "Committee on Foreign Affairs"
+		},
+		{
+			"Substitute": "Delegation to the EU-Armenia, EU-Azerbaijan and EU-Georgia Parliamentary Cooperation Committees"
+		},
+		{
+			"Vice-Chair": "Group of the European People's Party (Christian Democrats)"
+		}
+	]
+}

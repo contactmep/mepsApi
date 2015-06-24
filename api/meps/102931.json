@@ -1,0 +1,22 @@
+{
+	"id": "102931",
+	"fullName": "Keith TAYLOR",
+	"countryCode": "gb",
+	"countryLabel": "United Kingdom",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_gb.gif",
+	"politicalGroupCode": "greensefa",
+	"politicalGroupLabel": "Group of the Greens/European Free Alliance",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_greensefa.png",
+	"nationalPoliticalGroupLabel": "Green Party",
+	"email": "keith.taylor@europarl.europa.eu",
+	"webPage": "http://www.keithtaylormep.org.GB/",
+	"twitterUrl": "https://twitter.com/GreenKeithMEP",
+	"roles": [
+		{
+			"Member": "Committee on Transport and Tourism"
+		},
+		{
+			"Substitute": "Committee on the Environment, Public Health and Food Safety"
+		}
+	]
+}

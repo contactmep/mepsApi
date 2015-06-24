@@ -1,0 +1,22 @@
+{
+	"id": "72775",
+	"fullName": "Rachida DATI",
+	"countryCode": "fr",
+	"countryLabel": "France",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_fr.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Les Républicains",
+	"email": "rachida.dati@europarl.europa.eu",
+	"facebookPageUrl": "http://www.facebook.com/pages/Rachida-Dati/107359612629511",
+	"twitterUrl": "http://twitter.com/#!/datirachida",
+	"roles": [
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Substitute": "Delegation for relations with the Arab Peninsula"
+		}
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"id": "96911",
+	"fullName": "Tanja FAJON",
+	"countryCode": "si",
+	"countryLabel": "Slovenia",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_si.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Socialni demokrati",
+	"email": "tanja.fajon@europarl.europa.eu",
+	"webPage": "http://www.tanja-fajon.eu",
+	"facebookPageUrl": "https://www.facebook.com/tanja.fajon",
+	"twitterUrl": "http://twitter.com/#!/tfajon",
+	"roles": [
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Substitute": "Delegation to the EU-Moldova Parliamentary Cooperation Committee"
+		},
+		{
+			"Vice-Chair": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament"
+		}
+	]
+}

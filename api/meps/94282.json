@@ -1,0 +1,21 @@
+{
+	"id": "94282",
+	"fullName": "Jean-Paul DENANOT",
+	"countryCode": "fr",
+	"countryLabel": "France",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_fr.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Parti socialiste",
+	"email": "jean-paul.denanot@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/jpdenanot",
+	"roles": [
+		{
+			"Substitute": "Delegation for relations with Bosnia and Herzegovina, and Kosovo"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

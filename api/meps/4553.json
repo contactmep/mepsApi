@@ -1,0 +1,25 @@
+{
+	"id": "4553",
+	"fullName": "Jacqueline FOSTER",
+	"countryCode": "gb",
+	"countryLabel": "United Kingdom",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_gb.gif",
+	"politicalGroupCode": "ecr",
+	"politicalGroupLabel": "European Conservatives and Reformists Group",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_ecr.png",
+	"nationalPoliticalGroupLabel": "Conservative Party",
+	"email": "jacqueline.foster@europarl.europa.eu",
+	"facebookPageUrl": "http://www.facebook.com/pages/Jacqueline-Foster-MEP/368940170596?sk=wall",
+	"twitterUrl": "http://twitter.com/#!/jfostermep",
+	"roles": [
+		{
+			"Vice-Chair": "Delegation for relations with Australia and New Zealand"
+		},
+		{
+			"Member": "Committee on Transport and Tourism"
+		},
+		{
+			"Substitute": "Delegation for relations with the United States"
+		}
+	]
+}

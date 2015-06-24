@@ -1,0 +1,26 @@
+{
+	"id": "28266",
+	"fullName": "Sophia in 't VELD",
+	"countryCode": "nl",
+	"countryLabel": "Netherlands",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_nl.gif",
+	"politicalGroupCode": "aldeadle",
+	"politicalGroupLabel": "Group of the Alliance of Liberals and Democrats for Europe",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_aldeadle.png",
+	"nationalPoliticalGroupLabel": "Democraten 66",
+	"email": "sophie.intveld@europarl.europa.eu",
+	"webPage": "http://www.sophieintveld.eu",
+	"facebookPageUrl": "http://www.facebook.com/sophieintveld?sk=wall",
+	"twitterUrl": "http://twitter.com/#!/sophieintveld",
+	"roles": [
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Substitute": "Committee on Women's Rights and Gender Equality"
+		},
+		{
+			"Vice-Chair": "Group of the Alliance of Liberals and Democrats for Europe"
+		}
+	]
+}

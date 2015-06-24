@@ -1,0 +1,21 @@
+{
+	"id": "125092",
+	"fullName": "Kostadinka KUNEVA",
+	"countryCode": "gr",
+	"countryLabel": "Greece",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_gr.gif",
+	"politicalGroupCode": "guengl",
+	"politicalGroupLabel": "Confederal Group of the European United Left - Nordic Green Left",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_guengl.png",
+	"nationalPoliticalGroupLabel": "Coalition of the Radical Left",
+	"email": "kostadinka.kuneva@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/kkuneva",
+	"roles": [
+		{
+			"Member": "Confederal Group of the European United Left - Nordic Green Left"
+		},
+		{
+			"Substitute": "Committee on Women's Rights and Gender Equality"
+		}
+	]
+}

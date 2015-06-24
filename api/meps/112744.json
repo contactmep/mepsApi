@@ -1,0 +1,24 @@
+{
+	"id": "112744",
+	"fullName": "Tonino PICULA",
+	"countryCode": "hr",
+	"countryLabel": "Croatia",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_hr.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Socijaldemokratska partija Hrvatske",
+	"email": "tonino.picula@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/TPicula",
+	"roles": [
+		{
+			"Member": "Committee on Foreign Affairs"
+		},
+		{
+			"Chair": "Delegation for relations with Bosnia and Herzegovina, and Kosovo"
+		},
+		{
+			"Substitute": "Delegation to the EU-Serbia Stabilisation and Association Parliamentary Committee"
+		}
+	]
+}

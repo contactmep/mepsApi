@@ -1,0 +1,24 @@
+{
+	"id": "125003",
+	"fullName": "Igor ŠOLTES",
+	"countryCode": "si",
+	"countryLabel": "Slovenia",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_si.gif",
+	"politicalGroupCode": "greensefa",
+	"politicalGroupLabel": "Group of the Greens/European Free Alliance",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_greensefa.png",
+	"nationalPoliticalGroupLabel": "Verjamem! Lista dr. Igorja Šoltesa",
+	"email": "igor.soltes@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/isoltesEP",
+	"roles": [
+		{
+			"Vice-Chair": "Committee on Budgetary Control"
+		},
+		{
+			"Substitute": "Committee on Foreign Affairs"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

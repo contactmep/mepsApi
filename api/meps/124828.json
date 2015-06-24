@@ -1,0 +1,24 @@
+{
+	"id": "124828",
+	"fullName": "Fulvio MARTUSCIELLO",
+	"countryCode": "it",
+	"countryLabel": "Italy",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_it.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Forza Italia",
+	"email": "fulvio.martusciello@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/fulviomartuscie",
+	"roles": [
+		{
+			"Substitute": "Committee on Industry, Research and Energy"
+		},
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Chair": "Delegation for relations with Israel"
+		}
+	]
+}

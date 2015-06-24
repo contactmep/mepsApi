@@ -1,0 +1,22 @@
+{
+	"id": "28288",
+	"fullName": "Jan OLBRYCHT",
+	"countryCode": "pl",
+	"countryLabel": "Poland",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_pl.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Platforma Obywatelska",
+	"email": "jan.olbrycht@europarl.europa.eu",
+	"webPage": "http://www.janolbrycht.pl",
+	"facebookPageUrl": "http://www.facebook.com/search.php?q=jan%20OLBRYCHT&init=quick&tas=0.23262792874221944&ref=ts#!/pages/Jan-Olbrycht/153098244704447",
+	"roles": [
+		{
+			"Member": "Group of the European People's Party (Christian Democrats)"
+		},
+		{
+			"Substitute": "Committee on Regional Development"
+		}
+	]
+}

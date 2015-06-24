@@ -1,0 +1,22 @@
+{
+	"id": "1892",
+	"fullName": "Carlos COELHO",
+	"countryCode": "pt",
+	"countryLabel": "Portugal",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_pt.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Partido Social Democrata",
+	"email": "carlos.coelho@europarl.europa.eu",
+	"webPage": "http://www.carloscoelho.eu",
+	"twitterUrl": "http://twitter.com/#!/CarlosCoelhoPE",
+	"roles": [
+		{
+			"Substitute": "Delegation for relations with Japan"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

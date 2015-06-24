@@ -1,0 +1,21 @@
+{
+	"id": "124749",
+	"fullName": "Marijana PETIR",
+	"countryCode": "hr",
+	"countryLabel": "Croatia",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_hr.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Hrvatska seljačka stranka",
+	"email": "marijana.petir@europarl.europa.eu",
+	"facebookPageUrl": "https://www.facebook.com/Petir.Marijana",
+	"roles": [
+		{
+			"Member": "Hrvatska seljačka stranka"
+		},
+		{
+			"Substitute": "Committee on the Environment, Public Health and Food Safety"
+		}
+	]
+}

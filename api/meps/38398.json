@@ -1,0 +1,26 @@
+{
+	"id": "38398",
+	"fullName": "Esther de LANGE",
+	"countryCode": "nl",
+	"countryLabel": "Netherlands",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_nl.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Christen Democratisch Appèl",
+	"email": "esther.delange@europarl.europa.eu",
+	"webPage": "http://www.estherdelange.nl",
+	"facebookPageUrl": "http://www.facebook.com/esther.delange1",
+	"twitterUrl": "http://twitter.com/#!/Esther_de_Lange",
+	"roles": [
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Vice-Chair": "Group of the European People's Party (Christian Democrats)"
+		},
+		{
+			"Substitute": "Delegation for relations with the United States"
+		}
+	]
+}

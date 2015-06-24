@@ -1,0 +1,26 @@
+{
+	"id": "28206",
+	"fullName": "Jean-Marie CAVADA",
+	"countryCode": "fr",
+	"countryLabel": "France",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_fr.gif",
+	"politicalGroupCode": "aldeadle",
+	"politicalGroupLabel": "Group of the Alliance of Liberals and Democrats for Europe",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_aldeadle.png",
+	"nationalPoliticalGroupLabel": "Nous Citoyens",
+	"email": "jean-marie.cavada@europarl.europa.eu",
+	"webPage": "http://www.jeanmariecavada.eu",
+	"facebookPageUrl": "http://www.facebook.com/?ref=home#!/pages/Jean-Marie-Cavada/180453773116",
+	"twitterUrl": "https://twitter.com/JeanMarieCAVADA",
+	"roles": [
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Vice-Chair": "Committee on Legal Affairs"
+		},
+		{
+			"Substitute": "Committee on Culture and Education"
+		}
+	]
+}

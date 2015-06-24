@@ -1,0 +1,26 @@
+{
+	"id": "29579",
+	"fullName": "Marc TARABELLA",
+	"countryCode": "be",
+	"countryLabel": "Belgium",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_be.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Parti Socialiste",
+	"email": "marc.tarabella@europarl.europa.eu",
+	"webPage": "http://www.tarabella.eu",
+	"facebookPageUrl": "http://www.facebook.com/pages/Marc-Tarabella/440244735250",
+	"twitterUrl": "http://twitter.com/#!/marctarabella",
+	"roles": [
+		{
+			"Substitute": "Committee on Women's Rights and Gender Equality"
+		},
+		{
+			"Vice-Chair": "Delegation for relations with the countries of Southeast Asia and the Association of Southeast Asian Nations (ASEAN)"
+		},
+		{
+			"Member": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament"
+		}
+	]
+}

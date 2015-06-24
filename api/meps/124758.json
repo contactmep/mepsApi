@@ -1,0 +1,22 @@
+{
+	"id": "124758",
+	"fullName": "Mylène TROSZCZYNSKI",
+	"countryCode": "fr",
+	"countryLabel": "France",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_fr.gif",
+	"politicalGroupCode": "enf",
+	"politicalGroupLabel": "Europe of Nations and Freedom",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_enf.png",
+	"nationalPoliticalGroupLabel": "Front national",
+	"email": "mylene.troszczynski@europarl.europa.eu",
+	"facebookPageUrl": "https://www.facebook.com/mylenetroszczynskiofficiel",
+	"twitterUrl": "https://twitter.com/MyleneTroszczyn",
+	"roles": [
+		{
+			"Substitute": "Committee on Development"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

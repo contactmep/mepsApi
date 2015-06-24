@@ -1,0 +1,21 @@
+{
+	"id": "96784",
+	"fullName": "Janusz ZEMKE",
+	"countryCode": "pl",
+	"countryLabel": "Poland",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_pl.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Sojusz Lewicy Demokratycznej - Unia Pracy",
+	"email": "janusz.zemke@europarl.europa.eu",
+	"webPage": "http://www.janusz-zemke.pl/",
+	"roles": [
+		{
+			"Substitute": "Delegation for relations with the countries of South Asia"
+		},
+		{
+			"Member": "Committee on Transport and Tourism"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"id": "124804",
+	"fullName": "Elly SCHLEIN",
+	"countryCode": "it",
+	"countryLabel": "Italy",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_it.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Partito Democratico",
+	"email": "elly.schlein@europarl.europa.eu",
+	"facebookPageUrl": "https://www.facebook.com/ellyschlein1",
+	"twitterUrl": "https://twitter.com/ellyesse",
+	"roles": [
+		{
+			"Vice-Chair": "Delegation to the EU-Albania Stabilisation and Association Parliamentary Committee"
+		},
+		{
+			"Substitute": "Committee on Women's Rights and Gender Equality"
+		},
+		{
+			"Member": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament"
+		}
+	]
+}

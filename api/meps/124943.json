@@ -1,0 +1,20 @@
+{
+	"id": "124943",
+	"fullName": "Andrew LEWER",
+	"countryCode": "gb",
+	"countryLabel": "United Kingdom",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_gb.gif",
+	"politicalGroupCode": "ecr",
+	"politicalGroupLabel": "European Conservatives and Reformists Group",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_ecr.png",
+	"nationalPoliticalGroupLabel": "Conservative Party",
+	"email": "andrew.lewer@europarl.europa.eu",
+	"roles": [
+		{
+			"Substitute": "Delegation for relations with Mercosur"
+		},
+		{
+			"Member": "Committee on Regional Development"
+		}
+	]
+}

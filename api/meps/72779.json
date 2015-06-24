@@ -1,0 +1,21 @@
+{
+	"id": "72779",
+	"fullName": "Nadine MORANO",
+	"countryCode": "fr",
+	"countryLabel": "France",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_fr.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Les Républicains",
+	"email": "nadine.morano@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/nadine__morano",
+	"roles": [
+		{
+			"Substitute": "Delegation to the ACP-EU Joint Parliamentary Assembly"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

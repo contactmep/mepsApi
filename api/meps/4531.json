@@ -1,0 +1,25 @@
+{
+	"id": "4531",
+	"fullName": "Jean LAMBERT",
+	"countryCode": "gb",
+	"countryLabel": "United Kingdom",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_gb.gif",
+	"politicalGroupCode": "greensefa",
+	"politicalGroupLabel": "Group of the Greens/European Free Alliance",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_greensefa.png",
+	"nationalPoliticalGroupLabel": "Green Party",
+	"email": "jean.lambert@europarl.europa.eu",
+	"webPage": "http://www.jeanlambertmep.org.GB",
+	"facebookPageUrl": "http://www.facebook.com/pages/Jean-Lambert-MEP/5869598305",
+	"roles": [
+		{
+			"Member": "Committee on Employment and Social Affairs"
+		},
+		{
+			"Chair": "Delegation for relations with the countries of South Asia"
+		},
+		{
+			"Substitute": "Delegation for relations with India"
+		}
+	]
+}

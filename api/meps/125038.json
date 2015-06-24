@@ -1,0 +1,20 @@
+{
+	"id": "125038",
+	"fullName": "Maite PAGAZAURTUNDÚA RUIZ",
+	"countryCode": "es",
+	"countryLabel": "Spain",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_es.gif",
+	"politicalGroupCode": "aldeadle",
+	"politicalGroupLabel": "Group of the Alliance of Liberals and Democrats for Europe",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_aldeadle.png",
+	"nationalPoliticalGroupLabel": "Unión, Progreso y Democracia",
+	"email": "maite.pagaza@europarl.europa.eu",
+	"roles": [
+		{
+			"Substitute": "Delegation to the Euro-Latin American Parliamentary Assembly"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

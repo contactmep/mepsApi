@@ -1,0 +1,21 @@
+{
+	"id": "28398",
+	"fullName": "Carlos ITURGAIZ",
+	"countryCode": "es",
+	"countryLabel": "Spain",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_es.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Partido Popular",
+	"email": "carlos.iturgaiz@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/carlositurgaiz",
+	"roles": [
+		{
+			"Substitute": "Delegation for relations with South Africa"
+		},
+		{
+			"Member": "Committee on Fisheries"
+		}
+	]
+}

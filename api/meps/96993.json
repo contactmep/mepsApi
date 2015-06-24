@@ -1,0 +1,20 @@
+{
+	"id": "96993",
+	"fullName": "Lorenzo FONTANA",
+	"countryCode": "it",
+	"countryLabel": "Italy",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_it.gif",
+	"politicalGroupCode": "enf",
+	"politicalGroupLabel": "Europe of Nations and Freedom",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_enf.png",
+	"nationalPoliticalGroupLabel": "Lega Nord",
+	"email": "lorenzo.fontana@europarl.europa.eu",
+	"roles": [
+		{
+			"Substitute": "Delegation to the EU-Ukraine Parliamentary Cooperation Committee"
+		},
+		{
+			"Member": "Delegation for relations with Iraq"
+		}
+	]
+}

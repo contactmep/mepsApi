@@ -1,0 +1,25 @@
+{
+	"id": "96825",
+	"fullName": "Norica NICOLAI",
+	"countryCode": "ro",
+	"countryLabel": "Romania",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_ro.gif",
+	"politicalGroupCode": "aldeadle",
+	"politicalGroupLabel": "Group of the Alliance of Liberals and Democrats for Europe",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_aldeadle.png",
+	"nationalPoliticalGroupLabel": "Partidul Naţional Liberal",
+	"email": "norica.nicolai@europarl.europa.eu",
+	"facebookPageUrl": "https://www.facebook.com/#!/norica.nicolai",
+	"twitterUrl": "https://twitter.com/Norica_Nicolai",
+	"roles": [
+		{
+			"Vice-Chair": "Group of the Alliance of Liberals and Democrats for Europe"
+		},
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Substitute": "Committee on Economic and Monetary Affairs"
+		}
+	]
+}

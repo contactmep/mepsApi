@@ -1,0 +1,24 @@
+{
+	"id": "23821",
+	"fullName": "József SZÁJER",
+	"countryCode": "hu",
+	"countryLabel": "Hungary",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_hu.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Fidesz-Magyar Polgári Szövetség-Keresztény Demokrata Néppárt",
+	"email": "jozsef.szajer@europarl.europa.eu",
+	"webPage": "http://www.szajer.fidesz-eu.hu/",
+	"roles": [
+		{
+			"Member": "Delegation for relations with the United States"
+		},
+		{
+			"Substitute": "Committee on International Trade"
+		},
+		{
+			"Vice-Chair": "Group of the European People's Party (Christian Democrats)"
+		}
+	]
+}

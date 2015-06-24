@@ -1,0 +1,23 @@
+{
+	"id": "28122",
+	"fullName": "David CASA",
+	"countryCode": "mt",
+	"countryLabel": "Malta",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_mt.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Partit Nazzjonalista",
+	"email": "david.casa@europarl.europa.eu",
+	"webPage": "http://www.davidcasa.eu",
+	"facebookPageUrl": "https://www.facebook.com/david.casa.9",
+	"twitterUrl": "https://twitter.com/DavidCasaMEP",
+	"roles": [
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Substitute": "Special Committee on Tax Rulings and Other Measures Similar in Nature or Effect"
+		}
+	]
+}

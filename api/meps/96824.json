@@ -1,0 +1,25 @@
+{
+	"id": "96824",
+	"fullName": "Monica MACOVEI",
+	"countryCode": "ro",
+	"countryLabel": "Romania",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_ro.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Independent",
+	"email": "monica.macovei@europarl.europa.eu",
+	"webPage": "http://www.monicamacovei.eu/",
+	"twitterUrl": "https://twitter.com/MonicaMacovei1",
+	"roles": [
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Chair": "Delegation to the EU-Albania Stabilisation and Association Parliamentary Committee"
+		},
+		{
+			"Substitute": "Delegation for relations with the United States"
+		}
+	]
+}

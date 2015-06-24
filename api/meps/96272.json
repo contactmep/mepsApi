@@ -1,0 +1,24 @@
+{
+	"id": "96272",
+	"fullName": "Pavel SVOBODA",
+	"countryCode": "cz",
+	"countryLabel": "Czech Republic",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_cz.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Křesťanská a demokratická unie - Československá strana lidová",
+	"email": "pavel.svoboda@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/1PavelSvoboda",
+	"roles": [
+		{
+			"Substitute": "Committee on Transport and Tourism"
+		},
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Chair": "Committee on Legal Affairs"
+		}
+	]
+}

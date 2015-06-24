@@ -1,0 +1,26 @@
+{
+	"id": "96864",
+	"fullName": "David-Maria SASSOLI",
+	"countryCode": "it",
+	"countryLabel": "Italy",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_it.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Partito Democratico",
+	"email": "david.sassoli@europarl.europa.eu",
+	"webPage": "http://www.davidsassoli.it/",
+	"facebookPageUrl": "https://www.facebook.com/pages/David-Sassoli-pagina-ufficiale/89537383411",
+	"twitterUrl": "http://twitter.com/#!/DavidSassoli",
+	"roles": [
+		{
+			"Substitute": "Committee on Fisheries"
+		},
+		{
+			"Member": "Parliament's Bureau"
+		},
+		{
+			"Vice-President": "European Parliament"
+		}
+	]
+}

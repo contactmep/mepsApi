@@ -1,0 +1,24 @@
+{
+	"id": "124932",
+	"fullName": "Josep-Maria TERRICABRAS",
+	"countryCode": "es",
+	"countryLabel": "Spain",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_es.gif",
+	"politicalGroupCode": "greensefa",
+	"politicalGroupLabel": "Group of the Greens/European Free Alliance",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_greensefa.png",
+	"nationalPoliticalGroupLabel": "Esquerra Republicana de Catalunya",
+	"email": "josep-maria.terricabras@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/jmterricabras",
+	"roles": [
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Substitute": "Delegation to the EU-Former Yugoslav Republic of Macedonia Joint Parliamentary Committee"
+		},
+		{
+			"Vice-Chair": "Group of the Greens/European Free Alliance"
+		}
+	]
+}

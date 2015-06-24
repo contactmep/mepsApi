@@ -1,0 +1,21 @@
+{
+	"id": "124755",
+	"fullName": "Jean-Luc SCHAFFHAUSER",
+	"countryCode": "fr",
+	"countryLabel": "France",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_fr.gif",
+	"politicalGroupCode": "enf",
+	"politicalGroupLabel": "Europe of Nations and Freedom",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_enf.png",
+	"nationalPoliticalGroupLabel": "Rassemblement bleu Marine",
+	"email": "jean-luc.schaffhauser@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/JLSchaffhauser",
+	"roles": [
+		{
+			"Substitute": "Committee on Foreign Affairs"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

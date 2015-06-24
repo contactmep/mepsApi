@@ -1,0 +1,22 @@
+{
+	"id": "28224",
+	"fullName": "Markus PIEPER",
+	"countryCode": "de",
+	"countryLabel": "Germany",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_de.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Christlich Demokratische Union Deutschlands",
+	"email": "markus.pieper@europarl.europa.eu",
+	"webPage": "http://www.markus-pieper.eu",
+	"facebookPageUrl": "http://www.facebook.com/?ref=home#!/markus.pieper.mdep",
+	"roles": [
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Substitute": "Delegation for relations with Iran"
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"id": "98341",
+	"fullName": "Eva PAUNOVA",
+	"countryCode": "bg",
+	"countryLabel": "Bulgaria",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_bg.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Citizens for European Development of Bulgaria",
+	"email": "eva.paunova@europarl.europa.eu",
+	"roles": [
+		{
+			"Substitute": "Delegation for relations with the United States"
+		},
+		{
+			"Member": "Committee on the Internal Market and Consumer Protection"
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"id": "125093",
+	"fullName": "Konstantinos PAPADAKIS",
+	"countryCode": "gr",
+	"countryLabel": "Greece",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_gr.gif",
+	"politicalGroupCode": "ni",
+	"politicalGroupLabel": "Non-attached Members",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_ni.png",
+	"nationalPoliticalGroupLabel": "Communist Party of Greece",
+	"email": "konstantinos.papadakis@europarl.europa.eu",
+	"roles": [
+		{
+			"Substitute": "Committee on Foreign Affairs"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

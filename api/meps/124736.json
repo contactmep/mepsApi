@@ -1,0 +1,22 @@
+{
+	"id": "124736",
+	"fullName": "Merja KYLLÖNEN",
+	"countryCode": "fi",
+	"countryLabel": "Finland",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_fi.gif",
+	"politicalGroupCode": "guengl",
+	"politicalGroupLabel": "Confederal Group of the European United Left - Nordic Green Left",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_guengl.png",
+	"nationalPoliticalGroupLabel": "Vasemmistoliitto",
+	"email": "merja.kyllonen@europarl.europa.eu",
+	"facebookPageUrl": "https://www.facebook.com/kyllonen.merja?fref=ts",
+	"twitterUrl": "https://twitter.com/KyllonenMerja",
+	"roles": [
+		{
+			"Substitute": "Committee on the Environment, Public Health and Food Safety"
+		},
+		{
+			"Member": "Confederal Group of the European United Left - Nordic Green Left"
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"id": "124972",
+	"fullName": "Ernest URTASUN",
+	"countryCode": "es",
+	"countryLabel": "Spain",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_es.gif",
+	"politicalGroupCode": "greensefa",
+	"politicalGroupLabel": "Group of the Greens/European Free Alliance",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_greensefa.png",
+	"nationalPoliticalGroupLabel": "Iniciativa per Catalunya Verds",
+	"email": "ernest.urtasun@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/ernesturtasun",
+	"roles": [
+		{
+			"Substitute": "Committee on Foreign Affairs"
+		},
+		{
+			"Member": "Delegation for relations with the countries of Central America"
+		},
+		{
+			"Vice-Chair": "Delegation to the Euro-Latin American Parliamentary Assembly"
+		}
+	]
+}

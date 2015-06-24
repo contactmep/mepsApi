@@ -1,0 +1,21 @@
+{
+	"id": "124853",
+	"fullName": "Salvatore Domenico POGLIESE",
+	"countryCode": "it",
+	"countryLabel": "Italy",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_it.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Forza Italia",
+	"email": "salvatoredomenico.pogliese@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/SalvoPogliese",
+	"roles": [
+		{
+			"Member": "Committee on Transport and Tourism"
+		},
+		{
+			"Substitute": "Delegation for relations with the Maghreb countries and the Arab Maghreb Union"
+		}
+	]
+}

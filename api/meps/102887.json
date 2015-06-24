@@ -1,0 +1,20 @@
+{
+	"id": "102887",
+	"fullName": "Béla KOVÁCS",
+	"countryCode": "hu",
+	"countryLabel": "Hungary",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_hu.gif",
+	"politicalGroupCode": "ni",
+	"politicalGroupLabel": "Non-attached Members",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_ni.png",
+	"nationalPoliticalGroupLabel": "Jobbik Magyarországért Mozgalom",
+	"email": "bela.kovacs@europarl.europa.eu",
+	"roles": [
+		{
+			"Substitute": "Committee on Foreign Affairs"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

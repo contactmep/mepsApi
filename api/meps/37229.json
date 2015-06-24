@@ -1,0 +1,21 @@
+{
+	"id": "37229",
+	"fullName": "Kati PIRI",
+	"countryCode": "nl",
+	"countryLabel": "Netherlands",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_nl.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Partij van de Arbeid",
+	"email": "kati.piri@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/KatiPiri",
+	"roles": [
+		{
+			"Substitute": "Delegation to the EU-Turkey Joint Parliamentary Committee"
+		},
+		{
+			"Member": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament"
+		}
+	]
+}

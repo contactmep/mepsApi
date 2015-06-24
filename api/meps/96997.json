@@ -1,0 +1,22 @@
+{
+	"id": "96997",
+	"fullName": "Burkhard BALZ",
+	"countryCode": "de",
+	"countryLabel": "Germany",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_de.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Christlich Demokratische Union Deutschlands",
+	"email": "burkhard.balz@europarl.europa.eu",
+	"webPage": "http://www.burkhard-balz.eu",
+	"twitterUrl": "http://twitter.com/#!/buba0769",
+	"roles": [
+		{
+			"Substitute": "Delegation for relations with Japan"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"id": "96838",
+	"fullName": "Cristian Dan PREDA",
+	"countryCode": "ro",
+	"countryLabel": "Romania",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_ro.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Independent",
+	"email": "cristiandan.preda@europarl.europa.eu",
+	"webPage": "http://www.cristianpreda.ro",
+	"facebookPageUrl": "http://www.facebook.com/pages/Cristian-Preda/118374904896090",
+	"roles": [
+		{
+			"Substitute": "Delegation for relations with the Maghreb countries and the Arab Maghreb Union"
+		},
+		{
+			"Member": "Committee on Foreign Affairs"
+		},
+		{
+			"Vice-Chair": "Subcommittee on Human Rights"
+		}
+	]
+}

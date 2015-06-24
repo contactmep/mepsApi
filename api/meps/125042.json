@@ -1,0 +1,21 @@
+{
+	"id": "125042",
+	"fullName": "Javi LÓPEZ",
+	"countryCode": "es",
+	"countryLabel": "Spain",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_es.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Partit dels Socialistes de Catalunya",
+	"email": "javi.lopez@europarl.europa.eu",
+	"twitterUrl": "http://twitter.com/fjavilopez",
+	"roles": [
+		{
+			"Substitute": "Delegation for relations with Mercosur"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

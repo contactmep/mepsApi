@@ -1,0 +1,23 @@
+{
+	"id": "124937",
+	"fullName": "Peter ERIKSSON",
+	"countryCode": "se",
+	"countryLabel": "Sweden",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_se.gif",
+	"politicalGroupCode": "greensefa",
+	"politicalGroupLabel": "Group of the Greens/European Free Alliance",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_greensefa.png",
+	"nationalPoliticalGroupLabel": "Miljöpartiet de gröna",
+	"email": "peter.eriksson@europarl.europa.eu",
+	"roles": [
+		{
+			"Member": "Delegation to the EU-Moldova Parliamentary Cooperation Committee"
+		},
+		{
+			"Substitute": "Committee on Agriculture and Rural Development"
+		},
+		{
+			"Vice-Chair": "Group of the Greens/European Free Alliance"
+		}
+	]
+}

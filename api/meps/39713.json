@@ -1,0 +1,26 @@
+{
+	"id": "39713",
+	"fullName": "Renate WEBER",
+	"countryCode": "ro",
+	"countryLabel": "Romania",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_ro.gif",
+	"politicalGroupCode": "aldeadle",
+	"politicalGroupLabel": "Group of the Alliance of Liberals and Democrats for Europe",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_aldeadle.png",
+	"nationalPoliticalGroupLabel": "Partidul Naţional Liberal",
+	"email": "renate.weber@europarl.europa.eu",
+	"webPage": "http://www.renateweber.eu",
+	"facebookPageUrl": "http://www.facebook.com/renate.weber.mep",
+	"twitterUrl": "http://twitter.com/#!/renateweber",
+	"roles": [
+		{
+			"Vice-Chair": "Delegation to the EU-Chile Joint Parliamentary Committee"
+		},
+		{
+			"Substitute": "Subcommittee on Human Rights"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

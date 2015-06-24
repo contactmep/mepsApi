@@ -1,0 +1,25 @@
+{
+	"id": "28240",
+	"fullName": "Helga TRÜPEL",
+	"countryCode": "de",
+	"countryLabel": "Germany",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_de.gif",
+	"politicalGroupCode": "greensefa",
+	"politicalGroupLabel": "Group of the Greens/European Free Alliance",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_greensefa.png",
+	"nationalPoliticalGroupLabel": "Bündnis 90/Die Grünen",
+	"email": "helga.truepel@europarl.europa.eu",
+	"webPage": "http://www.helga-truepel.de",
+	"facebookPageUrl": "http://www.facebook.com/home.php#!/pages/Helga-Tr%C3%BCpel/32661055209",
+	"roles": [
+		{
+			"Substitute": "Delegation for relations with the United States"
+		},
+		{
+			"Member": "Group of the Greens/European Free Alliance"
+		},
+		{
+			"Vice-Chair": "Committee on Culture and Education"
+		}
+	]
+}

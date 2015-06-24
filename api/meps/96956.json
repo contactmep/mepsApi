@@ -1,0 +1,22 @@
+{
+	"id": "96956",
+	"fullName": "Julie GIRLING",
+	"countryCode": "gb",
+	"countryLabel": "United Kingdom",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_gb.gif",
+	"politicalGroupCode": "ecr",
+	"politicalGroupLabel": "European Conservatives and Reformists Group",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_ecr.png",
+	"nationalPoliticalGroupLabel": "Conservative Party",
+	"email": "julie.girling@europarl.europa.eu",
+	"webPage": "http://www.juliegirling.com/",
+	"twitterUrl": "http://twitter.com/#!/juliegirling",
+	"roles": [
+		{
+			"Substitute": "Committee on Agriculture and Rural Development"
+		},
+		{
+			"Member": "Committee on the Environment, Public Health and Food Safety"
+		}
+	]
+}

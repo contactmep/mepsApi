@@ -1,0 +1,24 @@
+{
+	"id": "124730",
+	"fullName": "Fernando RUAS",
+	"countryCode": "pt",
+	"countryLabel": "Portugal",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_pt.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Partido Social Democrata",
+	"email": "fernando.ruas@europarl.europa.eu",
+	"facebookPageUrl": "https://www.facebook.com/pages/Fernando-Ruas/1415528252047590",
+	"roles": [
+		{
+			"Substitute": "Delegation for relations with the Mashreq countries"
+		},
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Vice-Chair": "Delegation to the ACP-EU Joint Parliamentary Assembly"
+		}
+	]
+}

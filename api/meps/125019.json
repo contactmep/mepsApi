@@ -1,0 +1,24 @@
+{
+	"id": "125019",
+	"fullName": "Cora van NIEUWENHUIZEN",
+	"countryCode": "nl",
+	"countryLabel": "Netherlands",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_nl.gif",
+	"politicalGroupCode": "aldeadle",
+	"politicalGroupLabel": "Group of the Alliance of Liberals and Democrats for Europe",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_aldeadle.png",
+	"nationalPoliticalGroupLabel": "Volkspartij voor Vrijheid en Democratie",
+	"email": "cora.vannieuwenhuizen@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/CvNieuwenhuizen",
+	"roles": [
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Substitute": "Committee on Industry, Research and Energy"
+		},
+		{
+			"Vice-Chair": "Delegation for relations with India"
+		}
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"id": "1911",
+	"fullName": "Martin SCHULZ",
+	"countryCode": "de",
+	"countryLabel": "Germany",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_de.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Sozialdemokratische Partei Deutschlands",
+	"email": "President@europarl.europa.eu",
+	"webPage": "http://www.europarl.europa.eu/the-president/en/",
+	"facebookPageUrl": "http://www.facebook.com/martinschulz.eu",
+	"twitterUrl": "http://twitter.com/#!/MartinSchulz",
+	"roles": [
+		{
+			"Member": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament"
+		},
+		{
+			"Chair": "Delegation to the Parliamentary Assembly of the Union for the Mediterranean"
+		},
+		{
+			"President": "European Parliament"
+		}
+	]
+}

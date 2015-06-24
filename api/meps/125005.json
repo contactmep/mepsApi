@@ -1,0 +1,24 @@
+{
+	"id": "125005",
+	"fullName": "Javier NART",
+	"countryCode": "es",
+	"countryLabel": "Spain",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_es.gif",
+	"politicalGroupCode": "aldeadle",
+	"politicalGroupLabel": "Group of the Alliance of Liberals and Democrats for Europe",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_aldeadle.png",
+	"nationalPoliticalGroupLabel": "Ciudadanos – Partido de la Ciudadanía",
+	"email": "javier.nart@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/JavierNart",
+	"roles": [
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Substitute": "Committee on Development"
+		},
+		{
+			"Vice-Chair": "Delegation to the ACP-EU Joint Parliamentary Assembly"
+		}
+	]
+}

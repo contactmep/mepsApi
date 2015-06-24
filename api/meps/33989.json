@@ -1,0 +1,26 @@
+{
+	"id": "33989",
+	"fullName": "Daciana Octavia SÂRBU",
+	"countryCode": "ro",
+	"countryLabel": "Romania",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_ro.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Partidul Social Democrat",
+	"email": "dacianaoctavia.sarbu@europarl.europa.eu",
+	"webPage": "http://www.dacianasarbu.ro",
+	"facebookPageUrl": "https://www.facebook.com/pages/Daciana-Sarbu/175246899157836",
+	"twitterUrl": "https://twitter.com/DacianaSarbu",
+	"roles": [
+		{
+			"Substitute": "Delegation for relations with the People's Republic of China"
+		},
+		{
+			"Vice-Chair": "Committee on the Environment, Public Health and Food Safety"
+		},
+		{
+			"Member": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament"
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"id": "124842",
+	"fullName": "Daniela AIUTO",
+	"countryCode": "it",
+	"countryLabel": "Italy",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_it.gif",
+	"politicalGroupCode": "efd",
+	"politicalGroupLabel": "Europe of Freedom and Direct Democracy Group",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_efd.png",
+	"nationalPoliticalGroupLabel": "Movimento 5 Stelle",
+	"email": "daniela.aiuto@europarl.europa.eu",
+	"roles": [
+		{
+			"Member": "Committee on Transport and Tourism"
+		},
+		{
+			"Substitute": "Delegation for relations with Switzerland and Norway and to the EU-Iceland Joint Parliamentary Committee and the European Economic Area (EEA) Joint Parliamentary Committee"
+		}
+	]
+}

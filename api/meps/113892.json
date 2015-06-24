@@ -1,0 +1,24 @@
+{
+	"id": "113892",
+	"fullName": "Eric ANDRIEU",
+	"countryCode": "fr",
+	"countryLabel": "France",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_fr.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Parti socialiste",
+	"email": "eric.andrieu@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/ANDRIEU11",
+	"roles": [
+		{
+			"Substitute": "Delegation for relations with South Africa"
+		},
+		{
+			"Vice-Chair": "Committee on Agriculture and Rural Development"
+		},
+		{
+			"Member": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament"
+		}
+	]
+}

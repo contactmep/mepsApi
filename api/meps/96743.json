@@ -1,0 +1,26 @@
+{
+	"id": "96743",
+	"fullName": "Michèle RIVASI",
+	"countryCode": "fr",
+	"countryLabel": "France",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_fr.gif",
+	"politicalGroupCode": "greensefa",
+	"politicalGroupLabel": "Group of the Greens/European Free Alliance",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_greensefa.png",
+	"nationalPoliticalGroupLabel": "Europe Écologie",
+	"email": "michele.rivasi@europarl.europa.eu",
+	"webPage": "http://www.michele-rivasi.eu/",
+	"facebookPageUrl": "https://www.facebook.com/Michele.Rivasi",
+	"twitterUrl": "http://twitter.com/michelerivasi",
+	"roles": [
+		{
+			"Substitute": "Committee on Industry, Research and Energy"
+		},
+		{
+			"Member": "Committee on the Environment, Public Health and Food Safety"
+		},
+		{
+			"Vice-Chair": "Group of the Greens/European Free Alliance"
+		}
+	]
+}

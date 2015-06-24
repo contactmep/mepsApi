@@ -1,0 +1,24 @@
+{
+	"id": "23706",
+	"fullName": "Miloslav RANSDORF",
+	"countryCode": "cz",
+	"countryLabel": "Czech Republic",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_cz.gif",
+	"politicalGroupCode": "guengl",
+	"politicalGroupLabel": "Confederal Group of the European United Left - Nordic Green Left",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_guengl.png",
+	"nationalPoliticalGroupLabel": "Komunistická strana Čech a Moravy",
+	"email": "miloslav.ransdorf@europarl.europa.eu",
+	"webPage": "http://www.ransdorf.com",
+	"roles": [
+		{
+			"Substitute": "Committee on Foreign Affairs"
+		},
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Vice-Chair": "Committee on Industry, Research and Energy"
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"id": "28226",
+	"fullName": "Christian EHLER",
+	"countryCode": "de",
+	"countryLabel": "Germany",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_de.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Christlich Demokratische Union Deutschlands",
+	"email": "christian.ehler@europarl.europa.eu",
+	"webPage": "http://www.christian-ehler.de",
+	"facebookPageUrl": "https://www.facebook.com/ehler",
+	"roles": [
+		{
+			"Substitute": "Committee on Foreign Affairs"
+		},
+		{
+			"Vice-Chair": "Subcommittee on Security and Defence"
+		},
+		{
+			"Member": "Delegation for relations with the United States"
+		}
+	]
+}

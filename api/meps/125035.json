@@ -1,0 +1,21 @@
+{
+	"id": "125035",
+	"fullName": "Lola SÁNCHEZ CALDENTEY",
+	"countryCode": "es",
+	"countryLabel": "Spain",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_es.gif",
+	"politicalGroupCode": "guengl",
+	"politicalGroupLabel": "Confederal Group of the European United Left - Nordic Green Left",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_guengl.png",
+	"nationalPoliticalGroupLabel": "PODEMOS",
+	"email": "mariadoloreslola.sanchezcaldentey@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/LolaPodemos",
+	"roles": [
+		{
+			"Substitute": "Delegation for relations with the United States"
+		},
+		{
+			"Member": "Committee on Development"
+		}
+	]
+}

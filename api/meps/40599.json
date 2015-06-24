@@ -1,0 +1,23 @@
+{
+	"id": "40599",
+	"fullName": "Sirpa PIETIKÄINEN",
+	"countryCode": "fi",
+	"countryLabel": "Finland",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_fi.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Kansallinen Kokoomus",
+	"email": "sirpa.pietikainen@europarl.europa.eu",
+	"webPage": "http://www.sirpapietikainen.net",
+	"facebookPageUrl": "https://www.facebook.com/pages/Sirpa-Pietik%C3%A4inen/140188405326?ref=hl",
+	"twitterUrl": "https://twitter.com/spietikainen",
+	"roles": [
+		{
+			"Substitute": "Committee on the Environment, Public Health and Food Safety"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

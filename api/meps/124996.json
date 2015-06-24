@@ -1,0 +1,23 @@
+{
+	"id": "124996",
+	"fullName": "Peter LUNDGREN",
+	"countryCode": "se",
+	"countryLabel": "Sweden",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_se.gif",
+	"politicalGroupCode": "efd",
+	"politicalGroupLabel": "Europe of Freedom and Direct Democracy Group",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_efd.png",
+	"nationalPoliticalGroupLabel": "Sverigedemokraterna",
+	"email": "peter.lundgren@europarl.europa.eu",
+	"roles": [
+		{
+			"Substitute": "Committee on Agriculture and Rural Development"
+		},
+		{
+			"Vice-Chair": "Europe of Freedom and Direct Democracy Group"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

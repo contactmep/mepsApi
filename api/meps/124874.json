@@ -1,0 +1,23 @@
+{
+	"id": "124874",
+	"fullName": "Bolesław G. PIECHA",
+	"countryCode": "pl",
+	"countryLabel": "Poland",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_pl.gif",
+	"politicalGroupCode": "ecr",
+	"politicalGroupLabel": "European Conservatives and Reformists Group",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_ecr.png",
+	"nationalPoliticalGroupLabel": "Prawo i Sprawiedliwość",
+	"email": "boleslaw.piecha@europarl.europa.eu",
+	"roles": [
+		{
+			"Member": "Committee on the Environment, Public Health and Food Safety"
+		},
+		{
+			"Substitute": "Committee on International Trade"
+		},
+		{
+			"Chair": "Delegation to the Cariforum — EU Parliamentary Committee"
+		}
+	]
+}

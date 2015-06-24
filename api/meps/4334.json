@@ -1,0 +1,24 @@
+{
+	"id": "4334",
+	"fullName": "Elena VALENCIANO",
+	"countryCode": "es",
+	"countryLabel": "Spain",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_es.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Partido Socialista Obrero Español",
+	"email": "elena.valenciano@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/ElenaValenciano",
+	"roles": [
+		{
+			"Substitute": "Committee on Petitions"
+		},
+		{
+			"Member": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament"
+		},
+		{
+			"Chair": "Subcommittee on Human Rights"
+		}
+	]
+}

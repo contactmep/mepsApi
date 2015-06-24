@@ -1,0 +1,23 @@
+{
+	"id": "125048",
+	"fullName": "Marina ALBIOL GUZMÁN",
+	"countryCode": "es",
+	"countryLabel": "Spain",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_es.gif",
+	"politicalGroupCode": "guengl",
+	"politicalGroupLabel": "Confederal Group of the European United Left - Nordic Green Left",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_guengl.png",
+	"nationalPoliticalGroupLabel": "Izquierda Unida",
+	"email": "marina.albiol@europarl.europa.eu",
+	"roles": [
+		{
+			"Member": "Confederal Group of the European United Left - Nordic Green Left"
+		},
+		{
+			"Substitute": "Committee on Development"
+		},
+		{
+			"Vice-Chair": "Delegation to the Euro-Latin American Parliamentary Assembly"
+		}
+	]
+}

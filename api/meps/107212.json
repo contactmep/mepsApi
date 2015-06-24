@@ -1,0 +1,21 @@
+{
+	"id": "107212",
+	"fullName": "Andrey NOVAKOV",
+	"countryCode": "bg",
+	"countryLabel": "Bulgaria",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_bg.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Citizens for European Development of Bulgaria",
+	"email": "andrey.novakov@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/andreynovakov",
+	"roles": [
+		{
+			"Substitute": "Committee on Budgets"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

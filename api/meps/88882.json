@@ -1,0 +1,28 @@
+{
+	"id": "88882",
+	"fullName": "Victor NEGRESCU",
+	"countryCode": "ro",
+	"countryLabel": "Romania",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_ro.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Partidul Social Democrat",
+	"email": "victor.negrescu@europarl.europa.eu",
+	"facebookPageUrl": "https://www.facebook.com/victornegrescu",
+	"twitterUrl": "https://twitter.com/negrescuvictor",
+	"roles": [
+		{
+			"googlePlusId": "https://plus.google.com/+VictorNegrescu/posts"
+		},
+		{
+			"youtubeURL": "https://www.youtube.com/user/negrescuvictor/"
+		},
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Substitute": "Delegation for relations with Canada"
+		}
+	]
+}

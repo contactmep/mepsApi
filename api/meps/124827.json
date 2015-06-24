@@ -1,0 +1,20 @@
+{
+	"id": "124827",
+	"fullName": "Joachim STARBATTY",
+	"countryCode": "de",
+	"countryLabel": "Germany",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_de.gif",
+	"politicalGroupCode": "ecr",
+	"politicalGroupLabel": "European Conservatives and Reformists Group",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_ecr.png",
+	"nationalPoliticalGroupLabel": "Alternative für Deutschland",
+	"email": "joachim.starbatty@europarl.europa.eu",
+	"roles": [
+		{
+			"Member": "Committee on International Trade"
+		},
+		{
+			"Substitute": "Committee on Employment and Social Affairs"
+		}
+	]
+}

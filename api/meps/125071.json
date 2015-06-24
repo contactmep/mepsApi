@@ -1,0 +1,20 @@
+{
+	"id": "125071",
+	"fullName": "Georgios EPITIDEIOS",
+	"countryCode": "gr",
+	"countryLabel": "Greece",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_gr.gif",
+	"politicalGroupCode": "ni",
+	"politicalGroupLabel": "Non-attached Members",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_ni.png",
+	"nationalPoliticalGroupLabel": "Popular Association – Golden Dawn",
+	"email": "georgios.epitideios@europarl.europa.eu",
+	"roles": [
+		{
+			"Substitute": "Committee on International Trade"
+		},
+		{
+			"Member": "Non-attached Members"
+		}
+	]
+}

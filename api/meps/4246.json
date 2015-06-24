@@ -1,0 +1,26 @@
+{
+	"id": "4246",
+	"fullName": "Othmar KARAS",
+	"countryCode": "at",
+	"countryLabel": "Austria",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_at.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Österreichische Volkspartei",
+	"email": "othmar.karas@europarl.europa.eu",
+	"webPage": "http://www.othmar-karas.at",
+	"facebookPageUrl": "http://www.facebook.com/pages/Othmar-Karas/49336133364",
+	"twitterUrl": "http://twitter.com/#!/othmar_karas",
+	"roles": [
+		{
+			"Substitute": "Committee on the Internal Market and Consumer Protection"
+		},
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Chair": "Delegation to the EU-Russia Parliamentary Cooperation Committee"
+		}
+	]
+}

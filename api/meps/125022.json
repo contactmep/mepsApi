@@ -1,0 +1,20 @@
+{
+	"id": "125022",
+	"fullName": "Matthijs van MILTENBURG",
+	"countryCode": "nl",
+	"countryLabel": "Netherlands",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_nl.gif",
+	"politicalGroupCode": "aldeadle",
+	"politicalGroupLabel": "Group of the Alliance of Liberals and Democrats for Europe",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_aldeadle.png",
+	"nationalPoliticalGroupLabel": "Democraten 66",
+	"email": "matthijs.vanmiltenburg@europarl.europa.eu",
+	"roles": [
+		{
+			"Substitute": "Committee on Transport and Tourism"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

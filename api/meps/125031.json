@@ -1,0 +1,24 @@
+{
+	"id": "125031",
+	"fullName": "Pablo IGLESIAS",
+	"countryCode": "es",
+	"countryLabel": "Spain",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_es.gif",
+	"politicalGroupCode": "guengl",
+	"politicalGroupLabel": "Confederal Group of the European United Left - Nordic Green Left",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_guengl.png",
+	"nationalPoliticalGroupLabel": "PODEMOS",
+	"email": "pablo.iglesias@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/Pablo_Iglesias_",
+	"roles": [
+		{
+			"Substitute": "Delegation for relations with the Federative Republic of Brazil"
+		},
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Vice-Chair": "Delegation for relations with Mercosur"
+		}
+	]
+}

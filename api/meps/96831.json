@@ -1,0 +1,23 @@
+{
+	"id": "96831",
+	"fullName": "Jutta STEINRUCK",
+	"countryCode": "de",
+	"countryLabel": "Germany",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_de.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Sozialdemokratische Partei Deutschlands",
+	"email": "jutta.steinruck@europarl.europa.eu",
+	"webPage": "http://www.jutta-steinruck.de",
+	"facebookPageUrl": "http://www.facebook.com/pages/Jutta-Steinruck/171724719552511",
+	"twitterUrl": "http://twitter.com/juttasteinruck",
+	"roles": [
+		{
+			"Member": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament"
+		},
+		{
+			"Substitute": "Committee on the Internal Market and Consumer Protection"
+		}
+	]
+}

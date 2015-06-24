@@ -1,0 +1,21 @@
+{
+	"id": "124788",
+	"fullName": "Luigi MORGANO",
+	"countryCode": "it",
+	"countryLabel": "Italy",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_it.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Partito Democratico",
+	"email": "luigi.morgano@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/luigi_morgano",
+	"roles": [
+		{
+			"Substitute": "Delegation for relations with South Africa"
+		},
+		{
+			"Member": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament"
+		}
+	]
+}

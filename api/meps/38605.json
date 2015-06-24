@@ -1,0 +1,24 @@
+{
+	"id": "38605",
+	"fullName": "Iliana IOTOVA",
+	"countryCode": "bg",
+	"countryLabel": "Bulgaria",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_bg.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Bulgarian Socialist Party",
+	"email": "iliana.iotova@europarl.europa.eu",
+	"webPage": "http://www.ilianaiotova.eu/",
+	"roles": [
+		{
+			"Vice-Chair": "Committee on Civil Liberties, Justice and Home Affairs"
+		},
+		{
+			"Substitute": "Committee on Women's Rights and Gender Equality"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

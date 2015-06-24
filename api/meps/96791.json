@@ -1,0 +1,22 @@
+{
+	"id": "96791",
+	"fullName": "Elżbieta Katarzyna ŁUKACIJEWSKA",
+	"countryCode": "pl",
+	"countryLabel": "Poland",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_pl.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Platforma Obywatelska",
+	"email": "elzbieta.lukacijewska@europarl.europa.eu",
+	"webPage": "http://www.lukacijewska.pl",
+	"facebookPageUrl": "http://www.facebook.com/lukacijewska",
+	"roles": [
+		{
+			"Member": "Committee on Transport and Tourism"
+		},
+		{
+			"Substitute": "Delegation for relations with the United States"
+		}
+	]
+}

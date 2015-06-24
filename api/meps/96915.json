@@ -1,0 +1,26 @@
+{
+	"id": "96915",
+	"fullName": "Sergio Gaetano COFFERATI",
+	"countryCode": "it",
+	"countryLabel": "Italy",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_it.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "-",
+	"email": "sergio.cofferati@europarl.europa.eu",
+	"webPage": "http://www.sergiocofferati.eu/",
+	"facebookPageUrl": "https://www.facebook.com/pages/Sergio-Cofferati/32566465498",
+	"twitterUrl": "http://twitter.com/Cofferati",
+	"roles": [
+		{
+			"Member": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament"
+		},
+		{
+			"Substitute": "Special Committee on Tax Rulings and Other Measures Similar in Nature or Effect"
+		},
+		{
+			"Vice-Chair": "Committee on the Internal Market and Consumer Protection"
+		}
+	]
+}

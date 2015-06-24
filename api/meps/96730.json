@@ -1,0 +1,22 @@
+{
+	"id": "96730",
+	"fullName": "Sven GIEGOLD",
+	"countryCode": "de",
+	"countryLabel": "Germany",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_de.gif",
+	"politicalGroupCode": "greensefa",
+	"politicalGroupLabel": "Group of the Greens/European Free Alliance",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_greensefa.png",
+	"nationalPoliticalGroupLabel": "Bündnis 90/Die Grünen",
+	"email": "sven.giegold@europarl.europa.eu",
+	"webPage": "http://www.sven-giegold.de",
+	"twitterUrl": "http://twitter.com/sven_giegold",
+	"roles": [
+		{
+			"Substitute": "Committee on Budgets"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

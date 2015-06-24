@@ -1,0 +1,22 @@
+{
+	"id": "125004",
+	"fullName": "Franc BOGOVIČ",
+	"countryCode": "si",
+	"countryLabel": "Slovenia",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_si.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Slovenska ljudska stranka",
+	"email": "franc.bogovic@europarl.europa.eu",
+	"facebookPageUrl": "www.facebook.com/FrancBogovic.SLS",
+	"twitterUrl": "twitter.com/Franc_Bogovic",
+	"roles": [
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Substitute": "Committee on Agriculture and Rural Development"
+		}
+	]
+}

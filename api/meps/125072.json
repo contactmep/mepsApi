@@ -1,0 +1,20 @@
+{
+	"id": "125072",
+	"fullName": "Eleftherios SYNADINOS",
+	"countryCode": "gr",
+	"countryLabel": "Greece",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_gr.gif",
+	"politicalGroupCode": "ni",
+	"politicalGroupLabel": "Non-attached Members",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_ni.png",
+	"nationalPoliticalGroupLabel": "Popular Association – Golden Dawn",
+	"email": "eleftherios.synadinos@europarl.europa.eu",
+	"roles": [
+		{
+			"Member": "Non-attached Members"
+		},
+		{
+			"Substitute": "Delegation to the EU-Former Yugoslav Republic of Macedonia Joint Parliamentary Committee"
+		}
+	]
+}

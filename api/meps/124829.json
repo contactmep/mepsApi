@@ -1,0 +1,20 @@
+{
+	"id": "124829",
+	"fullName": "Ulrike TREBESIUS",
+	"countryCode": "de",
+	"countryLabel": "Germany",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_de.gif",
+	"politicalGroupCode": "ecr",
+	"politicalGroupLabel": "European Conservatives and Reformists Group",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_ecr.png",
+	"nationalPoliticalGroupLabel": "Alternative für Deutschland",
+	"email": "ulrike.trebesius@europarl.europa.eu",
+	"roles": [
+		{
+			"Member": "European Conservatives and Reformists Group"
+		},
+		{
+			"Substitute": "Committee on the Internal Market and Consumer Protection"
+		}
+	]
+}

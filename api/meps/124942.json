@@ -1,0 +1,21 @@
+{
+	"id": "124942",
+	"fullName": "Molly SCOTT CATO",
+	"countryCode": "gb",
+	"countryLabel": "United Kingdom",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_gb.gif",
+	"politicalGroupCode": "greensefa",
+	"politicalGroupLabel": "Group of the Greens/European Free Alliance",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_greensefa.png",
+	"nationalPoliticalGroupLabel": "Green Party",
+	"email": "molly.scottcato@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/MollyScottCato",
+	"roles": [
+		{
+			"Substitute": "Delegation for relations with the Federative Republic of Brazil"
+		},
+		{
+			"Member": "Group of the Greens/European Free Alliance"
+		}
+	]
+}

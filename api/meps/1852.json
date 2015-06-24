@@ -1,0 +1,25 @@
+{
+	"id": "1852",
+	"fullName": "Dieter-Lebrecht KOCH",
+	"countryCode": "de",
+	"countryLabel": "Germany",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_de.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Christlich Demokratische Union Deutschlands",
+	"email": "dieter-lebrecht.koch@europarl.europa.eu",
+	"webPage": "http://www.europaabgeordneter.eu",
+	"facebookPageUrl": "http://www.facebook.com/pages/Dr-Dieter-Lebrecht-Koch-MEP/163629490352148",
+	"roles": [
+		{
+			"Substitute": "Committee on Employment and Social Affairs"
+		},
+		{
+			"Vice-Chair": "Committee on Transport and Tourism"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

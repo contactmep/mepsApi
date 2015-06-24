@@ -1,0 +1,25 @@
+{
+	"id": "28229",
+	"fullName": "Manfred WEBER",
+	"countryCode": "de",
+	"countryLabel": "Germany",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_de.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Christlich-Soziale Union in Bayern e.V.",
+	"email": "manfred.weber@europarl.europa.eu",
+	"webPage": "http://www.weber-manfred.de",
+	"twitterUrl": "https://twitter.com/#!/ManfredWeber",
+	"roles": [
+		{
+			"Substitute": "Committee on Constitutional Affairs"
+		},
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Chair": "Group of the European People's Party (Christian Democrats)"
+		}
+	]
+}

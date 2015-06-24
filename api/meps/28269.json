@@ -1,0 +1,26 @@
+{
+	"id": "28269",
+	"fullName": "Jerzy BUZEK",
+	"countryCode": "pl",
+	"countryLabel": "Poland",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_pl.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Platforma Obywatelska",
+	"email": "jerzy.buzek@europarl.europa.eu",
+	"webPage": "http://buzek.pl",
+	"facebookPageUrl": "http://www.facebook.com/#!/JerzyBuzek",
+	"twitterUrl": "http://twitter.com/#!/JerzyBuzek",
+	"roles": [
+		{
+			"Member": "Group of the European People's Party (Christian Democrats)"
+		},
+		{
+			"Chair": "Committee on Industry, Research and Energy"
+		},
+		{
+			"Substitute": "Committee on Foreign Affairs"
+		}
+	]
+}

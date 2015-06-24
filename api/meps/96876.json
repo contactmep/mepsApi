@@ -1,0 +1,25 @@
+{
+	"id": "96876",
+	"fullName": "Frank ENGEL",
+	"countryCode": "lu",
+	"countryLabel": "Luxembourg",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_lu.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Parti chrétien social luxembourgeois",
+	"email": "frank.engel@europarl.europa.eu",
+	"webPage": "http://www.europarl.europa.eu/meps/en/96876/Frank_ENGEL.html",
+	"facebookPageUrl": "http://www.facebook.com/FrankEngel.eu",
+	"roles": [
+		{
+			"Vice-Chair": "Delegation for relations with the People's Republic of China"
+		},
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Substitute": "Delegation for relations with the countries of Central America"
+		}
+	]
+}

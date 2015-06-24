@@ -1,0 +1,32 @@
+{
+	"id": "4436",
+	"fullName": "Gianni PITTELLA",
+	"countryCode": "it",
+	"countryLabel": "Italy",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_it.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Partito Democratico",
+	"email": "gianni.pittella@europarl.europa.eu",
+	"webPage": "http://www.giannipittella.it",
+	"facebookPageUrl": "https://www.facebook.com/pages/Gianni-Pittella/25923864548",
+	"twitterUrl": "http://twitter.com/#!/giannipittella",
+	"roles": [
+		{
+			"flickrURL": "http://www.flickr.com/photos/primapersona/"
+		},
+		{
+			"youtubeURL": "http://www.youtube.com/user/giannipittella"
+		},
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Substitute": "Committee on Fisheries"
+		},
+		{
+			"Chair": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament"
+		}
+	]
+}

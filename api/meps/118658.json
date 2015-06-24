@@ -1,0 +1,24 @@
+{
+	"id": "118658",
+	"fullName": "Brian HAYES",
+	"countryCode": "ie",
+	"countryLabel": "Ireland",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_ie.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Fine Gael Party",
+	"email": "brian.hayes@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/brianhayesMEP",
+	"roles": [
+		{
+			"Vice-Chair": "Delegation for relations with Iraq"
+		},
+		{
+			"Substitute": "Committee on Development"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

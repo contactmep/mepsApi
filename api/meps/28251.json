@@ -1,0 +1,25 @@
+{
+	"id": "28251",
+	"fullName": "Jörg LEICHTFRIED",
+	"countryCode": "at",
+	"countryLabel": "Austria",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_at.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Sozialdemokratische Partei Österreichs",
+	"email": "joerg.leichtfried@europarl.europa.eu",
+	"webPage": "http://www.joerg-leichtfried.at",
+	"twitterUrl": "http://twitter.com/#!/jleichtfried",
+	"roles": [
+		{
+			"Substitute": "Delegation for relations with the countries of Southeast Asia and the Association of Southeast Asian Nations (ASEAN)"
+		},
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Vice-Chair": "Delegation to the Euro-Latin American Parliamentary Assembly"
+		}
+	]
+}

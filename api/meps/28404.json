@@ -1,0 +1,22 @@
+{
+	"id": "28404",
+	"fullName": "Matteo SALVINI",
+	"countryCode": "it",
+	"countryLabel": "Italy",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_it.gif",
+	"politicalGroupCode": "enf",
+	"politicalGroupLabel": "Europe of Nations and Freedom",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_enf.png",
+	"nationalPoliticalGroupLabel": "Lega Nord",
+	"email": "matteo.salvini@europarl.europa.eu",
+	"facebookPageUrl": "http://www.facebook.com/pages/Matteo-Salvini/252306033154",
+	"twitterUrl": "https://twitter.com/matteosalvinimi",
+	"roles": [
+		{
+			"Substitute": "Committee on Development"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"id": "124929",
+	"fullName": "Ivan ŠTEFANEC",
+	"countryCode": "sk",
+	"countryLabel": "Slovakia",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_sk.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Independent",
+	"email": "ivan.stefanec@europarl.europa.eu",
+	"facebookPageUrl": "https://www.facebook.com/ivanstefanec.eu",
+	"twitterUrl": "https://twitter.com/IvanStefanec",
+	"roles": [
+		{
+			"Substitute": "Delegation to the EU-Ukraine Parliamentary Cooperation Committee"
+		},
+		{
+			"Member": "Committee on the Internal Market and Consumer Protection"
+		}
+	]
+}

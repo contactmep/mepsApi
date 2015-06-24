@@ -1,0 +1,22 @@
+{
+	"id": "4432",
+	"fullName": "Claude TURMES",
+	"countryCode": "lu",
+	"countryLabel": "Luxembourg",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_lu.gif",
+	"politicalGroupCode": "greensefa",
+	"politicalGroupLabel": "Group of the Greens/European Free Alliance",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_greensefa.png",
+	"nationalPoliticalGroupLabel": "Déi Gréng - Les Verts",
+	"email": "claude.turmes@europarl.europa.eu",
+	"webPage": "http://www.claudeturmes.lu/",
+	"twitterUrl": "http://twitter.com/#!/Claude_Turmes",
+	"roles": [
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Substitute": "Delegation for relations with the United States"
+		}
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"id": "28308",
+	"fullName": "Elisa FERREIRA",
+	"countryCode": "pt",
+	"countryLabel": "Portugal",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_pt.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Partido Socialista",
+	"email": "elisa.ferreira@europarl.europa.eu",
+	"facebookPageUrl": "https://www.facebook.com/pages/Elisa-Ferreira/131217906918378",
+	"twitterUrl": "http://twitter.com/#!/elisaferreira",
+	"roles": [
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Substitute": "Committee on the Internal Market and Consumer Protection"
+		}
+	]
+}

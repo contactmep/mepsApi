@@ -1,0 +1,20 @@
+{
+	"id": "124995",
+	"fullName": "Kristina WINBERG",
+	"countryCode": "se",
+	"countryLabel": "Sweden",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_se.gif",
+	"politicalGroupCode": "efd",
+	"politicalGroupLabel": "Europe of Freedom and Direct Democracy Group",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_efd.png",
+	"nationalPoliticalGroupLabel": "Sverigedemokraterna",
+	"email": "kristina.winberg@europarl.europa.eu",
+	"roles": [
+		{
+			"Substitute": "Delegation for relations with the Maghreb countries and the Arab Maghreb Union"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

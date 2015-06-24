@@ -1,0 +1,21 @@
+{
+	"id": "1023",
+	"fullName": "Jean-Marie LE PEN",
+	"countryCode": "fr",
+	"countryLabel": "France",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_fr.gif",
+	"politicalGroupCode": "ni",
+	"politicalGroupLabel": "Non-attached Members",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_ni.png",
+	"nationalPoliticalGroupLabel": "Front national",
+	"email": "jean-marie.lepen@europarl.europa.eu",
+	"facebookPageUrl": "http://www.facebook.com/#!/JMLP.officiel",
+	"roles": [
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Substitute": "Committee on Transport and Tourism"
+		}
+	]
+}

@@ -1,0 +1,23 @@
+{
+	"id": "23791",
+	"fullName": "Kazimierz Michał UJAZDOWSKI",
+	"countryCode": "pl",
+	"countryLabel": "Poland",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_pl.gif",
+	"politicalGroupCode": "ecr",
+	"politicalGroupLabel": "European Conservatives and Reformists Group",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_ecr.png",
+	"nationalPoliticalGroupLabel": "Prawo i Sprawiedliwość",
+	"email": "kazimierzmichal.ujazdowski@europarl.europa.eu",
+	"roles": [
+		{
+			"Substitute": "Delegation to the EU-Moldova Parliamentary Cooperation Committee"
+		},
+		{
+			"Member": "Delegation for relations with Belarus"
+		},
+		{
+			"Vice-Chair": "Committee on Constitutional Affairs"
+		}
+	]
+}

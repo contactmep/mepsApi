@@ -1,0 +1,24 @@
+{
+	"id": "124962",
+	"fullName": "Afzal KHAN",
+	"countryCode": "gb",
+	"countryLabel": "United Kingdom",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_gb.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Labour Party",
+	"email": "afzal.khan@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/akhanmep",
+	"roles": [
+		{
+			"Substitute": "Delegation for relations with the countries of South Asia"
+		},
+		{
+			"Vice-Chair": "Subcommittee on Security and Defence"
+		},
+		{
+			"Member": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament"
+		}
+	]
+}

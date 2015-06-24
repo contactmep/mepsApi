@@ -1,0 +1,25 @@
+{
+	"id": "28298",
+	"fullName": "Iratxe GARCÍA PÉREZ",
+	"countryCode": "es",
+	"countryLabel": "Spain",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_es.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Partido Socialista Obrero Español",
+	"email": "iratxe.garcia-perez@europarl.europa.eu",
+	"webPage": "http://www.psoe-pe.org",
+	"twitterUrl": "https://twitter.com/IratxeGarper",
+	"roles": [
+		{
+			"Substitute": "Delegation for relations with the Palestinian Legislative Council"
+		},
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Chair": "Committee on Women's Rights and Gender Equality"
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"id": "119434",
+	"fullName": "Dubravka ŠUICA",
+	"countryCode": "hr",
+	"countryLabel": "Croatia",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_hr.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Hrvatska demokratska zajednica",
+	"email": "dubravka.suica@europarl.europa.eu",
+	"facebookPageUrl": "https://www.facebook.com/dubravkasuica.eu?ref=hl#!/dubravkasuica.eu",
+	"roles": [
+		{
+			"Vice-Chair": "Delegation for relations with Bosnia and Herzegovina, and Kosovo"
+		},
+		{
+			"Substitute": "Committee on Foreign Affairs"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

@@ -1,0 +1,23 @@
+{
+	"id": "28314",
+	"fullName": "Anneli JÄÄTTEENMÄKI",
+	"countryCode": "fi",
+	"countryLabel": "Finland",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_fi.gif",
+	"politicalGroupCode": "aldeadle",
+	"politicalGroupLabel": "Group of the Alliance of Liberals and Democrats for Europe",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_aldeadle.png",
+	"nationalPoliticalGroupLabel": "Suomen Keskusta",
+	"email": "anneli.jaatteenmaki@europarl.europa.eu",
+	"webPage": "http://www.annelijaatteenmaki.net",
+	"facebookPageUrl": "https://www.facebook.com/pages/Anneli-J%C3%A4%C3%A4tteenm%C3%A4ki/382866191739876",
+	"twitterUrl": "https://twitter.com/#!/jaatteenmaki",
+	"roles": [
+		{
+			"Substitute": "Committee on Foreign Affairs"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

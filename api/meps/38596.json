@@ -1,0 +1,25 @@
+{
+	"id": "38596",
+	"fullName": "Elisabeth MORIN-CHARTIER",
+	"countryCode": "fr",
+	"countryLabel": "France",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_fr.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Les Républicains",
+	"email": "elisabeth.morinchartier@europarl.europa.eu",
+	"webPage": "http://www.elisabeth-morinchartier.eu",
+	"twitterUrl": "http://twitter.com/#!/emorinchartier",
+	"roles": [
+		{
+			"Member": "Parliament's Bureau"
+		},
+		{
+			"Substitute": "Delegation for relations with the United States"
+		},
+		{
+			"Quaestor": "European Parliament"
+		}
+	]
+}

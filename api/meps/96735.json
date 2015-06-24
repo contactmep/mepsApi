@@ -1,0 +1,26 @@
+{
+	"id": "96735",
+	"fullName": "Patrick LE HYARIC",
+	"countryCode": "fr",
+	"countryLabel": "France",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_fr.gif",
+	"politicalGroupCode": "guengl",
+	"politicalGroupLabel": "Confederal Group of the European United Left - Nordic Green Left",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_guengl.png",
+	"nationalPoliticalGroupLabel": "Front de Gauche",
+	"email": "patrick.lehyaric@europarl.europa.eu",
+	"webPage": "http://patricklehyaric.net/",
+	"facebookPageUrl": "https://www.facebook.com/home.php#!/pages/Patrick-Le-Hyaric-directeur-de-lHumanit%C3%A9-et-D%C3%A9put%C3%A9-au-Parlement-europ%C3%A9en/123198211079025",
+	"twitterUrl": "http://twitter.com/PatrickLeHyaric",
+	"roles": [
+		{
+			"Substitute": "Committee on International Trade"
+		},
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Vice-Chair": "Confederal Group of the European United Left - Nordic Green Left"
+		}
+	]
+}

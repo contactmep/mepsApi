@@ -1,0 +1,22 @@
+{
+	"id": "840",
+	"fullName": "Charles GOERENS",
+	"countryCode": "lu",
+	"countryLabel": "Luxembourg",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_lu.gif",
+	"politicalGroupCode": "aldeadle",
+	"politicalGroupLabel": "Group of the Alliance of Liberals and Democrats for Europe",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_aldeadle.png",
+	"nationalPoliticalGroupLabel": "Parti démocratique",
+	"email": "charles.goerens@europarl.europa.eu",
+	"facebookPageUrl": "http://www.facebook.com/charles.goerens",
+	"twitterUrl": "https://twitter.com/CharlesGoerens",
+	"roles": [
+		{
+			"Substitute": "Delegation for relations with the Pan-African Parliament"
+		},
+		{
+			"Member": "Committee on Development"
+		}
+	]
+}

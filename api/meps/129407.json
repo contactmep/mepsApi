@@ -1,0 +1,21 @@
+{
+	"id": "129407",
+	"fullName": "Enrique CALVET CHAMBON",
+	"countryCode": "es",
+	"countryLabel": "Spain",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_es.gif",
+	"politicalGroupCode": "aldeadle",
+	"politicalGroupLabel": "Group of the Alliance of Liberals and Democrats for Europe",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_aldeadle.png",
+	"nationalPoliticalGroupLabel": "Unión, Progreso y Democracia",
+	"email": "enrique.calvetchambon@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/EnriqueCalvet",
+	"roles": [
+		{
+			"Substitute": "Committee on Regional Development"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

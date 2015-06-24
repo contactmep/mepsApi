@@ -1,0 +1,20 @@
+{
+	"id": "124287",
+	"fullName": "Christine REVAULT D'ALLONNES BONNEFOY",
+	"countryCode": "fr",
+	"countryLabel": "France",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_fr.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Parti socialiste",
+	"email": "christine.revaultdallonnesBONNEFOY@europarl.europa.eu",
+	"roles": [
+		{
+			"Substitute": "Delegation for relations with Mercosur"
+		},
+		{
+			"Member": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament"
+		}
+	]
+}

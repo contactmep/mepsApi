@@ -1,0 +1,26 @@
+{
+	"id": "28353",
+	"fullName": "Anna Elżbieta FOTYGA",
+	"countryCode": "pl",
+	"countryLabel": "Poland",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_pl.gif",
+	"politicalGroupCode": "ecr",
+	"politicalGroupLabel": "European Conservatives and Reformists Group",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_ecr.png",
+	"nationalPoliticalGroupLabel": "Prawo i Sprawiedliwość",
+	"email": "anna.fotyga@europarl.europa.eu",
+	"roles": [
+		{
+			"Chair": "Subcommittee on Security and Defence"
+		},
+		{
+			"Member": "Committee on Foreign Affairs"
+		},
+		{
+			"Member of the Bureau": "European Conservatives and Reformists Group"
+		},
+		{
+			"Substitute": "Delegation for relations with the United States"
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"id": "23712",
+	"fullName": "Jan ZAHRADIL",
+	"countryCode": "cz",
+	"countryLabel": "Czech Republic",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_cz.gif",
+	"politicalGroupCode": "ecr",
+	"politicalGroupLabel": "European Conservatives and Reformists Group",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_ecr.png",
+	"nationalPoliticalGroupLabel": "Občanská demokratická strana",
+	"email": "jan.zahradil@europarl.europa.eu",
+	"webPage": "http://www.zahradil.cz",
+	"twitterUrl": "http://twitter.com/#!/ZahradilJan",
+	"roles": [
+		{
+			"Substitute": "Committee on Development"
+		},
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Vice-Chair": "Committee on International Trade"
+		},
+		{
+			"Member of the Bureau": "European Conservatives and Reformists Group"
+		}
+	]
+}

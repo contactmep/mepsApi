@@ -1,0 +1,22 @@
+{
+	"id": "124726",
+	"fullName": "Henna VIRKKUNEN",
+	"countryCode": "fi",
+	"countryLabel": "Finland",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_fi.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Kansallinen Kokoomus",
+	"email": "henna.virkkunen@europarl.europa.eu",
+	"facebookPageUrl": "https://www.facebook.com/#!/virkkunenhenna",
+	"twitterUrl": "https://twitter.com/HennaVirkkunen",
+	"roles": [
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Substitute": "Delegation for relations with the Arab Peninsula"
+		}
+	]
+}

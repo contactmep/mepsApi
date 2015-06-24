@@ -1,0 +1,25 @@
+{
+	"id": "96809",
+	"fullName": "Peter van DALEN",
+	"countryCode": "nl",
+	"countryLabel": "Netherlands",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_nl.gif",
+	"politicalGroupCode": "ecr",
+	"politicalGroupLabel": "European Conservatives and Reformists Group",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_ecr.png",
+	"nationalPoliticalGroupLabel": "ChristenUnie",
+	"email": "peter.vandalen@europarl.europa.eu",
+	"webPage": "http://www.petervandalen.eu",
+	"twitterUrl": "http://twitter.com/petervdalen",
+	"roles": [
+		{
+			"Substitute": "Delegation for relations with the countries of South Asia"
+		},
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Member of the Bureau": "European Conservatives and Reformists Group"
+		}
+	]
+}

@@ -1,0 +1,23 @@
+{
+	"id": "124858",
+	"fullName": "Fabio DE MASI",
+	"countryCode": "de",
+	"countryLabel": "Germany",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_de.gif",
+	"politicalGroupCode": "guengl",
+	"politicalGroupLabel": "Confederal Group of the European United Left - Nordic Green Left",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_guengl.png",
+	"nationalPoliticalGroupLabel": "DIE LINKE.",
+	"email": "fabio.demasi@europarl.europa.eu",
+	"webPage": "www.fabiodemasi.de",
+	"facebookPageUrl": "https://www.facebook.com/fabio.d.masi",
+	"twitterUrl": "https://twitter.com/FabioDeMasi",
+	"roles": [
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Substitute": "Committee on Transport and Tourism"
+		}
+	]
+}

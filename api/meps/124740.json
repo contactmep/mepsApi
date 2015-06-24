@@ -1,0 +1,23 @@
+{
+	"id": "124740",
+	"fullName": "Joëlle BERGERON",
+	"countryCode": "fr",
+	"countryLabel": "France",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_fr.gif",
+	"politicalGroupCode": "efd",
+	"politicalGroupLabel": "Europe of Freedom and Direct Democracy Group",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_efd.png",
+	"nationalPoliticalGroupLabel": "Sans étiquette",
+	"email": "joelle.bergeron@europarl.europa.eu",
+	"roles": [
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Substitute": "Delegation to the EU-Chile Joint Parliamentary Committee"
+		},
+		{
+			"Vice-Chair": "Europe of Freedom and Direct Democracy Group"
+		}
+	]
+}

@@ -1,0 +1,26 @@
+{
+	"id": "124767",
+	"fullName": "Edouard FERRAND",
+	"countryCode": "fr",
+	"countryLabel": "France",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_fr.gif",
+	"politicalGroupCode": "enf",
+	"politicalGroupLabel": "Europe of Nations and Freedom",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_enf.png",
+	"nationalPoliticalGroupLabel": "Front national",
+	"email": "edouard.ferrand@europarl.europa.eu",
+	"webPage": "http://france-ruralite.fr/",
+	"facebookPageUrl": "https://www.facebook.com/eferrandFN?ref=ts&fref=ts",
+	"twitterUrl": "http://twitter.com/e_ferrand",
+	"roles": [
+		{
+			"youtubeURL": "https://www.youtube.com/user/FranceRuralite"
+		},
+		{
+			"Substitute": "Committee on Civil Liberties, Justice and Home Affairs"
+		},
+		{
+			"Member": "Non-attached Members"
+		}
+	]
+}

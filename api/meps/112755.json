@@ -1,0 +1,28 @@
+{
+	"id": "112755",
+	"fullName": "Andrej PLENKOVIĆ",
+	"countryCode": "hr",
+	"countryLabel": "Croatia",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_hr.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Hrvatska demokratska zajednica",
+	"email": "andrej.plenkovic@europarl.europa.eu",
+	"facebookPageUrl": "https://www.facebook.com/andrej.plenkovic.rh",
+	"twitterUrl": "https://twitter.com/AndrejPlenkovic",
+	"roles": [
+		{
+			"Substitute": "Delegation for relations with the Maghreb countries and the Arab Maghreb Union"
+		},
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Chair": "Delegation to the EU-Ukraine Parliamentary Cooperation Committee"
+		},
+		{
+			"Vice-Chair": "Committee on Foreign Affairs"
+		}
+	]
+}

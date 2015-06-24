@@ -1,0 +1,25 @@
+{
+	"id": "96651",
+	"fullName": "Eduard KUKAN",
+	"countryCode": "sk",
+	"countryLabel": "Slovakia",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_sk.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Slovenská demokratická a kresťanská únia - Demokratická strana",
+	"email": "eduard.kukan@europarl.europa.eu",
+	"facebookPageUrl": "https://www.facebook.com/pages/Eduard-Kukan/542468615844817?ref=hl",
+	"twitterUrl": "https://twitter.com/EduardKukan",
+	"roles": [
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Chair": "Delegation to the EU-Serbia Stabilisation and Association Parliamentary Committee"
+		},
+		{
+			"Substitute": "Committee on Employment and Social Affairs"
+		}
+	]
+}

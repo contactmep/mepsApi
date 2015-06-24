@@ -1,0 +1,21 @@
+{
+	"id": "96696",
+	"fullName": "Algirdas SAUDARGAS",
+	"countryCode": "lt",
+	"countryLabel": "Lithuania",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_lt.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Tėvynės sąjunga-Lietuvos krikščionys demokratai",
+	"email": "algirdas.saudargas@europarl.europa.eu",
+	"twitterUrl": "http://twitter.com/Saudargas",
+	"roles": [
+		{
+			"Substitute": "Delegation to the EU-Ukraine Parliamentary Cooperation Committee"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

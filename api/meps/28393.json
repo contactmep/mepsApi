@@ -1,0 +1,23 @@
+{
+	"id": "28393",
+	"fullName": "Luis de GRANDES PASCUAL",
+	"countryCode": "es",
+	"countryLabel": "Spain",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_es.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Partido Popular",
+	"email": "luis.degrandespascual@europarl.europa.eu",
+	"roles": [
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Chair": "Delegation for relations with the countries of the Andean Community"
+		},
+		{
+			"Substitute": "Committee on Foreign Affairs"
+		}
+	]
+}

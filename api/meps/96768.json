@@ -1,0 +1,23 @@
+{
+	"id": "96768",
+	"fullName": "Enrique GUERRERO SALOM",
+	"countryCode": "es",
+	"countryLabel": "Spain",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_es.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Partido Socialista Obrero Español",
+	"email": "enrique.guerrerosalom@europarl.europa.eu",
+	"roles": [
+		{
+			"Substitute": "Delegation to the EU-Chile Joint Parliamentary Committee"
+		},
+		{
+			"Member": "Committee on Development"
+		},
+		{
+			"Vice-Chair": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament"
+		}
+	]
+}

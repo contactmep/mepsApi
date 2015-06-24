@@ -1,0 +1,21 @@
+{
+	"id": "96837",
+	"fullName": "Petra KAMMEREVERT",
+	"countryCode": "de",
+	"countryLabel": "Germany",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_de.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Sozialdemokratische Partei Deutschlands",
+	"email": "petra.kammerevert@europarl.europa.eu",
+	"facebookPageUrl": "https://www.facebook.com/petrakammerevert",
+	"roles": [
+		{
+			"Member": "Committee on Culture and Education"
+		},
+		{
+			"Substitute": "Delegation to the EU-Albania Stabilisation and Association Parliamentary Committee"
+		}
+	]
+}

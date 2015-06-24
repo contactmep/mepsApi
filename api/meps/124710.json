@@ -1,0 +1,24 @@
+{
+	"id": "124710",
+	"fullName": "Michaela ŠOJDROVÁ",
+	"countryCode": "cz",
+	"countryLabel": "Czech Republic",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_cz.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Křesťanská a demokratická unie - Československá strana lidová",
+	"email": "michaela.sojdrova@europarl.europa.eu",
+	"facebookPageUrl": "https://www.facebook.com/michaela.sojdrova",
+	"roles": [
+		{
+			"Substitute": "Delegation for relations with Switzerland and Norway and to the EU-Iceland Joint Parliamentary Committee and the European Economic Area (EEA) Joint Parliamentary Committee"
+		},
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Vice-Chair": "Committee on Culture and Education"
+		}
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"id": "96754",
+	"fullName": "Wim van de CAMP",
+	"countryCode": "nl",
+	"countryLabel": "Netherlands",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_nl.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Christen Democratisch Appèl",
+	"email": "wim.vandecamp@europarl.europa.eu",
+	"webPage": "http://www.wimvandecamp.nl",
+	"twitterUrl": "http://twitter.com/wimvandecamp",
+	"roles": [
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Substitute": "Committee on Budgetary Control"
+		}
+	]
+}

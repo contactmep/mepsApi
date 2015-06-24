@@ -1,0 +1,22 @@
+{
+	"id": "1403",
+	"fullName": "David MARTIN",
+	"countryCode": "gb",
+	"countryLabel": "United Kingdom",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_gb.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Labour Party",
+	"email": "david.martin@europarl.europa.eu",
+	"webPage": "http://martinmep.com",
+	"twitterUrl": "http://twitter.com/#!/davidmartinmep",
+	"roles": [
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Substitute": "Delegation to the ACP-EU Joint Parliamentary Assembly"
+		}
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"id": "111024",
+	"fullName": "Jens NILSSON",
+	"countryCode": "se",
+	"countryLabel": "Sweden",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_se.gif",
+	"politicalGroupCode": "sd",
+	"politicalGroupLabel": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_sd.png",
+	"nationalPoliticalGroupLabel": "Arbetarepartiet- Socialdemokraterna",
+	"email": "jens.nilsson@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/jensni",
+	"roles": [
+		{
+			"Substitute": "Delegation for relations with Bosnia and Herzegovina, and Kosovo"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"id": "125030",
+	"fullName": "Annie SCHREIJER-PIERIK",
+	"countryCode": "nl",
+	"countryLabel": "Netherlands",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_nl.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Christen Democratisch Appèl",
+	"email": "annie.schreijer-pierik@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/AnnieSchreijer",
+	"roles": [
+		{
+			"Substitute": "Delegation to the EU-Russia Parliamentary Cooperation Committee"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

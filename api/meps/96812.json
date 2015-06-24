@@ -1,0 +1,24 @@
+{
+	"id": "96812",
+	"fullName": "Juan Fernando LÓPEZ AGUILAR",
+	"countryCode": "es",
+	"countryLabel": "Spain",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_es.gif",
+	"politicalGroupCode": "ni",
+	"politicalGroupLabel": "Non-attached Members",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_ni.png",
+	"nationalPoliticalGroupLabel": "Partido Socialista Obrero Español",
+	"email": "juanfernando.lopezaguilar@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/JFLopezAguilar",
+	"roles": [
+		{
+			"Substitute": "Delegation for relations with the countries of Southeast Asia and the Association of Southeast Asian Nations (ASEAN)"
+		},
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Vice-Chair": "Delegation to the ACP-EU Joint Parliamentary Assembly"
+		}
+	]
+}

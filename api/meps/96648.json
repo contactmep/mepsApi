@@ -1,0 +1,24 @@
+{
+	"id": "96648",
+	"fullName": "Philippe LAMBERTS",
+	"countryCode": "be",
+	"countryLabel": "Belgium",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_be.gif",
+	"politicalGroupCode": "greensefa",
+	"politicalGroupLabel": "Group of the Greens/European Free Alliance",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_greensefa.png",
+	"nationalPoliticalGroupLabel": "Ecologistes Confédérés pour l'Organisation de Luttes Originales",
+	"email": "philippe.lamberts@europarl.europa.eu",
+	"twitterUrl": "http://twitter.com/#!/Lambertsph",
+	"roles": [
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Substitute": "Delegation for relations with the People's Republic of China"
+		},
+		{
+			"Co-Chair": "Group of the Greens/European Free Alliance"
+		}
+	]
+}

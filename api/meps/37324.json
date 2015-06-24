@@ -1,0 +1,26 @@
+{
+	"id": "37324",
+	"fullName": "Adina-Ioana VĂLEAN",
+	"countryCode": "ro",
+	"countryLabel": "Romania",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_ro.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Partidul Naţional Liberal",
+	"email": "adinaioana.valean@europarl.europa.eu",
+	"webPage": "http://www.valean.eu",
+	"facebookPageUrl": "http://www.facebook.com/AdinaValeanMEP",
+	"twitterUrl": "http://twitter.com/#!/AdinaValean",
+	"roles": [
+		{
+			"Substitute": "Committee on International Trade"
+		},
+		{
+			"Member": "Parliament's Bureau"
+		},
+		{
+			"Vice-President": "European Parliament"
+		}
+	]
+}

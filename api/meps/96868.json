@@ -1,0 +1,23 @@
+{
+	"id": "96868",
+	"fullName": "Karima DELLI",
+	"countryCode": "fr",
+	"countryLabel": "France",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_fr.gif",
+	"politicalGroupCode": "greensefa",
+	"politicalGroupLabel": "Group of the Greens/European Free Alliance",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_greensefa.png",
+	"nationalPoliticalGroupLabel": "Europe Écologie",
+	"email": "karima.delli@europarl.europa.eu",
+	"webPage": "http://www.karimadelli.com/",
+	"facebookPageUrl": "http://www.facebook.com/profile.php?id=1325110408#!/pages/Karima-Delli/167413170756",
+	"twitterUrl": "http://twitter.com/#!/KarimaDelli",
+	"roles": [
+		{
+			"Substitute": "Committee on Employment and Social Affairs"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

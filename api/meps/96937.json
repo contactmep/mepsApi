@@ -1,0 +1,25 @@
+{
+	"id": "96937",
+	"fullName": "Johannes Cornelis van BAALEN",
+	"countryCode": "nl",
+	"countryLabel": "Netherlands",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_nl.gif",
+	"politicalGroupCode": "aldeadle",
+	"politicalGroupLabel": "Group of the Alliance of Liberals and Democrats for Europe",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_aldeadle.png",
+	"nationalPoliticalGroupLabel": "Volkspartij voor Vrijheid en Democratie",
+	"email": "hans.vanbaalen@europarl.europa.eu",
+	"webPage": "http://www.hansvanbaalen.eu",
+	"twitterUrl": "http://twitter.com/#!/hans_van_baalen",
+	"roles": [
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Chair": "Delegation for relations with South Africa"
+		},
+		{
+			"Substitute": "Delegation for relations with the United States"
+		}
+	]
+}

@@ -1,0 +1,29 @@
+{
+	"id": "28124",
+	"fullName": "Gunnar HÖKMARK",
+	"countryCode": "se",
+	"countryLabel": "Sweden",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_se.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Moderaterna",
+	"email": "gunnar.hokmark@europarl.europa.eu",
+	"webPage": "http://hokmark.eu",
+	"facebookPageUrl": "http://www.facebook.com/ghokmark",
+	"twitterUrl": "https://twitter.com/#!/ghokmark",
+	"roles": [
+		{
+			"flickrURL": "http://www.flickr.com/photos/ghokmark/"
+		},
+		{
+			"youtubeURL": "http://www.youtube.com/user/gunnarhokmark"
+		},
+		{
+			"Member": "European Parliament"
+		},
+		{
+			"Substitute": "Delegation to the EU-Armenia, EU-Azerbaijan and EU-Georgia Parliamentary Cooperation Committees"
+		}
+	]
+}

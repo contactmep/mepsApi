@@ -1,0 +1,22 @@
+{
+	"id": "4550",
+	"fullName": "Jill EVANS",
+	"countryCode": "gb",
+	"countryLabel": "United Kingdom",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_gb.gif",
+	"politicalGroupCode": "greensefa",
+	"politicalGroupLabel": "Group of the Greens/European Free Alliance",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_greensefa.png",
+	"nationalPoliticalGroupLabel": "Plaid Cymru - Party of Wales",
+	"email": "Jill.evans@europarl.europa.eu",
+	"webPage": "http://www.jillevans.net",
+	"twitterUrl": "http://twitter.com/#!/jillevansmep",
+	"roles": [
+		{
+			"Member": "Plaid Cymru - Party of Wales"
+		},
+		{
+			"Substitute": "Committee on Transport and Tourism"
+		}
+	]
+}

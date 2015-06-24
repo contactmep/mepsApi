@@ -1,0 +1,21 @@
+{
+	"id": "124831",
+	"fullName": "Isabella ADINOLFI",
+	"countryCode": "it",
+	"countryLabel": "Italy",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_it.gif",
+	"politicalGroupCode": "efd",
+	"politicalGroupLabel": "Europe of Freedom and Direct Democracy Group",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_efd.png",
+	"nationalPoliticalGroupLabel": "Movimento 5 Stelle",
+	"email": "isabella.adinolfi@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/Isa_Adinolfi",
+	"roles": [
+		{
+			"Substitute": "Delegation for relations with the United States"
+		},
+		{
+			"Member": "European Parliament"
+		}
+	]
+}

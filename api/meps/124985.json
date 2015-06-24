@@ -1,0 +1,21 @@
+{
+	"id": "124985",
+	"fullName": "Luke Ming FLANAGAN",
+	"countryCode": "ie",
+	"countryLabel": "Ireland",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_ie.gif",
+	"politicalGroupCode": "guengl",
+	"politicalGroupLabel": "Confederal Group of the European United Left - Nordic Green Left",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_guengl.png",
+	"nationalPoliticalGroupLabel": "Independent",
+	"email": "lukeming.flanagan@europarl.europa.eu",
+	"twitterUrl": "https://twitter.com/lukeming",
+	"roles": [
+		{
+			"Member": "Committee on Agriculture and Rural Development"
+		},
+		{
+			"Substitute": "Committee on the Environment, Public Health and Food Safety"
+		}
+	]
+}

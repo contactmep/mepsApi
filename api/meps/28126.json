@@ -1,0 +1,23 @@
+{
+	"id": "28126",
+	"fullName": "Christofer FJELLNER",
+	"countryCode": "se",
+	"countryLabel": "Sweden",
+	"countryFlag": "http://www.europarl.europa.eu/ep_framework/img/flag/flag_icon_se.gif",
+	"politicalGroupCode": "epp",
+	"politicalGroupLabel": "Group of the European People's Party (Christian Democrats)",
+	"politicalGroupIcon": "http://www.europarl.europa.eu/ep_framework/img/group/group_icon_epp.png",
+	"nationalPoliticalGroupLabel": "Moderaterna",
+	"email": "christofer.fjellner@europarl.europa.eu",
+	"webPage": "http://www.fjellner.eu",
+	"facebookPageUrl": "http://www.facebook.com/pages/Christofer-Fjellner-Your-liberal-voice-in-the-European-Parliament/30819548186",
+	"twitterUrl": "https://twitter.com/#!/Fjellner",
+	"roles": [
+		{
+			"Substitute": "Delegation for relations with Iran"
+		},
+		{
+			"Member": "Delegation for relations with Belarus"
+		}
+	]
+}
