@@ -35,11 +35,9 @@ request('http://www.europarl.europa.eu/meps/en/json/getBodyValues.html', functio
     				if(epNewsHubdata[mep].mep_facebookPageUrl !== ''){
     					meps[epNewsHubdata[mep].mep_codictId].facebookPageUrl = epNewsHubdata[mep].mep_facebookPageUrl;
     				}
-    				if(epNewsHubdata[mep].mep_facebookPageUrl !== ''){
-    					meps[epNewsHubdata[mep].mep_codictId].facebookPageUrl = epNewsHubdata[mep].mep_facebookPageUrl;
-    				}
     				if(epNewsHubdata[mep].mep_twitterUrl !== ''){
     					meps[epNewsHubdata[mep].mep_codictId].twitterUrl = epNewsHubdata[mep].mep_twitterUrl;
+                        meps[epNewsHubdata[mep].mep_codictId].twitterProfile = epNewsHubdata[mep].mep_twitterUrl.replace("https://","").replace("http://","").replace("twitter.com/","").replace("#!/","");
     				}
     				if(epNewsHubdata[mep].mep_additionalProperties !== ''){
     					var roles = JSON.parse(epNewsHubdata[mep].mep_additionalProperties);

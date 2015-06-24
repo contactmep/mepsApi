@@ -12,6 +12,7 @@
 		"email": "charles.goerens@europarl.europa.eu",
 		"facebookPageUrl": "http://www.facebook.com/charles.goerens",
 		"twitterUrl": "https://twitter.com/CharlesGoerens",
+		"twitterProfile": "CharlesGoerens",
 		"roles": [
 			{
 				"Substitute": "Delegation for relations with the Pan-African Parliament"
@@ -55,6 +56,7 @@
 		"email": "reimer.boege@europarl.europa.eu",
 		"webPage": "http://www.reimerboege.de/",
 		"twitterUrl": "http://twitter.com/#!/reimerboege",
+		"twitterProfile": "reimerboege",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -125,6 +127,7 @@
 		"webPage": "http://www.gollnisch.com",
 		"facebookPageUrl": "http://www.facebook.com/pages/BRUNO-GOLLNISCH/10150116023785282",
 		"twitterUrl": "http://twitter.com/#!/brunogollnisch",
+		"twitterProfile": "brunogollnisch",
 		"roles": [
 			{
 				"Substitute": "Committee on Industry, Research and Energy"
@@ -146,6 +149,7 @@
 		"nationalPoliticalGroupLabel": "Les Républicains",
 		"email": "michele.alliot-marie@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/MAlliotMarie",
+		"twitterProfile": "MAlliotMarie",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -171,6 +175,7 @@
 		"email": "viviane.reding@europarl.europa.eu",
 		"facebookPageUrl": "https://www.facebook.com/pages/Viviane-Reding/291423897690447",
 		"twitterUrl": "https://twitter.com/VivianeRedingEU",
+		"twitterProfile": "VivianeRedingEU",
 		"roles": [
 			{
 				"Substitute": "Delegation for relations with Australia and New Zealand"
@@ -194,6 +199,7 @@
 		"webPage": "http://www.alainlamassoure.com",
 		"facebookPageUrl": "https://www.facebook.com/alainlamassoure#!/lamassoure?fref=ts",
 		"twitterUrl": "https://twitter.com/ALamassoure",
+		"twitterProfile": "ALamassoure",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -219,6 +225,7 @@
 		"email": "elmar.brok@europarl.europa.eu",
 		"webPage": "http://www.elmarbrok.de",
 		"twitterUrl": "https://twitter.com/Elmar_Brok",
+		"twitterProfile": "Elmar_Brok",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -244,6 +251,7 @@
 		"email": "james.nicholson@europarl.europa.eu",
 		"facebookPageUrl": "http://www.facebook.com/jimnicholsonmep",
 		"twitterUrl": "http://twitter.com/#!/JimNicholsonMEP",
+		"twitterProfile": "JimNicholsonMEP",
 		"roles": [
 			{
 				"Member of the Bureau": "European Conservatives and Reformists Group"
@@ -269,6 +277,7 @@
 		"email": "david.martin@europarl.europa.eu",
 		"webPage": "http://martinmep.com",
 		"twitterUrl": "http://twitter.com/#!/davidmartinmep",
+		"twitterProfile": "davidmartinmep",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -333,6 +342,7 @@
 		"nationalPoliticalGroupLabel": "Sozialdemokratische Partei Deutschlands",
 		"email": "sylvia-yvonne.kaufmann@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/KaufmannSylvia",
+		"twitterProfile": "KaufmannSylvia",
 		"roles": [
 			{
 				"Substitute": "Special Committee on Tax Rulings and Other Measures Similar in Nature or Effect"
@@ -381,6 +391,7 @@
 		"webPage": "http://www.constanze-krehl.de/",
 		"facebookPageUrl": "facebook.com/krehlconstanze",
 		"twitterUrl": "http://twitter.com/constanzekrehl",
+		"twitterProfile": "constanzekrehl",
 		"roles": [
 			{
 				"Member": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament"
@@ -406,6 +417,7 @@
 		"email": "carlos.coelho@europarl.europa.eu",
 		"webPage": "http://www.carloscoelho.eu",
 		"twitterUrl": "http://twitter.com/#!/CarlosCoelhoPE",
+		"twitterProfile": "CarlosCoelhoPE",
 		"roles": [
 			{
 				"Substitute": "Delegation for relations with Japan"
@@ -428,6 +440,7 @@
 		"email": "bernd.lange@europarl.europa.eu",
 		"webPage": "http://www.bernd-lange.de",
 		"twitterUrl": "http://twitter.com/#!/berndlange",
+		"twitterProfile": "berndlange",
 		"roles": [
 			{
 				"Substitute": "Delegation to the Euro-Latin American Parliamentary Assembly"
@@ -454,6 +467,7 @@
 		"webPage": "http://www.europarl.europa.eu/the-president/en/",
 		"facebookPageUrl": "http://www.facebook.com/martinschulz.eu",
 		"twitterUrl": "http://twitter.com/#!/MartinSchulz",
+		"twitterProfile": "MartinSchulz",
 		"roles": [
 			{
 				"Member": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament"
@@ -501,6 +515,7 @@
 		"webPage": "http://www.markus-ferber.de",
 		"facebookPageUrl": "https://www.facebook.com/MarkusFerberEU?ref=hl",
 		"twitterUrl": "https://twitter.com/MarkusFerber",
+		"twitterProfile": "MarkusFerber",
 		"roles": [
 			{
 				"youtubeURL": "https://www.youtube.com/user/MarkusFerber"
@@ -551,6 +566,7 @@
 		"webPage": "http://www.peter-liese.de",
 		"facebookPageUrl": "http://www.facebook.com/pages/Dr-Peter-Liese-MdEP/62058563854",
 		"twitterUrl": "http://twitter.com/#!/peterliese",
+		"twitterProfile": "peterliese",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -572,6 +588,7 @@
 		"nationalPoliticalGroupLabel": "Christlich Demokratische Union Deutschlands",
 		"email": "werner.langen@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/langen_werner",
+		"twitterProfile": "langen_werner",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -597,6 +614,7 @@
 		"email": "pervenche.beres@europarl.europa.eu",
 		"webPage": "http://www.pervenche-beres.fr",
 		"twitterUrl": "https://twitter.com/#!/PervencheBeres",
+		"twitterProfile": "PervencheBeres",
 		"roles": [
 			{
 				"Substitute": "Special Committee on Tax Rulings and Other Measures Similar in Nature or Effect"
@@ -619,6 +637,7 @@
 		"email": "francoise.grossetete@europarl.europa.eu",
 		"webPage": "http://www.francoise-grossetete.eu",
 		"twitterUrl": "http://twitter.com/#!/grossetetef",
+		"twitterProfile": "grossetetef",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -670,6 +689,7 @@
 		"email": "richard.howitt@europarl.europa.eu",
 		"webPage": "http://www.richardhowittmep.com",
 		"twitterUrl": "http://twitter.com/#!/richardhowitt",
+		"twitterProfile": "richardhowitt",
 		"roles": [
 			{
 				"Vice-Chair": "Delegation for relations with the countries of South Asia"
@@ -742,6 +762,7 @@
 		"nationalPoliticalGroupLabel": "Forza Italia",
 		"email": "antonio.tajani@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/Antonio_Tajani",
+		"twitterProfile": "Antonio_Tajani",
 		"roles": [
 			{
 				"Substitute": "Delegation to the EU-Chile Joint Parliamentary Committee"
@@ -768,6 +789,7 @@
 		"webPage": "http://www.paulruebig.eu",
 		"facebookPageUrl": "https://www.facebook.com/paulruebig",
 		"twitterUrl": "http://www.twitter.com/PaulRuebig",
+		"twitterProfile": "www.PaulRuebig",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -793,6 +815,7 @@
 		"email": "richard.corbett@europarl.europa.eu",
 		"facebookPageUrl": "https://www.facebook.com/rcorbett",
 		"twitterUrl": "https://twitter.com/RCorbettMEP",
+		"twitterProfile": "RCorbettMEP",
 		"roles": [
 			{
 				"Member": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament"
@@ -843,6 +866,7 @@
 		"email": "linda.mcavan@europarl.europa.eu",
 		"webPage": "http://www.lindamcavanmep.org.GB",
 		"twitterUrl": "http://twitter.com/#!/LindaMcAvanMEP",
+		"twitterProfile": "LindaMcAvanMEP",
 		"roles": [
 			{
 				"Member": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament"
@@ -869,6 +893,7 @@
 		"webPage": "http://www.hudghtonmep.com",
 		"facebookPageUrl": "http://www.facebook.com/pages/Ian-Hudghton/112160948801194#!/group.php?gid=55983037095",
 		"twitterUrl": "https://twitter.com/hudghtonmepSNP",
+		"twitterProfile": "hudghtonmepSNP",
 		"roles": [
 			{
 				"Substitute": "Delegation for relations with the United States"
@@ -917,6 +942,7 @@
 		"webPage": "http://www.othmar-karas.at",
 		"facebookPageUrl": "http://www.facebook.com/pages/Othmar-Karas/49336133364",
 		"twitterUrl": "http://twitter.com/#!/othmar_karas",
+		"twitterProfile": "othmar_karas",
 		"roles": [
 			{
 				"Substitute": "Committee on the Internal Market and Consumer Protection"
@@ -943,6 +969,7 @@
 		"webPage": "http://www.frederiqueries.be",
 		"facebookPageUrl": "http://www.facebook.com/pages/Fr%C3%A9d%C3%A9rique-Ries/121508211203759",
 		"twitterUrl": "http://twitter.com/#!/Frederiqueries",
+		"twitterProfile": "Frederiqueries",
 		"roles": [
 			{
 				"Substitute": "Committee on Budgetary Control"
@@ -991,6 +1018,7 @@
 		"webPage": "http://www.udobullmann.de",
 		"facebookPageUrl": "http://www.facebook.com/pages/Udo-Bullmann/68936775929",
 		"twitterUrl": "https://twitter.com/UdoBullmann",
+		"twitterProfile": "UdoBullmann",
 		"roles": [
 			{
 				"Substitute": "Delegation for relations with the United States"
@@ -1060,6 +1088,7 @@
 		"webPage": "http://www.angelika-niebler.de",
 		"facebookPageUrl": "http://www.facebook.com/aniebler?sk=wall",
 		"twitterUrl": "https://twitter.com/ANiebler",
+		"twitterProfile": "ANiebler",
 		"roles": [
 			{
 				"Substitute": "Delegation to the EU-Turkey Joint Parliamentary Committee"
@@ -1081,6 +1110,7 @@
 		"nationalPoliticalGroupLabel": "Partido Popular",
 		"email": "pilar.ayuso@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/ayuso_pilar",
+		"twitterProfile": "ayuso_pilar",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -1102,6 +1132,7 @@
 		"nationalPoliticalGroupLabel": "Partido Socialista Obrero Español",
 		"email": "elena.valenciano@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/ElenaValenciano",
+		"twitterProfile": "ElenaValenciano",
 		"roles": [
 			{
 				"Substitute": "Committee on Petitions"
@@ -1127,6 +1158,7 @@
 		"email": "marielle.desarnez@europarl.europa.eu",
 		"facebookPageUrl": "http://www.facebook.com/pages/MARIELLE-DE-SARNEZ/116543802183",
 		"twitterUrl": "http://twitter.com/#!/desarnez",
+		"twitterProfile": "desarnez",
 		"roles": [
 			{
 				"Substitute": "Committee on Foreign Affairs"
@@ -1152,6 +1184,7 @@
 		"email": "tokia.saifi@europarl.europa.eu",
 		"webPage": "http://www.tokia-saifi.com",
 		"twitterUrl": "http://twitter.com/TokiaSaifi",
+		"twitterProfile": "TokiaSaifi",
 		"roles": [
 			{
 				"Vice-Chair": "Committee on International Trade"
@@ -1177,6 +1210,7 @@
 		"email": "claude.turmes@europarl.europa.eu",
 		"webPage": "http://www.claudeturmes.lu/",
 		"twitterUrl": "http://twitter.com/#!/Claude_Turmes",
+		"twitterProfile": "Claude_Turmes",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -1200,6 +1234,7 @@
 		"webPage": "http://www.giannipittella.it",
 		"facebookPageUrl": "https://www.facebook.com/pages/Gianni-Pittella/25923864548",
 		"twitterUrl": "http://twitter.com/#!/giannipittella",
+		"twitterProfile": "giannipittella",
 		"roles": [
 			{
 				"flickrURL": "http://www.flickr.com/photos/primapersona/"
@@ -1230,6 +1265,7 @@
 		"nationalPoliticalGroupLabel": "Forza Italia",
 		"email": "raffaele.fitto@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/RaffaeleFitto",
+		"twitterProfile": "RaffaeleFitto",
 		"roles": [
 			{
 				"Substitute": "Delegation for relations with the countries of Southeast Asia and the Association of Southeast Asian Nations (ASEAN)"
@@ -1252,6 +1288,7 @@
 		"email": "bastiaan.belder@europarl.europa.eu",
 		"webPage": "http://eurofractie.sgp.nl",
 		"twitterUrl": "http://twitter.com/#!/eurofractiesgp",
+		"twitterProfile": "eurofractiesgp",
 		"roles": [
 			{
 				"Vice-Chair": "Delegation for relations with Israel"
@@ -1303,6 +1340,7 @@
 		"email": "roger.helmer@europarl.europa.eu",
 		"webPage": "http://www.rogerhelmer.com",
 		"twitterUrl": "http://twitter.com/#!/RogerHelmerMEP",
+		"twitterProfile": "RogerHelmerMEP",
 		"roles": [
 			{
 				"Substitute": "Delegation for relations with the countries of Southeast Asia and the Association of Southeast Asian Nations (ASEAN)"
@@ -1328,6 +1366,7 @@
 		"email": "claude.moraes@europarl.europa.eu",
 		"webPage": "http://www.claudemoraes.net",
 		"twitterUrl": "https://twitter.com/ClaudeMoraesMEP",
+		"twitterProfile": "ClaudeMoraesMEP",
 		"roles": [
 			{
 				"Substitute": "Delegation for relations with the United States"
@@ -1353,6 +1392,7 @@
 		"email": "charles.tannock@europarl.europa.eu",
 		"webPage": "http://www.charlestannock.com",
 		"twitterUrl": "https://twitter.com/CharlesTannock",
+		"twitterProfile": "CharlesTannock",
 		"roles": [
 			{
 				"Substitute": "Delegation to the EU-Serbia Stabilisation and Association Parliamentary Committee"
@@ -1376,6 +1416,7 @@
 		"webPage": "http://nigelfaragemep.co.uk/",
 		"facebookPageUrl": "http://www.facebook.com/pages/Nigel-Farage-MEP/133737666673845",
 		"twitterUrl": "http://twitter.com/#!/nigel_farage",
+		"twitterProfile": "nigel_farage",
 		"roles": [
 			{
 				"youtubeURL": "http://www.youtube.com/user/NigelFarageChannel"
@@ -1425,6 +1466,7 @@
 		"nationalPoliticalGroupLabel": "Labour Party",
 		"email": "neena.gill@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/NeenaGmep",
+		"twitterProfile": "NeenaGmep",
 		"roles": [
 			{
 				"Substitute": "Special Committee on Tax Rulings and Other Measures Similar in Nature or Effect"
@@ -1450,6 +1492,7 @@
 		"email": "timothy.kirkhope@europarl.europa.eu",
 		"webPage": "http://www.kirkhope.org.GB/",
 		"twitterUrl": "https://twitter.com/TimKirkhopeMEP",
+		"twitterProfile": "TimKirkhopeMEP",
 		"roles": [
 			{
 				"Member": "Delegation for relations with the United States"
@@ -1472,6 +1515,7 @@
 		"email": "catherine.stihler@europarl.europa.eu",
 		"webPage": "http://www.cstihlermep.com",
 		"twitterUrl": "http://twitter.com/#!/C_Stihler_MEP",
+		"twitterProfile": "C_Stihler_MEP",
 		"roles": [
 			{
 				"Substitute": "Delegation for relations with the United States"
@@ -1497,6 +1541,7 @@
 		"email": "Jill.evans@europarl.europa.eu",
 		"webPage": "http://www.jillevans.net",
 		"twitterUrl": "http://twitter.com/#!/jillevansmep",
+		"twitterProfile": "jillevansmep",
 		"roles": [
 			{
 				"Member": "Plaid Cymru - Party of Wales"
@@ -1519,6 +1564,7 @@
 		"email": "jacqueline.foster@europarl.europa.eu",
 		"facebookPageUrl": "http://www.facebook.com/pages/Jacqueline-Foster-MEP/368940170596?sk=wall",
 		"twitterUrl": "http://twitter.com/#!/jfostermep",
+		"twitterProfile": "jfostermep",
 		"roles": [
 			{
 				"Vice-Chair": "Delegation for relations with Australia and New Zealand"
@@ -1545,6 +1591,7 @@
 		"webPage": "http://www.hannan.co.GB",
 		"facebookPageUrl": "http://www.facebook.com/danielhannan",
 		"twitterUrl": "http://twitter.com/#!/DanHannanMEP",
+		"twitterProfile": "DanHannanMEP",
 		"roles": [
 			{
 				"Substitute": "Delegation for relations with South Africa"
@@ -1570,6 +1617,7 @@
 		"email": "nirj.deva@europarl.europa.eu",
 		"webPage": "http://www.nirjdeva.com",
 		"twitterUrl": "https://twitter.com/NirjDeva",
+		"twitterProfile": "NirjDeva",
 		"roles": [
 			{
 				"Member": "European Conservatives and Reformists Group"
@@ -1599,6 +1647,7 @@
 		"webPage": "http://www.bartstaes.be",
 		"facebookPageUrl": "http://www.facebook.com/pages/Bart-Staes/37339765706",
 		"twitterUrl": "http://twitter.com/#!/bartstaes",
+		"twitterProfile": "bartstaes",
 		"roles": [
 			{
 				"Member": "Delegation for relations with the United States"
@@ -1621,6 +1670,7 @@
 		"email": "brice.hortefeux@europarl.europa.eu",
 		"facebookPageUrl": "http://www.facebook.com/bricehortefeux",
 		"twitterUrl": "https://twitter.com/BriceHortefeux",
+		"twitterProfile": "BriceHortefeux",
 		"roles": [
 			{
 				"Substitute": "Committee on Constitutional Affairs"
@@ -1643,6 +1693,7 @@
 		"email": "kathleen.vanbrempt@europarl.europa.eu",
 		"facebookPageUrl": "http://www.facebook.com/pages/Kathleen-Van-Brempt/149490498430244",
 		"twitterUrl": "https://twitter.com/kvanbrempt",
+		"twitterProfile": "kvanbrempt",
 		"roles": [
 			{
 				"Substitute": "Delegation for relations with the Arab Peninsula"
@@ -1667,6 +1718,7 @@
 		"nationalPoliticalGroupLabel": "Labour Party",
 		"email": "mary.honeyball@europarl.europa.eu",
 		"twitterUrl": "http://twitter.com/maryhoneyball",
+		"twitterProfile": "maryhoneyball",
 		"roles": [
 			{
 				"Substitute": "Delegation for relations with the Palestinian Legislative Council"
@@ -1752,6 +1804,7 @@
 		"webPage": "http://www.peterle.eu",
 		"facebookPageUrl": "http://www.facebook.com/alojz.p",
 		"twitterUrl": "https://twitter.com/lojzepeterle",
+		"twitterProfile": "lojzepeterle",
 		"roles": [
 			{
 				"youtubeURL": "http://www.youtube.com/user/EUveceri"
@@ -1849,6 +1902,7 @@
 		"email": "jan.zahradil@europarl.europa.eu",
 		"webPage": "http://www.zahradil.cz",
 		"twitterUrl": "http://twitter.com/#!/ZahradilJan",
+		"twitterProfile": "ZahradilJan",
 		"roles": [
 			{
 				"Substitute": "Committee on Development"
@@ -1877,6 +1931,7 @@
 		"email": "boguslaw.liberadzki@europarl.europa.eu",
 		"webPage": "http://www.liberadzki.pl/",
 		"twitterUrl": "https://twitter.com/BLiberadzki",
+		"twitterProfile": "BLiberadzki",
 		"roles": [
 			{
 				"Member": "Quaestors"
@@ -1901,6 +1956,7 @@
 		"nationalPoliticalGroupLabel": "Platforma Obywatelska",
 		"email": "janusz.lewandowski@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/J_Lewandowski",
+		"twitterProfile": "J_Lewandowski",
 		"roles": [
 			{
 				"Substitute": "Delegation for relations with the People's Republic of China"
@@ -1925,6 +1981,7 @@
 		"nationalPoliticalGroupLabel": "Prawo i Sprawiedliwość",
 		"email": "janusz.wojciechowski@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/jwojc",
+		"twitterProfile": "jwojc",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -2085,6 +2142,7 @@
 		"email": "anna.zaborska@europarl.europa.eu",
 		"webPage": "http://www.zaborska.sk",
 		"twitterUrl": "http://twitter.com/#!/AnnaZaborska",
+		"twitterProfile": "AnnaZaborska",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -2170,6 +2228,7 @@
 		"email": "eleni.theocharous@europarl.europa.eu",
 		"facebookPageUrl": "http://www.facebook.com/pages/%CE%94%CF%81-%CE%95%CE%9B%CE%95%CE%9D%CE%97-%CE%98%CE%95%CE%9F%CE%A7%CE%91%CE%A1%CE%9F%CE%A5%CE%A3-Dr-ELENI-THEOCHAROUS/46620712083",
 		"twitterUrl": "https://twitter.com/mep_theocharous",
+		"twitterProfile": "mep_theocharous",
 		"roles": [
 			{
 				"Substitute": "Committee on Development"
@@ -2213,6 +2272,7 @@
 		"webPage": "http://www.maireadmcguinness.ie",
 		"facebookPageUrl": "http://www.facebook.com/pages/Mairead-McGuinness-MEP/47543411076",
 		"twitterUrl": "https://twitter.com/MaireadMcGMEP",
+		"twitterProfile": "MaireadMcGMEP",
 		"roles": [
 			{
 				"Vice-Chair": "Delegation to the EU-Montenegro Stabilisation and Association Parliamentary Committee"
@@ -2241,6 +2301,7 @@
 		"email": "marian.harkin@europarl.europa.eu",
 		"facebookPageUrl": "http://www.facebook.com/marianharkin",
 		"twitterUrl": "https://twitter.com/#!/MarianHarkin",
+		"twitterProfile": "MarianHarkin",
 		"roles": [
 			{
 				"Substitute": "Committee on Economic and Monetary Affairs"
@@ -2264,6 +2325,7 @@
 		"webPage": "http://www.davidcasa.eu",
 		"facebookPageUrl": "https://www.facebook.com/david.casa.9",
 		"twitterUrl": "https://twitter.com/DavidCasaMEP",
+		"twitterProfile": "DavidCasaMEP",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -2287,6 +2349,7 @@
 		"webPage": "http://hokmark.eu",
 		"facebookPageUrl": "http://www.facebook.com/ghokmark",
 		"twitterUrl": "https://twitter.com/#!/ghokmark",
+		"twitterProfile": "ghokmark",
 		"roles": [
 			{
 				"flickrURL": "http://www.flickr.com/photos/ghokmark/"
@@ -2316,6 +2379,7 @@
 		"webPage": "http://www.fjellner.eu",
 		"facebookPageUrl": "http://www.facebook.com/pages/Christofer-Fjellner-Your-liberal-voice-in-the-European-Parliament/30819548186",
 		"twitterUrl": "https://twitter.com/#!/Fjellner",
+		"twitterProfile": "Fjellner",
 		"roles": [
 			{
 				"Substitute": "Delegation for relations with Iran"
@@ -2338,6 +2402,7 @@
 		"email": "anna.hedh@europarl.europa.eu",
 		"webPage": "http://www.sap.se/anna",
 		"twitterUrl": "https://twitter.com/#!/AnnaHedh",
+		"twitterProfile": "AnnaHedh",
 		"roles": [
 			{
 				"Substitute": "Delegation for relations with the countries of Central America"
@@ -2383,6 +2448,7 @@
 		"email": "gyorgy.schopflin@europarl.europa.eu",
 		"facebookPageUrl": "https://www.facebook.com/pages/Sch%C3%B6pflin-Gy%C3%B6rgy/425842774175213?ref=hl&focus_composer=true",
 		"twitterUrl": "https://twitter.com/schopflinMEP",
+		"twitterProfile": "schopflinMEP",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -2426,6 +2492,7 @@
 		"email": "ole.christensen@europarl.europa.eu",
 		"webPage": "http://www.oleeu.dk",
 		"twitterUrl": "https://twitter.com/OleEU",
+		"twitterProfile": "OleEU",
 		"roles": [
 			{
 				"Substitute": "Delegation to the EU-Turkey Joint Parliamentary Committee"
@@ -2449,6 +2516,7 @@
 		"webPage": "http://www.auken.dk",
 		"facebookPageUrl": "http://www.facebook.com/?ref=home#!/pages/Margrete-Auken/36730930417",
 		"twitterUrl": "http://twitter.com/#!/MargreteAuken",
+		"twitterProfile": "MargreteAuken",
 		"roles": [
 			{
 				"Vice-Chair": "Delegation for relations with the Palestinian Legislative Council"
@@ -2471,6 +2539,7 @@
 		"email": "lambert.vannistelrooij@europarl.europa.eu",
 		"webPage": "http://www.lambertvannistelrooij.eu",
 		"twitterUrl": "http://twitter.com/#!/lvnistelrooij",
+		"twitterProfile": "lvnistelrooij",
 		"roles": [
 			{
 				"Substitute": "Committee on the Internal Market and Consumer Protection"
@@ -2492,6 +2561,7 @@
 		"nationalPoliticalGroupLabel": "Parti socialiste",
 		"email": "vincent.peillon@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/Vincent_Peillon",
+		"twitterProfile": "Vincent_Peillon",
 		"roles": [
 			{
 				"Substitute": "Delegation for relations with the Mashreq countries"
@@ -2561,6 +2631,7 @@
 		"webPage": "http://www.jeanmariecavada.eu",
 		"facebookPageUrl": "http://www.facebook.com/?ref=home#!/pages/Jean-Marie-Cavada/180453773116",
 		"twitterUrl": "https://twitter.com/JeanMarieCAVADA",
+		"twitterProfile": "JeanMarieCAVADA",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -2587,6 +2658,7 @@
 		"webPage": "http://www.nathalie-griesbeck.org",
 		"facebookPageUrl": "http://www.facebook.com/pages/Nathalie-Griesbeck/122229430180",
 		"twitterUrl": "https://twitter.com/Nat_GRIESBECK",
+		"twitterProfile": "Nat_GRIESBECK",
 		"roles": [
 			{
 				"Substitute": "Delegation for relations with the countries of Central America"
@@ -2609,6 +2681,7 @@
 		"email": "marine.lepen@europarl.europa.eu",
 		"facebookPageUrl": "http://www.facebook.com/MLP.officiel",
 		"twitterUrl": "http://twitter.com/#!/MLP_officiel",
+		"twitterProfile": "MLP_officiel",
 		"roles": [
 			{
 				"Substitute": "Delegation for relations with the United States"
@@ -2631,6 +2704,7 @@
 		"email": "daniel.caspary@europarl.europa.eu",
 		"webPage": "http://www.caspary.de",
 		"twitterUrl": "https://twitter.com/#!/caspary",
+		"twitterProfile": "caspary",
 		"roles": [
 			{
 				"Substitute": "Committee on Foreign Affairs"
@@ -2654,6 +2728,7 @@
 		"webPage": "http://www.inge-graessle.eu",
 		"facebookPageUrl": "http://www.facebook.com/?ref=home#!/pages/Dr-Inge-Gr%C3%A4%C3%9Fle/137568042759",
 		"twitterUrl": "http://twitter.com/inge_graessle",
+		"twitterProfile": "inge_graessle",
 		"roles": [
 			{
 				"Substitute": "Committee on Employment and Social Affairs"
@@ -2680,6 +2755,7 @@
 		"webPage": "http://www.andreas-schwab.de",
 		"facebookPageUrl": "http://www.facebook.com/search.php?q=andreas%20schwab&init=quick&tas=0.04320941172004611&ref=ts#!/dr.andreas.schwab.mdep",
 		"twitterUrl": "https://twitter.com/#!/Andreas_Schwab",
+		"twitterProfile": "Andreas_Schwab",
 		"roles": [
 			{
 				"Substitute": "Special Committee on Tax Rulings and Other Measures Similar in Nature or Effect"
@@ -2723,6 +2799,7 @@
 		"nationalPoliticalGroupLabel": "Christlich Demokratische Union Deutschlands",
 		"email": "herbert.reul@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/#!/hreul",
+		"twitterProfile": "hreul",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -2770,6 +2847,7 @@
 		"email": "albert.dess@europarl.europa.eu",
 		"webPage": "http://www.albert-dess.de",
 		"twitterUrl": "https://twitter.com/Albert_Dess_MEP",
+		"twitterProfile": "Albert_Dess_MEP",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -2792,6 +2870,7 @@
 		"email": "manfred.weber@europarl.europa.eu",
 		"webPage": "http://www.weber-manfred.de",
 		"twitterUrl": "https://twitter.com/#!/ManfredWeber",
+		"twitterProfile": "ManfredWeber",
 		"roles": [
 			{
 				"Substitute": "Committee on Constitutional Affairs"
@@ -2817,6 +2896,7 @@
 		"email": "rebecca.harms@europarl.europa.eu",
 		"webPage": "http://www.rebecca-harms.de",
 		"twitterUrl": "https://twitter.com/RebHarms",
+		"twitterProfile": "RebHarms",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -2842,6 +2922,7 @@
 		"email": "michael.cramer@europarl.europa.eu",
 		"webPage": "http://www.michael-cramer.eu/",
 		"twitterUrl": "https://twitter.com/MepMCramer",
+		"twitterProfile": "MepMCramer",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -2890,6 +2971,7 @@
 		"webPage": "http://www.lambsdorffdirekt.de",
 		"facebookPageUrl": "http://www.facebook.com/alexander.graf.lambsdorff",
 		"twitterUrl": "http://twitter.com/#!/Lambsdorff_live",
+		"twitterProfile": "Lambsdorff_live",
 		"roles": [
 			{
 				"Member": "Parliament's Bureau"
@@ -2939,6 +3021,7 @@
 		"email": "joerg.leichtfried@europarl.europa.eu",
 		"webPage": "http://www.joerg-leichtfried.at",
 		"twitterUrl": "http://twitter.com/#!/jleichtfried",
+		"twitterProfile": "jleichtfried",
 		"roles": [
 			{
 				"Substitute": "Delegation for relations with the countries of Southeast Asia and the Association of Southeast Asian Nations (ASEAN)"
@@ -2964,6 +3047,7 @@
 		"email": "ivo.belet@europarl.europa.eu",
 		"webPage": "http://www.ivobelet.eu",
 		"twitterUrl": "http://twitter.com/#!/ivobelet",
+		"twitterProfile": "ivobelet",
 		"roles": [
 			{
 				"Substitute": "Committee on Transport and Tourism"
@@ -2987,6 +3071,7 @@
 		"webPage": "http://www.sophieintveld.eu",
 		"facebookPageUrl": "http://www.facebook.com/sophieintveld?sk=wall",
 		"twitterUrl": "http://twitter.com/#!/sophieintveld",
+		"twitterProfile": "sophieintveld",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -3013,6 +3098,7 @@
 		"webPage": "http://buzek.pl",
 		"facebookPageUrl": "http://www.facebook.com/#!/JerzyBuzek",
 		"twitterUrl": "http://twitter.com/#!/JerzyBuzek",
+		"twitterProfile": "JerzyBuzek",
 		"roles": [
 			{
 				"Member": "Group of the European People's Party (Christian Democrats)"
@@ -3037,6 +3123,7 @@
 		"nationalPoliticalGroupLabel": "Platforma Obywatelska",
 		"email": "barbara.kudrycka@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/BarbaraKudrycka",
+		"twitterProfile": "BarbaraKudrycka",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -3083,6 +3170,7 @@
 		"nationalPoliticalGroupLabel": "Partido Socialista Obrero Español",
 		"email": "ines.ayalasender@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/IAyalaSender",
+		"twitterProfile": "IAyalaSender",
 		"roles": [
 			{
 				"Substitute": "Delegation for relations with the Mashreq countries"
@@ -3130,6 +3218,7 @@
 		"email": "iratxe.garcia-perez@europarl.europa.eu",
 		"webPage": "http://www.psoe-pe.org",
 		"twitterUrl": "https://twitter.com/IratxeGarper",
+		"twitterProfile": "IratxeGarper",
 		"roles": [
 			{
 				"Substitute": "Delegation for relations with the Palestinian Legislative Council"
@@ -3155,6 +3244,7 @@
 		"email": "tadeusz.zwiefka@europarl.europa.eu",
 		"facebookPageUrl": "http://www.facebook.com/pages/Tadeusz-Zwiefka/163446167029557",
 		"twitterUrl": "https://twitter.com/TadeuszZwiefka",
+		"twitterProfile": "TadeuszZwiefka",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -3178,6 +3268,7 @@
 		"webPage": "http://www.anagomes.eu",
 		"facebookPageUrl": "https://www.facebook.com/pages/Ana-Gomes/199168490096879",
 		"twitterUrl": "http://twitter.com/#!/Anargomes",
+		"twitterProfile": "Anargomes",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -3223,6 +3314,7 @@
 		"email": "elisa.ferreira@europarl.europa.eu",
 		"facebookPageUrl": "https://www.facebook.com/pages/Elisa-Ferreira/131217906918378",
 		"twitterUrl": "http://twitter.com/#!/elisaferreira",
+		"twitterProfile": "elisaferreira",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -3246,6 +3338,7 @@
 		"webPage": "http://www.annelijaatteenmaki.net",
 		"facebookPageUrl": "https://www.facebook.com/pages/Anneli-J%C3%A4%C3%A4tteenm%C3%A4ki/382866191739876",
 		"twitterUrl": "https://twitter.com/#!/jaatteenmaki",
+		"twitterProfile": "jaatteenmaki",
 		"roles": [
 			{
 				"Substitute": "Committee on Foreign Affairs"
@@ -3279,6 +3372,7 @@
 		"email": "patrizia.toia@europarl.europa.eu",
 		"webPage": "http://www.patriziatoia.eu",
 		"twitterUrl": "https://twitter.com/#!/toiapatrizia",
+		"twitterProfile": "toiapatrizia",
 		"roles": [
 			{
 				"Substitute": "Committee on Development"
@@ -3323,6 +3417,7 @@
 		"nationalPoliticalGroupLabel": "Partito Democratico",
 		"email": "mercedes.bresso@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/mercedesbresso",
+		"twitterProfile": "mercedesbresso",
 		"roles": [
 			{
 				"Member": "Committee on Regional Development"
@@ -3372,6 +3467,7 @@
 		"webPage": "http://www.delegazionepse.it",
 		"facebookPageUrl": "https://www.facebook.com/AntonioPanzeri",
 		"twitterUrl": "https://twitter.com/AntonioPanzeri",
+		"twitterProfile": "AntonioPanzeri",
 		"roles": [
 			{
 				"Member": "Committee on Foreign Affairs"
@@ -3397,6 +3493,7 @@
 		"email": "ryszard.czarnecki@europarl.europa.eu",
 		"webPage": "http://www.RyszardCzarnecki.pl",
 		"twitterUrl": "https://twitter.com/#!/r_czarnecki",
+		"twitterProfile": "r_czarnecki",
 		"roles": [
 			{
 				"Substitute": "Committee on Foreign Affairs"
@@ -3429,6 +3526,7 @@
 		"webPage": "http://www.lgeringer.pl",
 		"facebookPageUrl": "http://www.facebook.com/pages/Lidia-Geringer-de-Oedenberg/247754585312097",
 		"twitterUrl": "http://twitter.com/#!/lidiageringer",
+		"twitterProfile": "lidiageringer",
 		"roles": [
 			{
 				"additionalSite1": "http://lidiageringer.wordpress.com/"
@@ -3460,6 +3558,7 @@
 		"email": "adam.gierek@europarl.europa.eu",
 		"webPage": "http://www.adam.gierek.eu/",
 		"twitterUrl": "https://twitter.com/AdamGierek",
+		"twitterProfile": "AdamGierek",
 		"roles": [
 			{
 				"Member": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament"
@@ -3481,6 +3580,7 @@
 		"nationalPoliticalGroupLabel": "Prawo i Sprawiedliwość",
 		"email": "zbigniew.kuzmiuk@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/ZbigniewKuzmiuk",
+		"twitterProfile": "ZbigniewKuzmiuk",
 		"roles": [
 			{
 				"Substitute": "Delegation for relations with Belarus"
@@ -3504,6 +3604,7 @@
 		"webPage": "http://www.pilardelcastillo.com",
 		"facebookPageUrl": "https://www.facebook.com/PilardelCastilloOficial",
 		"twitterUrl": "http://twitter.com/#!/delcastillop/",
+		"twitterProfile": "delcastillop/",
 		"roles": [
 			{
 				"Substitute": "Committee on Economic and Monetary Affairs"
@@ -3548,6 +3649,7 @@
 		"nationalPoliticalGroupLabel": "Platforma Obywatelska",
 		"email": "dariusz.rosati@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/DariuszRosati",
+		"twitterProfile": "DariuszRosati",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -3592,6 +3694,7 @@
 		"nationalPoliticalGroupLabel": "Partido Popular",
 		"email": "carlos.iturgaiz@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/carlositurgaiz",
+		"twitterProfile": "carlositurgaiz",
 		"roles": [
 			{
 				"Substitute": "Delegation for relations with South Africa"
@@ -3613,6 +3716,7 @@
 		"nationalPoliticalGroupLabel": "Partido Popular",
 		"email": "antonio.lopezisturiz@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/#!/TonoEPP",
+		"twitterProfile": "TonoEPP",
 		"roles": [
 			{
 				"Substitute": "Committee on Foreign Affairs"
@@ -3655,6 +3759,7 @@
 		"email": "matteo.salvini@europarl.europa.eu",
 		"facebookPageUrl": "http://www.facebook.com/pages/Matteo-Salvini/252306033154",
 		"twitterUrl": "https://twitter.com/matteosalvinimi",
+		"twitterProfile": "matteosalvinimi",
 		"roles": [
 			{
 				"Substitute": "Committee on Development"
@@ -3678,6 +3783,7 @@
 		"webPage": "http://www.kelam.ee",
 		"facebookPageUrl": "https://www.facebook.com/#!/tukebro",
 		"twitterUrl": "https://twitter.com/EPP_EE",
+		"twitterProfile": "EPP_EE",
 		"roles": [
 			{
 				"Member": "Committee on Foreign Affairs"
@@ -3719,6 +3825,7 @@
 		"nationalPoliticalGroupLabel": "Nuovo Centrodestra - Unione di Centro",
 		"email": "lorenzo.cesa@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/L_Cesa",
+		"twitterProfile": "L_Cesa",
 		"roles": [
 			{
 				"Substitute": "Committee on Industry, Research and Energy"
@@ -3741,6 +3848,7 @@
 		"email": "sajjad.karim@europarl.europa.eu",
 		"webPage": "http://www.sajjadkarim.eu",
 		"twitterUrl": "http://twitter.com/#!/SajjadKarimMEP",
+		"twitterProfile": "SajjadKarimMEP",
 		"roles": [
 			{
 				"Member": "European Conservatives and Reformists Group"
@@ -3765,6 +3873,7 @@
 		"nationalPoliticalGroupLabel": "United Kingdom Independence Party",
 		"email": "gerard.batten@europarl.europa.eu",
 		"twitterUrl": "http://twitter.com/#!/GerardBattenMEP",
+		"twitterProfile": "GerardBattenMEP",
 		"roles": [
 			{
 				"Member": "Europe of Freedom and Direct Democracy Group"
@@ -3784,6 +3893,7 @@
 		"email": "alyn.smith@europarl.europa.eu",
 		"facebookPageUrl": "http://www.facebook.com/home.php#!/pages/Alyn-Smith-MEP/192295170796998",
 		"twitterUrl": "http://twitter.com/#!/Alynsmithmep",
+		"twitterProfile": "Alynsmithmep",
 		"roles": [
 			{
 				"Substitute": "Committee on Agriculture and Rural Development"
@@ -3805,6 +3915,7 @@
 		"nationalPoliticalGroupLabel": "Coalition of the Radical Left",
 		"email": "dimitrios.papadimoulis@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/papadimoulis",
+		"twitterProfile": "papadimoulis",
 		"roles": [
 			{
 				"Substitute": "Committee on Regional Development"
@@ -3830,6 +3941,7 @@
 		"email": "roberts.zile@europarl.europa.eu",
 		"webPage": "http://www.robertszile.lv",
 		"twitterUrl": "http://twitter.com/#!/robertszile",
+		"twitterProfile": "robertszile",
 		"roles": [
 			{
 				"Substitute": "Delegation to the Euro-Latin American Parliamentary Assembly"
@@ -3855,6 +3967,7 @@
 		"email": "inese.vaidere@europarl.europa.eu",
 		"facebookPageUrl": "https://www.facebook.com/inese.vaidere.9",
 		"twitterUrl": "https://twitter.com/IneseVaidere",
+		"twitterProfile": "IneseVaidere",
 		"roles": [
 			{
 				"Substitute": "Delegation to the Euro-Latin American Parliamentary Assembly"
@@ -3878,6 +3991,7 @@
 		"webPage": "http://www.tatjanazdanok.lv",
 		"facebookPageUrl": "http://www.facebook.com/pages/Tatjana-%C5%BDdanoka/146160892112506",
 		"twitterUrl": "http://twitter.com/#!/Tatjana_Zdanoka",
+		"twitterProfile": "Tatjana_Zdanoka",
 		"roles": [
 			{
 				"Vice-Chair": "Delegation to the EU-Kazakhstan, EU-Kyrgyzstan, EU-Uzbekistan and EU-Tajikistan Parliamentary Cooperation Committees and for relations with Turkmenistan and Mongolia"
@@ -3904,6 +4018,7 @@
 		"webPage": "http://www.tarabella.eu",
 		"facebookPageUrl": "http://www.facebook.com/pages/Marc-Tarabella/440244735250",
 		"twitterUrl": "http://twitter.com/#!/marctarabella",
+		"twitterProfile": "marctarabella",
 		"roles": [
 			{
 				"Substitute": "Committee on Women's Rights and Gender Equality"
@@ -3928,6 +4043,7 @@
 		"nationalPoliticalGroupLabel": "Front national",
 		"email": "louis.aliot@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/louis_aliot",
+		"twitterProfile": "louis_aliot",
 		"roles": [
 			{
 				"Member": "Non-attached Members"
@@ -3949,6 +4065,7 @@
 		"nationalPoliticalGroupLabel": "L'union pour les Outremer",
 		"email": "younous.omarjee@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/younousomarjee",
+		"twitterProfile": "younousomarjee",
 		"roles": [
 			{
 				"Member": "Confederal Group of the European United Left - Nordic Green Left"
@@ -3974,6 +4091,7 @@
 		"email": "syed.kamall@europarl.europa.eu",
 		"webPage": "http://www.syedkamall.com",
 		"twitterUrl": "http://twitter.com/#!/SyedKamall",
+		"twitterProfile": "SyedKamall",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -3999,6 +4117,7 @@
 		"email": "marian-jean.marinescu@europarl.europa.eu",
 		"webPage": "http://www.marian-jean-marinescu.oltenia.ro",
 		"twitterUrl": "https://twitter.com/MarianMarinescu",
+		"twitterProfile": "MarianMarinescu",
 		"roles": [
 			{
 				"Substitute": "Committee on Industry, Research and Energy"
@@ -4024,6 +4143,7 @@
 		"email": "ioanmircea.pascu@europarl.europa.eu",
 		"webPage": "http://ioanmirceapascu.ro",
 		"twitterUrl": "http://twitter.com/#!/ioanmirceapascu",
+		"twitterProfile": "ioanmirceapascu",
 		"roles": [
 			{
 				"Substitute": "Delegation for relations with the United States"
@@ -4053,6 +4173,7 @@
 		"webPage": "http://www.dacianasarbu.ro",
 		"facebookPageUrl": "https://www.facebook.com/pages/Daciana-Sarbu/175246899157836",
 		"twitterUrl": "https://twitter.com/DacianaSarbu",
+		"twitterProfile": "DacianaSarbu",
 		"roles": [
 			{
 				"Substitute": "Delegation for relations with the People's Republic of China"
@@ -4126,6 +4247,7 @@
 		"webPage": "http://www.matthias-groote.eu",
 		"facebookPageUrl": "http://www.facebook.com/groote.eu",
 		"twitterUrl": "http://twitter.com/#!/Groote",
+		"twitterProfile": "Groote",
 		"roles": [
 			{
 				"flickrURL": "http://www.flickr.com/photos/groote/"
@@ -4174,6 +4296,7 @@
 		"email": "glenis.willmott@europarl.europa.eu",
 		"webPage": "http://www.gleniswillmott.org.GB",
 		"twitterUrl": "http://twitter.com/#!/gleniswillmott",
+		"twitterProfile": "gleniswillmott",
 		"roles": [
 			{
 				"Vice-Chair": "Delegation for relations with Canada"
@@ -4200,6 +4323,7 @@
 		"webPage": "http://www.forzaitalia.it",
 		"facebookPageUrl": "http://www.facebook.com/pages/Aldo-Patriciello/40645773554",
 		"twitterUrl": "https://twitter.com/#!/PatricielloAldo",
+		"twitterProfile": "PatricielloAldo",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -4221,6 +4345,7 @@
 		"nationalPoliticalGroupLabel": "Partij van de Arbeid",
 		"email": "kati.piri@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/KatiPiri",
+		"twitterProfile": "KatiPiri",
 		"roles": [
 			{
 				"Substitute": "Delegation to the EU-Turkey Joint Parliamentary Committee"
@@ -4243,6 +4368,7 @@
 		"email": "christel.schaldemose@europarl.europa.eu",
 		"webPage": "http://www.christels.dk",
 		"twitterUrl": "https://twitter.com/SchaldemoseMEP",
+		"twitterProfile": "SchaldemoseMEP",
 		"roles": [
 			{
 				"Substitute": "Delegation for relations with Canada"
@@ -4266,6 +4392,7 @@
 		"webPage": "http://www.valean.eu",
 		"facebookPageUrl": "http://www.facebook.com/AdinaValeanMEP",
 		"twitterUrl": "http://twitter.com/#!/AdinaValean",
+		"twitterProfile": "AdinaValean",
 		"roles": [
 			{
 				"Substitute": "Committee on International Trade"
@@ -4292,6 +4419,7 @@
 		"webPage": "http://www.estherdelange.nl",
 		"facebookPageUrl": "http://www.facebook.com/esther.delange1",
 		"twitterUrl": "http://twitter.com/#!/Esther_de_Lange",
+		"twitterProfile": "Esther_de_Lange",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -4357,6 +4485,7 @@
 		"email": "elisabeth.morinchartier@europarl.europa.eu",
 		"webPage": "http://www.elisabeth-morinchartier.eu",
 		"twitterUrl": "http://twitter.com/#!/emorinchartier",
+		"twitterProfile": "emorinchartier",
 		"roles": [
 			{
 				"Member": "Parliament's Bureau"
@@ -4425,6 +4554,7 @@
 		"nationalPoliticalGroupLabel": "Partidul Social Democrat",
 		"email": "victor.bostinaru@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/VictorBostinaru",
+		"twitterProfile": "VictorBostinaru",
 		"roles": [
 			{
 				"Substitute": "Delegation to the EU-Albania Stabilisation and Association Parliamentary Committee"
@@ -4451,6 +4581,7 @@
 		"webPage": "http://www.renateweber.eu",
 		"facebookPageUrl": "http://www.facebook.com/renate.weber.mep",
 		"twitterUrl": "http://twitter.com/#!/renateweber",
+		"twitterProfile": "renateweber",
 		"roles": [
 			{
 				"Vice-Chair": "Delegation to the EU-Chile Joint Parliamentary Committee"
@@ -4498,6 +4629,7 @@
 		"nationalPoliticalGroupLabel": "Partidul Naţional Liberal",
 		"email": "theodordumitru.stolojan@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/TheodorStolojan",
+		"twitterProfile": "TheodorStolojan",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -4588,6 +4720,7 @@
 		"nationalPoliticalGroupLabel": "Partidul Social Democrat",
 		"email": "andi.cristea@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/andicristeamep",
+		"twitterProfile": "andicristeamep",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -4614,6 +4747,7 @@
 		"webPage": "http://www.sirpapietikainen.net",
 		"facebookPageUrl": "https://www.facebook.com/pages/Sirpa-Pietik%C3%A4inen/140188405326?ref=hl",
 		"twitterUrl": "https://twitter.com/spietikainen",
+		"twitterProfile": "spietikainen",
 		"roles": [
 			{
 				"Substitute": "Committee on the Environment, Public Health and Food Safety"
@@ -4636,6 +4770,7 @@
 		"email": "elisabetta.gardini@europarl.europa.eu",
 		"facebookPageUrl": "http://www.facebook.com/search.php?q=GARDINI%20Elisabetta&init=quick&tas=0.7210477561412078#!/pages/Elisabetta-Gardini/114266221965026",
 		"twitterUrl": "https://twitter.com/EGardini",
+		"twitterProfile": "EGardini",
 		"roles": [
 			{
 				"Vice-Chair": "Delegation for relations with Mercosur"
@@ -4660,6 +4795,7 @@
 		"nationalPoliticalGroupLabel": "Volkspartij voor Vrijheid en Democratie",
 		"email": "jan.huitema@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/jhuitema",
+		"twitterProfile": "jhuitema",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -4682,6 +4818,7 @@
 		"email": "rachida.dati@europarl.europa.eu",
 		"facebookPageUrl": "http://www.facebook.com/pages/Rachida-Dati/107359612629511",
 		"twitterUrl": "http://twitter.com/#!/datirachida",
+		"twitterProfile": "datirachida",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -4703,6 +4840,7 @@
 		"nationalPoliticalGroupLabel": "Les Républicains",
 		"email": "nadine.morano@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/nadine__morano",
+		"twitterProfile": "nadine__morano",
 		"roles": [
 			{
 				"Substitute": "Delegation to the ACP-EU Joint Parliamentary Assembly"
@@ -4745,6 +4883,7 @@
 		"email": "victor.negrescu@europarl.europa.eu",
 		"facebookPageUrl": "https://www.facebook.com/victornegrescu",
 		"twitterUrl": "https://twitter.com/negrescuvictor",
+		"twitterProfile": "negrescuvictor",
 		"roles": [
 			{
 				"googlePlusId": "https://plus.google.com/+VictorNegrescu/posts"
@@ -4773,6 +4912,7 @@
 		"email": "ulrike.rodust@europarl.europa.eu",
 		"webPage": "http://www.ulrike-rodust.eu",
 		"twitterUrl": "http://twitter.com/#!/UlrikeRodust",
+		"twitterProfile": "UlrikeRodust",
 		"roles": [
 			{
 				"Substitute": "Committee on Transport and Tourism"
@@ -4794,6 +4934,7 @@
 		"nationalPoliticalGroupLabel": "Parti socialiste",
 		"email": "jean-paul.denanot@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/jpdenanot",
+		"twitterProfile": "jpdenanot",
 		"roles": [
 			{
 				"Substitute": "Delegation for relations with Bosnia and Herzegovina, and Kosovo"
@@ -4815,6 +4956,7 @@
 		"nationalPoliticalGroupLabel": "Christen Democratisch Appèl",
 		"email": "jeroen.lenaers@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/jeroen_lenaers",
+		"twitterProfile": "jeroen_lenaers",
 		"roles": [
 			{
 				"Substitute": "Committee on Civil Liberties, Justice and Home Affairs"
@@ -4862,6 +5004,7 @@
 		"nationalPoliticalGroupLabel": "Křesťanská a demokratická unie - Československá strana lidová",
 		"email": "pavel.svoboda@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/1PavelSvoboda",
+		"twitterProfile": "1PavelSvoboda",
 		"roles": [
 			{
 				"Substitute": "Committee on Transport and Tourism"
@@ -4887,6 +5030,7 @@
 		"email": "nessa.childers@europarl.europa.eu",
 		"facebookPageUrl": "https://www.facebook.com/pages/Nessa-Childers/44689933935",
 		"twitterUrl": "http://twitter.com/#!/NChildersMEP",
+		"twitterProfile": "NChildersMEP",
 		"roles": [
 			{
 				"Substitute": "Committee on Women's Rights and Gender Equality"
@@ -4930,6 +5074,7 @@
 		"nationalPoliticalGroupLabel": "Ecologistes Confédérés pour l'Organisation de Luttes Originales",
 		"email": "philippe.lamberts@europarl.europa.eu",
 		"twitterUrl": "http://twitter.com/#!/Lambertsph",
+		"twitterProfile": "Lambertsph",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -4955,6 +5100,7 @@
 		"email": "eduard.kukan@europarl.europa.eu",
 		"facebookPageUrl": "https://www.facebook.com/pages/Eduard-Kukan/542468615844817?ref=hl",
 		"twitterUrl": "https://twitter.com/EduardKukan",
+		"twitterProfile": "EduardKukan",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -4979,6 +5125,7 @@
 		"nationalPoliticalGroupLabel": "SMER-Sociálna demokracia",
 		"email": "monika.smolkova@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/SmolkovaMonika",
+		"twitterProfile": "SmolkovaMonika",
 		"roles": [
 			{
 				"Substitute": "Delegation to the Euronest Parliamentary Assembly"
@@ -5072,6 +5219,7 @@
 		"webPage": "http://www.seankelly.finegael.ie/",
 		"facebookPageUrl": "https://www.facebook.com/pages/Sean-Kelly/129811495276",
 		"twitterUrl": "http://twitter.com/SeanKellyMEP",
+		"twitterProfile": "SeanKellyMEP",
 		"roles": [
 			{
 				"Substitute": "Delegation for relations with the countries of Southeast Asia and the Association of Southeast Asian Nations (ASEAN)"
@@ -5118,6 +5266,7 @@
 		"email": "marita.ulvskog@europarl.europa.eu",
 		"webPage": "http://www.sap.se/marita",
 		"twitterUrl": "http://twitter.com/maritaulvskog",
+		"twitterProfile": "maritaulvskog",
 		"roles": [
 			{
 				"Vice-Chair": "Committee on Employment and Social Affairs"
@@ -5143,6 +5292,7 @@
 		"email": "olle.ludvigsson@europarl.europa.eu",
 		"webPage": "http://www.sap.se/olle",
 		"twitterUrl": "http://twitter.com/olleludvigsson",
+		"twitterProfile": "olleludvigsson",
 		"roles": [
 			{
 				"Substitute": "Delegation to the EU-Former Yugoslav Republic of Macedonia Joint Parliamentary Committee"
@@ -5166,6 +5316,7 @@
 		"webPage": "http://www.moderat.se/annamaria",
 		"facebookPageUrl": "https://www.facebook.com/#!/pages/Anna-Maria-Corazza-Bildt/69490331421",
 		"twitterUrl": "http://twitter.com/ANNAMARIACB",
+		"twitterProfile": "ANNAMARIACB",
 		"roles": [
 			{
 				"Member": "Delegation to the EU-Ukraine Parliamentary Cooperation Committee"
@@ -5215,6 +5366,7 @@
 		"email": "zigmantas.balcytis@europarl.europa.eu",
 		"webPage": "http://www.balcytis.lt",
 		"twitterUrl": "http://twitter.com/balcytis",
+		"twitterProfile": "balcytis",
 		"roles": [
 			{
 				"Substitute": "Committee on Foreign Affairs"
@@ -5265,6 +5417,7 @@
 		"webPage": "http://www.liisajaakonsaari.fi/",
 		"facebookPageUrl": "https://www.facebook.com/pages/Liisa-Jaakonsaari-SDPn-presidenttiehdokkaaksi/209062879133908",
 		"twitterUrl": "http://twitter.com/Jaakonsaari",
+		"twitterProfile": "Jaakonsaari",
 		"roles": [
 			{
 				"Substitute": "Delegation for relations with the Pan-African Parliament"
@@ -5313,6 +5466,7 @@
 		"nationalPoliticalGroupLabel": "Tėvynės sąjunga-Lietuvos krikščionys demokratai",
 		"email": "algirdas.saudargas@europarl.europa.eu",
 		"twitterUrl": "http://twitter.com/Saudargas",
+		"twitterProfile": "Saudargas",
 		"roles": [
 			{
 				"Substitute": "Delegation to the EU-Ukraine Parliamentary Cooperation Committee"
@@ -5362,6 +5516,7 @@
 		"nationalPoliticalGroupLabel": "Darbo partija",
 		"email": "viktor.uspaskich@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/ViktorUspaskich",
+		"twitterProfile": "ViktorUspaskich",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -5384,6 +5539,7 @@
 		"email": "bendt.bendtsen@europarl.europa.eu",
 		"facebookPageUrl": "https://www.facebook.com/bendtbendtsen",
 		"twitterUrl": "https://twitter.com/BendtEU",
+		"twitterProfile": "BendtEU",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -5429,6 +5585,7 @@
 		"email": "jens.rohde@europarl.europa.eu",
 		"webPage": "http://www.jensrohde.eu",
 		"twitterUrl": "http://twitter.com/jensrohde",
+		"twitterProfile": "jensrohde",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -5472,6 +5629,7 @@
 		"email": "pavel.poc@europarl.europa.eu",
 		"facebookPageUrl": "https://www.facebook.com/pages/Pavel-Poc-Team/202974613060409",
 		"twitterUrl": "http://twitter.com/pavelpoc",
+		"twitterProfile": "pavelpoc",
 		"roles": [
 			{
 				"Member": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament"
@@ -5497,6 +5655,7 @@
 		"email": "olga.sehnalova@europarl.europa.eu",
 		"webPage": "http://www.sehnalova.cz",
 		"twitterUrl": "https://twitter.com/#!/OlgaSehnalova",
+		"twitterProfile": "OlgaSehnalova",
 		"roles": [
 			{
 				"Vice-Chair": "Delegation for relations with Israel"
@@ -5522,6 +5681,7 @@
 		"email": "bas.eickhout@europarl.europa.eu",
 		"webPage": "http://www.baseickhout.eu",
 		"twitterUrl": "http://twitter.com/baseickhout",
+		"twitterProfile": "baseickhout",
 		"roles": [
 			{
 				"Substitute": "Committee on Transport and Tourism"
@@ -5547,6 +5707,7 @@
 		"email": "barbara.lochbihler@europarl.europa.eu",
 		"webPage": "http://www.barbara-lochbihler.de",
 		"twitterUrl": "http://twitter.com/#!/blochbihler",
+		"twitterProfile": "blochbihler",
 		"roles": [
 			{
 				"Member": "Committee on Foreign Affairs"
@@ -5572,6 +5733,7 @@
 		"email": "santiago.fisasayxela@europarl.europa.eu",
 		"facebookPageUrl": "https://www.facebook.com/santi.fisas",
 		"twitterUrl": "https://twitter.com/SantiagoFisas",
+		"twitterProfile": "SantiagoFisas",
 		"roles": [
 			{
 				"youtubeURL": "http://www.youtube.com/user/santifisaseuropa/"
@@ -5597,6 +5759,7 @@
 		"email": "sven.giegold@europarl.europa.eu",
 		"webPage": "http://www.sven-giegold.de",
 		"twitterUrl": "http://twitter.com/sven_giegold",
+		"twitterProfile": "sven_giegold",
 		"roles": [
 			{
 				"Substitute": "Committee on Budgets"
@@ -5619,6 +5782,7 @@
 		"email": "franziska.keller@europarl.europa.eu",
 		"webPage": "http://www.skakeller.de",
 		"twitterUrl": "http://twitter.com/SkaKeller",
+		"twitterProfile": "SkaKeller",
 		"roles": [
 			{
 				"Substitute": "Delegation to the EU-Mexico Joint Parliamentary Committee"
@@ -5645,6 +5809,7 @@
 		"webPage": "http://patricklehyaric.net/",
 		"facebookPageUrl": "https://www.facebook.com/home.php#!/pages/Patrick-Le-Hyaric-directeur-de-lHumanit%C3%A9-et-D%C3%A9put%C3%A9-au-Parlement-europ%C3%A9en/123198211079025",
 		"twitterUrl": "http://twitter.com/PatrickLeHyaric",
+		"twitterProfile": "PatrickLeHyaric",
 		"roles": [
 			{
 				"Substitute": "Committee on International Trade"
@@ -5671,6 +5836,7 @@
 		"webPage": "http://www.janalbrecht.eu",
 		"facebookPageUrl": "http://www.facebook.com/#!/janphilippalbrecht",
 		"twitterUrl": "http://twitter.com/janalbrecht",
+		"twitterProfile": "janalbrecht",
 		"roles": [
 			{
 				"Substitute": "Committee on the Internal Market and Consumer Protection"
@@ -5696,6 +5862,7 @@
 		"email": "reinhard.buetikofer@europarl.europa.eu",
 		"webPage": "http://www.reinhardbuetikofer.eu",
 		"twitterUrl": "http://twitter.com/bueti",
+		"twitterProfile": "bueti",
 		"roles": [
 			{
 				"Vice-Chair": "Delegation for relations with the People's Republic of China"
@@ -5722,6 +5889,7 @@
 		"webPage": "http://yannickjadot.fr/",
 		"facebookPageUrl": "https://www.facebook.com/#!/pages/Yannick-Jadot/178284520599",
 		"twitterUrl": "http://twitter.com/yannickjadot",
+		"twitterProfile": "yannickjadot",
 		"roles": [
 			{
 				"Substitute": "Committee on Industry, Research and Energy"
@@ -5748,6 +5916,7 @@
 		"webPage": "http://www.jean-luc-melenchon.fr",
 		"facebookPageUrl": "https://www.facebook.com/#!/JLMelenchon",
 		"twitterUrl": "http://twitter.com/melenchon2012",
+		"twitterProfile": "melenchon2012",
 		"roles": [
 			{
 				"Substitute": "Delegation for relations with the countries of the Andean Community"
@@ -5771,6 +5940,7 @@
 		"webPage": "http://www.michele-rivasi.eu/",
 		"facebookPageUrl": "https://www.facebook.com/Michele.Rivasi",
 		"twitterUrl": "http://twitter.com/michelerivasi",
+		"twitterProfile": "michelerivasi",
 		"roles": [
 			{
 				"Substitute": "Committee on Industry, Research and Energy"
@@ -5796,6 +5966,7 @@
 		"email": "jose.bove@europarl.europa.eu",
 		"facebookPageUrl": "https://www.facebook.com/pages/Jos%C3%A9-Bov%C3%A9/117329398312147#!/pages/Jos%C3%A9-Bov%C3%A9/117329398312147?sk=wall",
 		"twitterUrl": "http://twitter.com/josebove",
+		"twitterProfile": "josebove",
 		"roles": [
 			{
 				"Substitute": "Committee on International Trade"
@@ -5819,6 +5990,7 @@
 		"webPage": "http://www.arnaud-danjean.fr/",
 		"facebookPageUrl": "https://www.facebook.com/pages/Arnaud-Danjean-page-officielle/136970386414559",
 		"twitterUrl": "https://twitter.com/#!/ArnaudDanjean/",
+		"twitterProfile": "ArnaudDanjean/",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -5843,6 +6015,7 @@
 		"nationalPoliticalGroupLabel": "Socialistische Partij",
 		"email": "dennis.dejong@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/DdJong",
+		"twitterProfile": "DdJong",
 		"roles": [
 			{
 				"Member": "Socialistische Partij"
@@ -5864,6 +6037,7 @@
 		"nationalPoliticalGroupLabel": "Bündnis 90/Die Grünen",
 		"email": "martin.haeusling@europarl.europa.eu",
 		"twitterUrl": "http://twitter.com/MartinHaeusling",
+		"twitterProfile": "MartinHaeusling",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -5886,6 +6060,7 @@
 		"email": "wim.vandecamp@europarl.europa.eu",
 		"webPage": "http://www.wimvandecamp.nl",
 		"twitterUrl": "http://twitter.com/wimvandecamp",
+		"twitterProfile": "wimvandecamp",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -5909,6 +6084,7 @@
 		"webPage": "http://www.sabine-verheyen.de/",
 		"facebookPageUrl": "http://www.facebook.com/mdep.ac",
 		"twitterUrl": "https://twitter.com/sabineverheyen",
+		"twitterProfile": "sabineverheyen",
 		"roles": [
 			{
 				"Vice-Chair": "Delegation for relations with South Africa"
@@ -5934,6 +6110,7 @@
 		"email": "axel.voss@europarl.europa.eu",
 		"webPage": "http://axel-voss-europa.de",
 		"twitterUrl": "http://twitter.com/#!/AxelVossMdEP",
+		"twitterProfile": "AxelVossMdEP",
 		"roles": [
 			{
 				"Vice-Chair": "Committee on Legal Affairs"
@@ -5958,6 +6135,7 @@
 		"nationalPoliticalGroupLabel": "Christlich Demokratische Union Deutschlands",
 		"email": "joachim.zeller@europarl.europa.eu",
 		"twitterUrl": "http://twitter.com/joachimzeller",
+		"twitterProfile": "joachimzeller",
 		"roles": [
 			{
 				"Substitute": "Committee on Development"
@@ -6047,6 +6225,7 @@
 		"email": "werner.kuhn@europarl.europa.eu",
 		"facebookPageUrl": "http://www.facebook.com/?ref=home#!/pages/Werner-Kuhn-Mitglied-des-Europ%C3%A4ischen-Parlaments/125192747538592",
 		"twitterUrl": "http://twitter.com/#!/WernerKuhnMdEP",
+		"twitterProfile": "WernerKuhnMdEP",
 		"roles": [
 			{
 				"Vice-Chair": "Committee on Fisheries"
@@ -6138,6 +6317,7 @@
 		"email": "jaroslaw.walesa@europarl.europa.eu",
 		"webPage": "http://jaroslawwalesa.pl",
 		"twitterUrl": "https://twitter.com/WalesaMEP",
+		"twitterProfile": "WalesaMEP",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -6163,6 +6343,7 @@
 		"email": "lara.comi@europarl.europa.eu",
 		"facebookPageUrl": "https://www.facebook.com/pages/Lara-Comi/155619044465389",
 		"twitterUrl": "http://twitter.com/comilara",
+		"twitterProfile": "comilara",
 		"roles": [
 			{
 				"Substitute": "Committee on Economic and Monetary Affairs"
@@ -6189,6 +6370,7 @@
 		"webPage": "http://www.rozathun.pl",
 		"facebookPageUrl": "http://www.facebook.com/rozathun",
 		"twitterUrl": "https://twitter.com/rozathun",
+		"twitterProfile": "rozathun",
 		"roles": [
 			{
 				"Substitute": "Delegation for relations with the Palestinian Legislative Council"
@@ -6259,6 +6441,7 @@
 		"webPage": "http://www.jazlowiecka.pl",
 		"facebookPageUrl": "https://www.facebook.com/djazlowiecka",
 		"twitterUrl": "http://twitter.com/DJazlowiecka",
+		"twitterProfile": "DJazlowiecka",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -6306,6 +6489,7 @@
 		"webPage": "http://www.herbert-dorfmann.eu",
 		"facebookPageUrl": "https://www.facebook.com/1560429730868291",
 		"twitterUrl": "https://twitter.com/HerbertDorfmann",
+		"twitterProfile": "HerbertDorfmann",
 		"roles": [
 			{
 				"Member": "Committee on Agriculture and Rural Development"
@@ -6423,6 +6607,7 @@
 		"webPage": "http://www.paulnuttallmep.com/",
 		"facebookPageUrl": "https://www.facebook.com/pages/Paul-Nuttall/77564125398",
 		"twitterUrl": "http://twitter.com/PaulNuttallMEP",
+		"twitterProfile": "PaulNuttallMEP",
 		"roles": [
 			{
 				"Member": "Europe of Freedom and Direct Democracy Group"
@@ -6469,6 +6654,7 @@
 		"email": "peter.vandalen@europarl.europa.eu",
 		"webPage": "http://www.petervandalen.eu",
 		"twitterUrl": "http://twitter.com/petervdalen",
+		"twitterProfile": "petervdalen",
 		"roles": [
 			{
 				"Substitute": "Delegation for relations with the countries of South Asia"
@@ -6516,6 +6702,7 @@
 		"nationalPoliticalGroupLabel": "Partido Socialista Obrero Español",
 		"email": "juanfernando.lopezaguilar@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/JFLopezAguilar",
+		"twitterProfile": "JFLopezAguilar",
 		"roles": [
 			{
 				"Substitute": "Delegation for relations with the countries of Southeast Asia and the Association of Southeast Asian Nations (ASEAN)"
@@ -6541,6 +6728,7 @@
 		"email": "barbara.matera@europarl.europa.eu",
 		"facebookPageUrl": "http://www.facebook.com/pages/BARBARA-MATERA/78020429052",
 		"twitterUrl": "https://twitter.com/materabarbara",
+		"twitterProfile": "materabarbara",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -6566,6 +6754,7 @@
 		"email": "judith.sargentini@europarl.europa.eu",
 		"webPage": "http://www.judithsargentini.nl",
 		"twitterUrl": "http://twitter.com/judithineuropa",
+		"twitterProfile": "judithineuropa",
 		"roles": [
 			{
 				"Substitute": "Committee on Development"
@@ -6589,6 +6778,7 @@
 		"webPage": "http://www.giovannilavia.eu",
 		"facebookPageUrl": "http://www.facebook.com/giovannilaviaeuroparl",
 		"twitterUrl": "http://twitter.com/#!/GiovanniLaVia",
+		"twitterProfile": "GiovanniLaVia",
 		"roles": [
 			{
 				"additionalSite1": "http://www.linkedin.com/profile/view?id=152591337&trk=tab_pro"
@@ -6629,6 +6819,7 @@
 		"email": "marisa.matias@europarl.europa.eu",
 		"facebookPageUrl": "https://www.facebook.com/pages/Marisa-Matias/142396325817735?v=wall",
 		"twitterUrl": "https://twitter.com/mmatias_",
+		"twitterProfile": "mmatias_",
 		"roles": [
 			{
 				"Vice-Chair": "Special Committee on Tax Rulings and Other Measures Similar in Nature or Effect"
@@ -6657,6 +6848,7 @@
 		"email": "monica.macovei@europarl.europa.eu",
 		"webPage": "http://www.monicamacovei.eu/",
 		"twitterUrl": "https://twitter.com/MonicaMacovei1",
+		"twitterProfile": "MonicaMacovei1",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -6682,6 +6874,7 @@
 		"email": "norica.nicolai@europarl.europa.eu",
 		"facebookPageUrl": "https://www.facebook.com/#!/norica.nicolai",
 		"twitterUrl": "https://twitter.com/Norica_Nicolai",
+		"twitterProfile": "Norica_Nicolai",
 		"roles": [
 			{
 				"Vice-Chair": "Group of the Alliance of Liberals and Democrats for Europe"
@@ -6706,6 +6899,7 @@
 		"nationalPoliticalGroupLabel": "Fidesz-Magyar Polgári Szövetség-Keresztény Demokrata Néppárt",
 		"email": "tamas.deutsch@europarl.europa.eu",
 		"twitterUrl": "http://twitter.com/dajcstomi",
+		"twitterProfile": "dajcstomi",
 		"roles": [
 			{
 				"Member": "Committee on Regional Development"
@@ -6728,6 +6922,7 @@
 		"email": "adam.kosa@europarl.europa.eu",
 		"webPage": "http://www.kosaadam.hu",
 		"twitterUrl": "http://twitter.com/#!/adamkosamep",
+		"twitterProfile": "adamkosamep",
 		"roles": [
 			{
 				"Substitute": "Delegation for relations with the countries of Southeast Asia and the Association of Southeast Asian Nations (ASEAN)"
@@ -6751,6 +6946,7 @@
 		"webPage": "http://www.jutta-steinruck.de",
 		"facebookPageUrl": "http://www.facebook.com/pages/Jutta-Steinruck/171724719552511",
 		"twitterUrl": "http://twitter.com/juttasteinruck",
+		"twitterProfile": "juttasteinruck",
 		"roles": [
 			{
 				"Member": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament"
@@ -6773,6 +6969,7 @@
 		"email": "jens.geier@europarl.europa.eu",
 		"webPage": "http://www.jensgeier.eu",
 		"twitterUrl": "http://twitter.com/#!/EuropaJens",
+		"twitterProfile": "EuropaJens",
 		"roles": [
 			{
 				"Member": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament"
@@ -6889,6 +7086,7 @@
 		"email": "kerstin.westphal@europarl.europa.eu",
 		"webPage": "http://www.kerstin-westphal.de",
 		"twitterUrl": "https://twitter.com/WestphalKerstin",
+		"twitterProfile": "WestphalKerstin",
 		"roles": [
 			{
 				"Member": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament"
@@ -6911,6 +7109,7 @@
 		"email": "knut.fleckenstein@europarl.europa.eu",
 		"facebookPageUrl": "https://www.facebook.com/pages/Knut-Fleckenstein/194900680538033",
 		"twitterUrl": "http://twitter.com/#!/knufleckenstein",
+		"twitterProfile": "knufleckenstein",
 		"roles": [
 			{
 				"Member": "Committee on Foreign Affairs"
@@ -6937,6 +7136,7 @@
 		"webPage": "http://www.ertug.eu",
 		"facebookPageUrl": "https://www.facebook.com/ertug.eu",
 		"twitterUrl": "twitter.com/IsmailErtug",
+		"twitterProfile": "IsmailErtug",
 		"roles": [
 			{
 				"Member": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament"
@@ -7000,6 +7200,7 @@
 		"webPage": "http://www.mariya-nedelcheva.eu",
 		"facebookPageUrl": "http://www.facebook.com/pages/Mariya-Nedelcheva/162032700492472",
 		"twitterUrl": "https://twitter.com/GabrielMariya",
+		"twitterProfile": "GabrielMariya",
 		"roles": [
 			{
 				"Substitute": "Delegation for relations with the Arab Peninsula"
@@ -7025,6 +7226,7 @@
 		"email": "alain.cadec@europarl.europa.eu",
 		"webPage": "http://www.alain-cadec.org",
 		"twitterUrl": "https://twitter.com/AlainCadec",
+		"twitterProfile": "AlainCadec",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -7049,6 +7251,7 @@
 		"nationalPoliticalGroupLabel": "DIE LINKE.",
 		"email": "thomas.haendel@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/thaendel",
+		"twitterProfile": "thaendel",
 		"roles": [
 			{
 				"Substitute": "Committee on the Internal Market and Consumer Protection"
@@ -7073,6 +7276,7 @@
 		"nationalPoliticalGroupLabel": "DIE LINKE.",
 		"email": "cornelia.ernst@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/ErnstCornelia",
+		"twitterProfile": "ErnstCornelia",
 		"roles": [
 			{
 				"Vice-Chair": "Delegation for relations with Iran"
@@ -7121,6 +7325,7 @@
 		"email": "catalin-sorin.ivan@europarl.europa.eu",
 		"webPage": "http://www.catalinivan.ro",
 		"twitterUrl": "http://twitter.com/Catalin_Ivan",
+		"twitterProfile": "Catalin_Ivan",
 		"roles": [
 			{
 				"Substitute": "Delegation to the EU-Ukraine Parliamentary Cooperation Committee"
@@ -7144,6 +7349,7 @@
 		"webPage": "http://www.eurocitoyenne.fr/",
 		"facebookPageUrl": "http://www.facebook.com/pages/Marie-Christine-Vergiat-D%C3%A9put%C3%A9e-europ%C3%A9enne-Front-de-gauche/197597963585193",
 		"twitterUrl": "http://twitter.com/#!/MCVergiat",
+		"twitterProfile": "MCVergiat",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -7167,6 +7373,7 @@
 		"webPage": "http://www.davidsassoli.it/",
 		"facebookPageUrl": "https://www.facebook.com/pages/David-Sassoli-pagina-ufficiale/89537383411",
 		"twitterUrl": "http://twitter.com/#!/DavidSassoli",
+		"twitterProfile": "DavidSassoli",
 		"roles": [
 			{
 				"Substitute": "Committee on Fisheries"
@@ -7193,6 +7400,7 @@
 		"webPage": "http://www.karimadelli.com/",
 		"facebookPageUrl": "http://www.facebook.com/profile.php?id=1325110408#!/pages/Karima-Delli/167413170756",
 		"twitterUrl": "http://twitter.com/#!/KarimaDelli",
+		"twitterProfile": "KarimaDelli",
 		"roles": [
 			{
 				"Substitute": "Committee on Employment and Social Affairs"
@@ -7215,6 +7423,7 @@
 		"email": "gesine.meissner@europarl.europa.eu",
 		"webPage": "http://www.gesine-meissner.de",
 		"twitterUrl": "http://twitter.com/#!/gesine_meissner",
+		"twitterProfile": "gesine_meissner",
 		"roles": [
 			{
 				"Substitute": "Committee on the Environment, Public Health and Food Safety"
@@ -7309,6 +7518,7 @@
 		"email": "andrea.cozzolino@europarl.europa.eu",
 		"facebookPageUrl": "https://www.facebook.com/paginaufficialecozzolino",
 		"twitterUrl": "http://twitter.com/#!/ACozzolino",
+		"twitterProfile": "ACozzolino",
 		"roles": [
 			{
 				"Member": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament"
@@ -7334,6 +7544,7 @@
 		"email": "elisabeth.koestinger@europarl.europa.eu",
 		"webPage": "http://www.elisabeth-koestinger.at",
 		"twitterUrl": "http://twitter.com/#!/ElliKoestinger",
+		"twitterProfile": "ElliKoestinger",
 		"roles": [
 			{
 				"Substitute": "Committee on the Environment, Public Health and Food Safety"
@@ -7359,6 +7570,7 @@
 		"email": "eva.joly@europarl.europa.eu",
 		"facebookPageUrl": "http://www.facebook.com/EvaJoly.fr?sk=wall",
 		"twitterUrl": "http://twitter.com/#!/evajoly",
+		"twitterProfile": "evajoly",
 		"roles": [
 			{
 				"Vice-Chair": "Delegation for relations with Afghanistan"
@@ -7385,6 +7597,7 @@
 		"webPage": "http://www.philippejuvin.fr/",
 		"facebookPageUrl": "http://www.facebook.com/philippe.juvin#!/pages/Philippe-Juvin/10494001458",
 		"twitterUrl": "http://twitter.com/#!/philippejuvin",
+		"twitterProfile": "philippejuvin",
 		"roles": [
 			{
 				"Substitute": "Delegation for relations with Iran"
@@ -7432,6 +7645,7 @@
 		"webPage": "http://www.paolodecastro.it",
 		"facebookPageUrl": "https://www.facebook.com/pages/Paolo-De-Castro/17267586854",
 		"twitterUrl": "http://twitter.com/#!/paolodecastro",
+		"twitterProfile": "paolodecastro",
 		"roles": [
 			{
 				"Substitute": "Committee on the Environment, Public Health and Food Safety"
@@ -7453,6 +7667,7 @@
 		"nationalPoliticalGroupLabel": "Partito Democratico",
 		"email": "roberto.gualtieri@europarl.europa.eu",
 		"twitterUrl": "http://twitter.com/#!/gualtierieurope",
+		"twitterProfile": "gualtierieurope",
 		"roles": [
 			{
 				"Member": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament"
@@ -7517,6 +7732,7 @@
 		"email": "krisjanis.karins@europarl.europa.eu",
 		"webPage": "http://www.karins.lv",
 		"twitterUrl": "http://twitter.com/#!/krisjaniskarins",
+		"twitterProfile": "krisjaniskarins",
 		"roles": [
 			{
 				"Substitute": "Delegation to the EU-Armenia, EU-Azerbaijan and EU-Georgia Parliamentary Cooperation Committees"
@@ -7539,6 +7755,7 @@
 		"email": "paulo.rangel@europarl.europa.eu",
 		"facebookPageUrl": "http://www.facebook.com/pages/Paulo-Rangel/80671299889",
 		"twitterUrl": "http://twitter.com/#!/libertarofuturo",
+		"twitterProfile": "libertarofuturo",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -7566,6 +7783,7 @@
 		"nationalPoliticalGroupLabel": "Progressive Party of Working People - Left - New Forces",
 		"email": "takis.hadjigeorgiou@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/thadjigeorgiou",
+		"twitterProfile": "thadjigeorgiou",
 		"roles": [
 			{
 				"Member": "Confederal Group of the European United Left - Nordic Green Left"
@@ -7592,6 +7810,7 @@
 		"webPage": "http://www.tanja-fajon.eu",
 		"facebookPageUrl": "https://www.facebook.com/tanja.fajon",
 		"twitterUrl": "http://twitter.com/#!/tfajon",
+		"twitterProfile": "tfajon",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -7616,6 +7835,7 @@
 		"nationalPoliticalGroupLabel": "Conservative Party",
 		"email": "david.campbellbannerman@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/DCBMEP",
+		"twitterProfile": "DCBMEP",
 		"roles": [
 			{
 				"Substitute": "Subcommittee on Security and Defence"
@@ -7642,6 +7862,7 @@
 		"webPage": "http://www.sergiocofferati.eu/",
 		"facebookPageUrl": "https://www.facebook.com/pages/Sergio-Cofferati/32566465498",
 		"twitterUrl": "http://twitter.com/Cofferati",
+		"twitterProfile": "Cofferati",
 		"roles": [
 			{
 				"Member": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament"
@@ -7667,6 +7888,7 @@
 		"email": "silvia.costa@europarl.europa.eu",
 		"webPage": "http://www.silviacosta.it",
 		"twitterUrl": "https://twitter.com/SilviaCostaEU",
+		"twitterProfile": "SilviaCostaEU",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -7691,6 +7913,7 @@
 		"nationalPoliticalGroupLabel": "Labour Party",
 		"email": "derek.vaughan@europarl.europa.eu",
 		"twitterUrl": "http://twitter.com/#!/derekvaughan",
+		"twitterProfile": "derekvaughan",
 		"roles": [
 			{
 				"Member": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament"
@@ -7716,6 +7939,7 @@
 		"email": "emma.mcclarkin@europarl.europa.eu",
 		"webPage": "http://www.emmamcclarkin.com/",
 		"twitterUrl": "http://twitter.com/#!/EmmaMcClarkin",
+		"twitterProfile": "EmmaMcClarkin",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -7740,6 +7964,7 @@
 		"nationalPoliticalGroupLabel": "Conservative Party",
 		"email": "kay.swinburne@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/KaySwinburneMEP",
+		"twitterProfile": "KaySwinburneMEP",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -7833,6 +8058,7 @@
 		"webPage": "http://www.milanzver.eu",
 		"facebookPageUrl": "https://www.facebook.com/milan.zver",
 		"twitterUrl": "https://twitter.com/MilanZver",
+		"twitterProfile": "MilanZver",
 		"roles": [
 			{
 				"Substitute": "Committee on Regional Development"
@@ -7855,6 +8081,7 @@
 		"email": "sandra.kalniete@europarl.europa.eu",
 		"facebookPageUrl": "https://www.facebook.com/kalniete.sandra",
 		"twitterUrl": "http://twitter.com/#!/Kalniete",
+		"twitterProfile": "Kalniete",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -7904,6 +8131,7 @@
 		"email": "hans.vanbaalen@europarl.europa.eu",
 		"webPage": "http://www.hansvanbaalen.eu",
 		"twitterUrl": "http://twitter.com/#!/hans_van_baalen",
+		"twitterProfile": "hans_van_baalen",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -7929,6 +8157,7 @@
 		"email": "gerben-jan.gerbrandy@europarl.europa.eu",
 		"webPage": "http://www.gerbenjangerbrandy.nl",
 		"twitterUrl": "http://twitter.com/#!/Gerbrandy",
+		"twitterProfile": "Gerbrandy",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -7951,6 +8180,7 @@
 		"email": "marietje.schaake@europarl.europa.eu",
 		"webPage": "http://www.marietjeschaake.com",
 		"twitterUrl": "http://twitter.com/#!/MarietjeD66",
+		"twitterProfile": "MarietjeD66",
 		"roles": [
 			{
 				"Substitute": "Committee on Foreign Affairs"
@@ -7975,6 +8205,7 @@
 		"nationalPoliticalGroupLabel": "Parti socialiste",
 		"email": "gilles.pargneaux@europarl.europa.eu",
 		"twitterUrl": "http://twitter.com/#!/gillespargneaux",
+		"twitterProfile": "gillespargneaux",
 		"roles": [
 			{
 				"Vice-Chair": "Committee on the Environment, Public Health and Food Safety"
@@ -8044,6 +8275,7 @@
 		"webPage": "http://www.sylvieguillaume.eu",
 		"facebookPageUrl": "https://www.facebook.com/sylvieguillaume.deputeeeuropeenne",
 		"twitterUrl": "http://twitter.com/#!/sylvieguillaume",
+		"twitterProfile": "sylvieguillaume",
 		"roles": [
 			{
 				"Substitute": "Committee on Culture and Education"
@@ -8069,6 +8301,7 @@
 		"email": "catherine.bearder@europarl.europa.eu",
 		"webPage": "http://www.bearder.eu",
 		"twitterUrl": "https://twitter.com/catherinemep",
+		"twitterProfile": "catherinemep",
 		"roles": [
 			{
 				"Member": "Parliament's Bureau"
@@ -8094,6 +8327,7 @@
 		"email": "julie.girling@europarl.europa.eu",
 		"webPage": "http://www.juliegirling.com/",
 		"twitterUrl": "http://twitter.com/#!/juliegirling",
+		"twitterProfile": "juliegirling",
 		"roles": [
 			{
 				"Substitute": "Committee on Agriculture and Rural Development"
@@ -8115,6 +8349,7 @@
 		"nationalPoliticalGroupLabel": "Conservative Party",
 		"email": "ashley.fox@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/Ashleyfoxmep",
+		"twitterProfile": "Ashleyfoxmep",
 		"roles": [
 			{
 				"Member": "Delegation for relations with the Federative Republic of Brazil"
@@ -8242,6 +8477,7 @@
 		"email": "burkhard.balz@europarl.europa.eu",
 		"webPage": "http://www.burkhard-balz.eu",
 		"twitterUrl": "http://twitter.com/#!/buba0769",
+		"twitterProfile": "buba0769",
 		"roles": [
 			{
 				"Substitute": "Delegation for relations with Japan"
@@ -8264,6 +8500,7 @@
 		"email": "evelyn.regner@europarl.europa.eu",
 		"webPage": "http://www.evelyn-regner.at",
 		"twitterUrl": "http://twitter.com/#!/Evelyn_Regner",
+		"twitterProfile": "Evelyn_Regner",
 		"roles": [
 			{
 				"Member": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament"
@@ -8286,6 +8523,7 @@
 		"email": "karin.kadenbach@europarl.europa.eu",
 		"webPage": "http://www.karinkadenbach.at/",
 		"twitterUrl": "http://twitter.com/#!/karinkadenbach",
+		"twitterProfile": "karinkadenbach",
 		"roles": [
 			{
 				"Vice-Chair": "Delegation for relations with Japan"
@@ -8311,6 +8549,7 @@
 		"email": "ulrike.lunacek@europarl.europa.eu",
 		"facebookPageUrl": "http://www.facebook.com/ulrike.lunacek",
 		"twitterUrl": "http://twitter.com/#!/UlrikeLunacek",
+		"twitterProfile": "UlrikeLunacek",
 		"roles": [
 			{
 				"Vice-Chair": "Delegation for relations with Bosnia and Herzegovina, and Kosovo"
@@ -8338,6 +8577,7 @@
 		"nationalPoliticalGroupLabel": "DeSUS - Demokratična Stranka Upokojencev Slovenije",
 		"email": "ivo.vajgl@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/ivajgl",
+		"twitterProfile": "ivajgl",
 		"roles": [
 			{
 				"Member": "Committee on Foreign Affairs"
@@ -8360,6 +8600,7 @@
 		"email": "robert.rochefort@europarl.europa.eu",
 		"facebookPageUrl": "http://www.facebook.com/pages/Robert-Rochefort/69960908292",
 		"twitterUrl": "http://twitter.com/#!/robertrochefort",
+		"twitterProfile": "robertrochefort",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -8385,6 +8626,7 @@
 		"email": "guy.verhofstadt@europarl.europa.eu",
 		"facebookPageUrl": "http://www.facebook.com/fanpageguyverhofstadt",
 		"twitterUrl": "http://twitter.com/#!/GuyVerhofstadt",
+		"twitterProfile": "GuyVerhofstadt",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -8431,6 +8673,7 @@
 		"webPage": "http://www.tarand.ee",
 		"facebookPageUrl": "http://www.facebook.com/indrek.tarand.MEP",
 		"twitterUrl": "http://twitter.com/#!/indrektarand",
+		"twitterProfile": "indrektarand",
 		"roles": [
 			{
 				"Member": "Group of the Greens/European Free Alliance"
@@ -8453,6 +8696,7 @@
 		"email": "sylvie.goulard@europarl.europa.eu",
 		"webPage": "http://www.sylvie-goulard.eu",
 		"twitterUrl": "https://twitter.com/GoulardSylvie",
+		"twitterProfile": "GoulardSylvie",
 		"roles": [
 			{
 				"Substitute": "Delegation for relations with South Africa"
@@ -8498,6 +8742,7 @@
 		"webPage": "http://www.tremosa.cat",
 		"facebookPageUrl": "https://www.facebook.com/pages/Ramon-Tremosa/51229436530",
 		"twitterUrl": "https://twitter.com/ramontremosa",
+		"twitterProfile": "ramontremosa",
 		"roles": [
 			{
 				"Substitute": "Delegation for relations with Israel"
@@ -8540,6 +8785,7 @@
 		"nationalPoliticalGroupLabel": "Les Républicains",
 		"email": "michel.dantin@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/MichelDANTIN",
+		"twitterProfile": "MichelDANTIN",
 		"roles": [
 			{
 				"Substitute": "Committee on the Environment, Public Health and Food Safety"
@@ -8583,6 +8829,7 @@
 		"webPage": "http://www.andrey-kovatchev.eu",
 		"facebookPageUrl": "http://www.facebook.com/pages/Andrey-Kovatchev/133004451640",
 		"twitterUrl": "https://twitter.com/andreykovatchev",
+		"twitterProfile": "andreykovatchev",
 		"roles": [
 			{
 				"Member": "Quaestors"
@@ -8646,6 +8893,7 @@
 		"webPage": "http://www.constance-legrip.eu",
 		"facebookPageUrl": "http://www.facebook.com/ContanceLeGrip",
 		"twitterUrl": "http://twitter.com/#!/clegrip",
+		"twitterProfile": "clegrip",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -8711,6 +8959,7 @@
 		"email": "keith.taylor@europarl.europa.eu",
 		"webPage": "http://www.keithtaylormep.org.GB/",
 		"twitterUrl": "https://twitter.com/GreenKeithMEP",
+		"twitterProfile": "GreenKeithMEP",
 		"roles": [
 			{
 				"Member": "Committee on Transport and Tourism"
@@ -8732,6 +8981,7 @@
 		"nationalPoliticalGroupLabel": "Bündnis 90/Die Grünen",
 		"email": "terry.reintke@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/TerryReintke",
+		"twitterProfile": "TerryReintke",
 		"roles": [
 			{
 				"Substitute": "Delegation for relations with Bosnia and Herzegovina, and Kosovo"
@@ -8754,6 +9004,7 @@
 		"email": "sergio.gutierrezprieto@europarl.europa.eu",
 		"webPage": "http://www.sergiogutierrez.es",
 		"twitterUrl": "https://twitter.com/Sergio_GP",
+		"twitterProfile": "Sergio_GP",
 		"roles": [
 			{
 				"Substitute": "Committee on Employment and Social Affairs"
@@ -8775,6 +9026,7 @@
 		"nationalPoliticalGroupLabel": "Parti radical de gauche",
 		"email": "virginie.roziere@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/VRoziere",
+		"twitterProfile": "VRoziere",
 		"roles": [
 			{
 				"Substitute": "Delegation for relations with the Korean Peninsula"
@@ -8837,6 +9089,7 @@
 		"nationalPoliticalGroupLabel": "Citizens for European Development of Bulgaria",
 		"email": "andrey.novakov@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/andreynovakov",
+		"twitterProfile": "andreynovakov",
 		"roles": [
 			{
 				"Substitute": "Committee on Budgets"
@@ -8859,6 +9112,7 @@
 		"email": "franck.proust@europarl.europa.eu",
 		"webPage": "http://www.franckproust.com/",
 		"twitterUrl": "https://twitter.com/franck_proust",
+		"twitterProfile": "franck_proust",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -8880,6 +9134,7 @@
 		"nationalPoliticalGroupLabel": "Open Vlaamse Liberalen en Democraten",
 		"email": "philippe.debacker@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/debackerphil",
+		"twitterProfile": "debackerphil",
 		"roles": [
 			{
 				"Substitute": "Committee on Economic and Monetary Affairs"
@@ -8921,6 +9176,7 @@
 		"nationalPoliticalGroupLabel": "Conservative Party",
 		"email": "anthea.mcintyre@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/anthea_mcintyre",
+		"twitterProfile": "anthea_mcintyre",
 		"roles": [
 			{
 				"Member": "Committee on Employment and Social Affairs"
@@ -8944,6 +9200,7 @@
 		"webPage": "http://www.weidenholzer.eu",
 		"facebookPageUrl": "http://www.facebook.com/mepjoe",
 		"twitterUrl": "http://twitter.com/Weidenholzer",
+		"twitterProfile": "Weidenholzer",
 		"roles": [
 			{
 				"youtubeURL": "http://www.youtube.com/user/weidenholzer"
@@ -8968,6 +9225,7 @@
 		"nationalPoliticalGroupLabel": "Arbetarepartiet- Socialdemokraterna",
 		"email": "jens.nilsson@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/jensni",
+		"twitterProfile": "jensni",
 		"roles": [
 			{
 				"Substitute": "Delegation for relations with Bosnia and Herzegovina, and Kosovo"
@@ -9038,6 +9296,7 @@
 		"email": "petri.sarvamaa@europarl.europa.eu",
 		"webPage": "http://www.youtube.com/user/petrisarvamaa",
 		"twitterUrl": "http://twitter.com/#!/petrisarvamaa",
+		"twitterProfile": "petrisarvamaa",
 		"roles": [
 			{
 				"youtubeURL": "http://www.youtube.com/user/petrisarvamaa"
@@ -9065,6 +9324,7 @@
 		"nationalPoliticalGroupLabel": "Socijaldemokratska partija Hrvatske",
 		"email": "tonino.picula@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/TPicula",
+		"twitterProfile": "TPicula",
 		"roles": [
 			{
 				"Member": "Committee on Foreign Affairs"
@@ -9090,6 +9350,7 @@
 		"email": "biljana.borzan@europarl.europa.eu",
 		"facebookPageUrl": "https://www.facebook.com/pages/Biljana-Borzan/478557245556978?ref=hl#!/pages/Biljana-Borzan/478557245556978",
 		"twitterUrl": "https://twitter.com/BiljanaBorzan",
+		"twitterProfile": "BiljanaBorzan",
 		"roles": [
 			{
 				"Substitute": "Committee on Women's Rights and Gender Equality"
@@ -9132,6 +9393,7 @@
 		"email": "andrej.plenkovic@europarl.europa.eu",
 		"facebookPageUrl": "https://www.facebook.com/andrej.plenkovic.rh",
 		"twitterUrl": "https://twitter.com/AndrejPlenkovic",
+		"twitterProfile": "AndrejPlenkovic",
 		"roles": [
 			{
 				"Substitute": "Delegation for relations with the Maghreb countries and the Arab Maghreb Union"
@@ -9179,6 +9441,7 @@
 		"nationalPoliticalGroupLabel": "Parti socialiste",
 		"email": "eric.andrieu@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/ANDRIEU11",
+		"twitterProfile": "ANDRIEU11",
 		"roles": [
 			{
 				"Substitute": "Delegation for relations with South Africa"
@@ -9203,6 +9466,7 @@
 		"nationalPoliticalGroupLabel": "Sinn Fein",
 		"email": "martina.anderson@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/MEPStandingUp4U",
+		"twitterProfile": "MEPStandingUp4U",
 		"roles": [
 			{
 				"Member": "Confederal Group of the European United Left - Nordic Green Left"
@@ -9270,6 +9534,7 @@
 		"nationalPoliticalGroupLabel": "Nieuw-Vlaamse Alliantie",
 		"email": "mark.demesmaeker@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/markdemesmaeker",
+		"twitterProfile": "markdemesmaeker",
 		"roles": [
 			{
 				"Member": "Committee on Foreign Affairs"
@@ -9314,6 +9579,7 @@
 		"nationalPoliticalGroupLabel": "Fine Gael Party",
 		"email": "brian.hayes@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/brianhayesMEP",
+		"twitterProfile": "brianhayesMEP",
 		"roles": [
 			{
 				"Vice-Chair": "Delegation for relations with Iraq"
@@ -9339,6 +9605,7 @@
 		"email": "marlene.mizzi@europarl.europa.eu",
 		"facebookPageUrl": "http://www.facebook.com/mizzimarlene",
 		"twitterUrl": "https://twitter.com/MarleneMizzi",
+		"twitterProfile": "MarleneMizzi",
 		"roles": [
 			{
 				"Substitute": "Committee on Culture and Education"
@@ -9364,6 +9631,7 @@
 		"email": "roberta.metsola@europarl.europa.eu",
 		"facebookPageUrl": "https://www.facebook.com/roberta.metsola",
 		"twitterUrl": "https://twitter.com/robertametsola",
+		"twitterProfile": "robertametsola",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -9436,6 +9704,7 @@
 		"email": "davor.stier@europarl.europa.eu",
 		"facebookPageUrl": "https://www.facebook.com/davorstier",
 		"twitterUrl": "https://twitter.com/davorstier",
+		"twitterProfile": "davorstier",
 		"roles": [
 			{
 				"Substitute": "Committee on International Trade"
@@ -9501,6 +9770,7 @@
 		"nationalPoliticalGroupLabel": "Folkebevægelsen mod EU",
 		"email": "rinaronja.kari@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/rinakari",
+		"twitterProfile": "rinakari",
 		"roles": [
 			{
 				"Substitute": "Committee on Economic and Monetary Affairs"
@@ -9542,6 +9812,7 @@
 		"nationalPoliticalGroupLabel": "Progressive Party of Working People - Left - New Forces",
 		"email": "neoklis.sylikiotis@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/sylikiotis",
+		"twitterProfile": "sylikiotis",
 		"roles": [
 			{
 				"Substitute": "Committee on Employment and Social Affairs"
@@ -9566,6 +9837,7 @@
 		"nationalPoliticalGroupLabel": "Democratic Party",
 		"email": "costas.mavrides@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/cmavrides",
+		"twitterProfile": "cmavrides",
 		"roles": [
 			{
 				"Member": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament"
@@ -9608,6 +9880,7 @@
 		"email": "pascal.durand@europarl.europa.eu",
 		"facebookPageUrl": "https://www.facebook.com/Pascal.Durand.EELV",
 		"twitterUrl": "https://twitter.com/DurandEELV",
+		"twitterProfile": "DurandEELV",
 		"roles": [
 			{
 				"Member": "Delegation for relations with the Federative Republic of Brazil"
@@ -9650,6 +9923,7 @@
 		"nationalPoliticalGroupLabel": "Eesti Reformierakond",
 		"email": "kaja.kallas@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/kajakallas",
+		"twitterProfile": "kajakallas",
 		"roles": [
 			{
 				"Vice-Chair": "Delegation to the EU-Ukraine Parliamentary Cooperation Committee"
@@ -9697,6 +9971,7 @@
 		"nationalPoliticalGroupLabel": "Česká strana sociálně demokratická",
 		"email": "miroslav.poche@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/MiroslavPoche",
+		"twitterProfile": "MiroslavPoche",
 		"roles": [
 			{
 				"Substitute": "Delegation to the EU-Ukraine Parliamentary Cooperation Committee"
@@ -9718,6 +9993,7 @@
 		"nationalPoliticalGroupLabel": "Eesti Keskerakond",
 		"email": "yana.toom@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/YanaToom",
+		"twitterProfile": "YanaToom",
 		"roles": [
 			{
 				"Member": "Committee on Employment and Social Affairs"
@@ -9851,6 +10127,7 @@
 		"nationalPoliticalGroupLabel": "ANO 2011",
 		"email": "pavel.telicka@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/Telicka",
+		"twitterProfile": "Telicka",
 		"roles": [
 			{
 				"Substitute": "Delegation for relations with Belarus"
@@ -9875,6 +10152,7 @@
 		"nationalPoliticalGroupLabel": "ANO 2011",
 		"email": "petr.jezek@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/JezekCZ",
+		"twitterProfile": "JezekCZ",
 		"roles": [
 			{
 				"Member": "Group of the Alliance of Liberals and Democrats for Europe"
@@ -9899,6 +10177,7 @@
 		"nationalPoliticalGroupLabel": "ANO 2011",
 		"email": "dita.charanzova@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/charanzova",
+		"twitterProfile": "charanzova",
 		"roles": [
 			{
 				"Member": "Group of the Alliance of Liberals and Democrats for Europe"
@@ -9920,6 +10199,7 @@
 		"nationalPoliticalGroupLabel": "ANO 2011",
 		"email": "martina.dlabajova@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/Mdlabajova",
+		"twitterProfile": "Mdlabajova",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -10092,6 +10372,7 @@
 		"email": "benedek.javor@europarl.europa.eu",
 		"facebookPageUrl": "https://www.facebook.com/javorbenedek",
 		"twitterUrl": "https://twitter.com/javorbenedek",
+		"twitterProfile": "javorbenedek",
 		"roles": [
 			{
 				"Substitute": "Delegation to the EU-Ukraine Parliamentary Cooperation Committee"
@@ -10138,6 +10419,7 @@
 		"email": "peter.niedermueller@europarl.europa.eu",
 		"facebookPageUrl": "https://www.facebook.com/pages/Niederm%C3%BCller-P%C3%A9ter/1381558792064873",
 		"twitterUrl": "https://twitter.com/NiedermullerMEP",
+		"twitterProfile": "NiedermullerMEP",
 		"roles": [
 			{
 				"Substitute": "Delegation to the EU-Albania Stabilisation and Association Parliamentary Committee"
@@ -10162,6 +10444,7 @@
 		"nationalPoliticalGroupLabel": "Parti socialiste",
 		"email": "louis-joseph.manscour@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/LJManscour",
+		"twitterProfile": "LJManscour",
 		"roles": [
 			{
 				"Substitute": "Committee on Budgetary Control"
@@ -10187,6 +10470,7 @@
 		"email": "henna.virkkunen@europarl.europa.eu",
 		"facebookPageUrl": "https://www.facebook.com/#!/virkkunenhenna",
 		"twitterUrl": "https://twitter.com/HennaVirkkunen",
+		"twitterProfile": "HennaVirkkunen",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -10208,6 +10492,7 @@
 		"nationalPoliticalGroupLabel": "Perussuomalaiset",
 		"email": "jussi.halla-aho@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/Halla_aho",
+		"twitterProfile": "Halla_aho",
 		"roles": [
 			{
 				"Substitute": "Committee on the Internal Market and Consumer Protection"
@@ -10249,6 +10534,7 @@
 		"nationalPoliticalGroupLabel": "Les Républicains",
 		"email": "renaud.muselier@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/RenaudMuselier",
+		"twitterProfile": "RenaudMuselier",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -10297,6 +10583,7 @@
 		"nationalPoliticalGroupLabel": "-",
 		"email": "jerome.lavrilleux@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/jlavrilleux",
+		"twitterProfile": "jlavrilleux",
 		"roles": [
 			{
 				"Substitute": "Committee on Petitions"
@@ -10318,6 +10605,7 @@
 		"nationalPoliticalGroupLabel": "Les Républicains",
 		"email": "angelique.delahaye@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/Delahaye_Europe",
+		"twitterProfile": "Delahaye_Europe",
 		"roles": [
 			{
 				"Substitute": "Committee on Agriculture and Rural Development"
@@ -10380,6 +10668,7 @@
 		"nationalPoliticalGroupLabel": "Suomen Sosialidemokraattinen Puolue/Finlands Socialdemokratiska Parti",
 		"email": "miapetra.kumpula-natri@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/miapetrakumpula",
+		"twitterProfile": "miapetrakumpula",
 		"roles": [
 			{
 				"Member": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament"
@@ -10402,6 +10691,7 @@
 		"email": "merja.kyllonen@europarl.europa.eu",
 		"facebookPageUrl": "https://www.facebook.com/kyllonen.merja?fref=ts",
 		"twitterUrl": "https://twitter.com/KyllonenMerja",
+		"twitterProfile": "KyllonenMerja",
 		"roles": [
 			{
 				"Substitute": "Committee on the Environment, Public Health and Food Safety"
@@ -10423,6 +10713,7 @@
 		"nationalPoliticalGroupLabel": "Partido Socialista",
 		"email": "mariajoao.rodrigues@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/mjr_eu",
+		"twitterProfile": "mjr_eu",
 		"roles": [
 			{
 				"Substitute": "Delegation for relations with India"
@@ -10447,6 +10738,7 @@
 		"nationalPoliticalGroupLabel": "Front national/ Rassemblement Bleu Marine",
 		"email": "gilles.lebreton@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/Gilles_Lebreton",
+		"twitterProfile": "Gilles_Lebreton",
 		"roles": [
 			{
 				"Substitute": "Delegation to the Parliamentary Assembly of the Union for the Mediterranean"
@@ -10557,6 +10849,7 @@
 		"nationalPoliticalGroupLabel": "Partija \"VIENOTĪBA\"",
 		"email": "artis.pabriks@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/Pabriks",
+		"twitterProfile": "Pabriks",
 		"roles": [
 			{
 				"Substitute": "Delegation for relations with Japan"
@@ -10578,6 +10871,7 @@
 		"nationalPoliticalGroupLabel": "Parti socialiste",
 		"email": "guillaume.balas@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/BalasGuillaume",
+		"twitterProfile": "BalasGuillaume",
 		"roles": [
 			{
 				"Member": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament"
@@ -10789,6 +11083,7 @@
 		"nationalPoliticalGroupLabel": "Istarski demokratski sabor - Dieta democratica istriana",
 		"email": "ivan.jakovcic@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/IvanJakovcic",
+		"twitterProfile": "IvanJakovcic",
 		"roles": [
 			{
 				"Vice-Chair": "Delegation to the EU-Albania Stabilisation and Association Parliamentary Committee"
@@ -10813,6 +11108,7 @@
 		"nationalPoliticalGroupLabel": "Rassemblement bleu Marine",
 		"email": "jean-luc.schaffhauser@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/JLSchaffhauser",
+		"twitterProfile": "JLSchaffhauser",
 		"roles": [
 			{
 				"Substitute": "Committee on Foreign Affairs"
@@ -10875,6 +11171,7 @@
 		"email": "mylene.troszczynski@europarl.europa.eu",
 		"facebookPageUrl": "https://www.facebook.com/mylenetroszczynskiofficiel",
 		"twitterUrl": "https://twitter.com/MyleneTroszczyn",
+		"twitterProfile": "MyleneTroszczyn",
 		"roles": [
 			{
 				"Substitute": "Committee on Development"
@@ -10896,6 +11193,7 @@
 		"nationalPoliticalGroupLabel": "Tėvynės sąjunga-Lietuvos krikščionys demokratai",
 		"email": "gabrielius.landsbergis@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/GLandsbergis",
+		"twitterProfile": "GLandsbergis",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -10941,6 +11239,7 @@
 		"email": "bernard.monot@europarl.europa.eu",
 		"facebookPageUrl": "https://www.facebook.com/monot.bernard",
 		"twitterUrl": "https://twitter.com/bernard_monot",
+		"twitterProfile": "bernard_monot",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -10962,6 +11261,7 @@
 		"nationalPoliticalGroupLabel": "Lietuvos Respublikos liberalų sąjūdis",
 		"email": "antanas.guoga@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/TonyGuoga",
+		"twitterProfile": "TonyGuoga",
 		"roles": [
 			{
 				"Substitute": "Delegation for relations with Switzerland and Norway and to the EU-Iceland Joint Parliamentary Committee and the European Economic Area (EEA) Joint Parliamentary Committee"
@@ -10986,6 +11286,7 @@
 		"nationalPoliticalGroupLabel": "Forza Italia",
 		"email": "giovanni.toti@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/GiovanniToti",
+		"twitterProfile": "GiovanniToti",
 		"roles": [
 			{
 				"Substitute": "Committee on Legal Affairs"
@@ -11027,6 +11328,7 @@
 		"nationalPoliticalGroupLabel": "Lietuvos Respublikos liberalų sąjūdis",
 		"email": "petras.austrevicius@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/petras_petras",
+		"twitterProfile": "petras_petras",
 		"roles": [
 			{
 				"Member": "Committee on Foreign Affairs"
@@ -11056,6 +11358,7 @@
 		"webPage": "http://france-ruralite.fr/",
 		"facebookPageUrl": "https://www.facebook.com/eferrandFN?ref=ts&fref=ts",
 		"twitterUrl": "http://twitter.com/e_ferrand",
+		"twitterProfile": "e_ferrand",
 		"roles": [
 			{
 				"youtubeURL": "https://www.youtube.com/user/FranceRuralite"
@@ -11166,6 +11469,7 @@
 		"nationalPoliticalGroupLabel": "Forza Italia",
 		"email": "alberto.cirio@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/Alberto_Cirio",
+		"twitterProfile": "Alberto_Cirio",
 		"roles": [
 			{
 				"Substitute": "Committee on Agriculture and Rural Development"
@@ -11187,6 +11491,7 @@
 		"nationalPoliticalGroupLabel": "Union des Démocrates et Indépendants",
 		"email": "jean.arthuis@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/JeanArthuis",
+		"twitterProfile": "JeanArthuis",
 		"roles": [
 			{
 				"Substitute": "Committee on Agriculture and Rural Development"
@@ -11211,6 +11516,7 @@
 		"nationalPoliticalGroupLabel": "Parti ouvrier socialiste luxembourgeois",
 		"email": "mady.delvaux-stehres@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/mady_delvaux",
+		"twitterProfile": "mady_delvaux",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -11315,6 +11621,7 @@
 		"nationalPoliticalGroupLabel": "Partit Laburista",
 		"email": "alfred.sant@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/SantAlfred",
+		"twitterProfile": "SantAlfred",
 		"roles": [
 			{
 				"Substitute": "Delegation to the EU-Russia Parliamentary Cooperation Committee"
@@ -11399,6 +11706,7 @@
 		"nationalPoliticalGroupLabel": "Partito Democratico",
 		"email": "renata.briano@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/Renata_Briano",
+		"twitterProfile": "Renata_Briano",
 		"roles": [
 			{
 				"Member": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament"
@@ -11423,6 +11731,7 @@
 		"nationalPoliticalGroupLabel": "Partito Democratico",
 		"email": "luigi.morgano@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/luigi_morgano",
+		"twitterProfile": "luigi_morgano",
 		"roles": [
 			{
 				"Substitute": "Delegation for relations with South Africa"
@@ -11444,6 +11753,7 @@
 		"nationalPoliticalGroupLabel": "Partidul Social Democrat",
 		"email": "sorin.moisa@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/sorinmoisa",
+		"twitterProfile": "sorinmoisa",
 		"roles": [
 			{
 				"Substitute": "Delegation for relations with the Arab Peninsula"
@@ -11485,6 +11795,7 @@
 		"nationalPoliticalGroupLabel": "Partito Democratico",
 		"email": "daniele.viotti@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/danieleviotti",
+		"twitterProfile": "danieleviotti",
 		"roles": [
 			{
 				"Substitute": "Committee on Civil Liberties, Justice and Home Affairs"
@@ -11528,6 +11839,7 @@
 		"email": "ana-claudia.tapardel@europarl.europa.eu",
 		"facebookPageUrl": "facebook.com/ctapardel",
 		"twitterUrl": "https://twitter.com/ClaudiaTapardel",
+		"twitterProfile": "ClaudiaTapardel",
 		"roles": [
 			{
 				"Substitute": "Delegation to the Euro-Latin American Parliamentary Assembly"
@@ -11549,6 +11861,7 @@
 		"nationalPoliticalGroupLabel": "Forza Italia",
 		"email": "remo.sernagiotto@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/SernagiottoRemo",
+		"twitterProfile": "SernagiottoRemo",
 		"roles": [
 			{
 				"Substitute": "Committee on Employment and Social Affairs"
@@ -11634,6 +11947,7 @@
 		"nationalPoliticalGroupLabel": "Partito Democratico",
 		"email": "kashetu.kyenge@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/ckyenge",
+		"twitterProfile": "ckyenge",
 		"roles": [
 			{
 				"Substitute": "Committee on Culture and Education"
@@ -11659,6 +11973,7 @@
 		"email": "siegfried.muresan@europarl.europa.eu",
 		"facebookPageUrl": "https://www.facebook.com/SiegfriedMEP",
 		"twitterUrl": "https://twitter.com/SMuresan",
+		"twitterProfile": "SMuresan",
 		"roles": [
 			{
 				"Substitute": "Delegation for relations with India"
@@ -11683,6 +11998,7 @@
 		"nationalPoliticalGroupLabel": "Partito Democratico",
 		"email": "isabella.demonte@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/IsabellaDeMonte",
+		"twitterProfile": "IsabellaDeMonte",
 		"roles": [
 			{
 				"Substitute": "Delegation to the EU-Montenegro Stabilisation and Association Parliamentary Committee"
@@ -11705,6 +12021,7 @@
 		"email": "elly.schlein@europarl.europa.eu",
 		"facebookPageUrl": "https://www.facebook.com/ellyschlein1",
 		"twitterUrl": "https://twitter.com/ellyesse",
+		"twitterProfile": "ellyesse",
 		"roles": [
 			{
 				"Vice-Chair": "Delegation to the EU-Albania Stabilisation and Association Parliamentary Committee"
@@ -11919,6 +12236,7 @@
 		"nationalPoliticalGroupLabel": "Partito Democratico",
 		"email": "simona.bonafe@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/simonabonafe",
+		"twitterProfile": "simonabonafe",
 		"roles": [
 			{
 				"Substitute": "Delegation for relations with the United States"
@@ -11961,6 +12279,7 @@
 		"email": "julia.reda@europarl.europa.eu",
 		"facebookPageUrl": "https://www.facebook.com/JuliaRedaMEP",
 		"twitterUrl": "https://twitter.com/#!/senficon",
+		"twitterProfile": "senficon",
 		"roles": [
 			{
 				"Substitute": "Committee on the Internal Market and Consumer Protection"
@@ -11985,6 +12304,7 @@
 		"nationalPoliticalGroupLabel": "Partito Democratico",
 		"email": "enrico.gasbarra@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/enricogasbarra",
+		"twitterProfile": "enricogasbarra",
 		"roles": [
 			{
 				"Substitute": "Committee on Transport and Tourism"
@@ -12006,6 +12326,7 @@
 		"nationalPoliticalGroupLabel": "Ökologisch-Demokratische Partei",
 		"email": "klaus.buchner@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/Dr_KlausBuchner",
+		"twitterProfile": "Dr_KlausBuchner",
 		"roles": [
 			{
 				"Member": "Committee on Foreign Affairs"
@@ -12027,6 +12348,7 @@
 		"nationalPoliticalGroupLabel": "Partito Democratico",
 		"email": "goffredo.bettini@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/GoffredoBettini",
+		"twitterProfile": "GoffredoBettini",
 		"roles": [
 			{
 				"Member": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament"
@@ -12115,6 +12437,7 @@
 		"nationalPoliticalGroupLabel": "Alternative für Deutschland",
 		"email": "hans-olaf.henkel@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/HansOlafHenkel",
+		"twitterProfile": "HansOlafHenkel",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -12139,6 +12462,7 @@
 		"nationalPoliticalGroupLabel": "Alternative für Deutschland",
 		"email": "bernd.koelmel@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/Bernd_Koelmel",
+		"twitterProfile": "Bernd_Koelmel",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -12163,6 +12487,7 @@
 		"nationalPoliticalGroupLabel": "Alternative für Deutschland",
 		"email": "beatrix.vonstorch@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/Beatrix_vStorch",
+		"twitterProfile": "Beatrix_vStorch",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -12224,6 +12549,7 @@
 		"nationalPoliticalGroupLabel": "Forza Italia",
 		"email": "fulvio.martusciello@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/fulviomartuscie",
+		"twitterProfile": "fulviomartuscie",
 		"roles": [
 			{
 				"Substitute": "Committee on Industry, Research and Energy"
@@ -12288,6 +12614,7 @@
 		"nationalPoliticalGroupLabel": "Movimento 5 Stelle",
 		"email": "isabella.adinolfi@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/Isa_Adinolfi",
+		"twitterProfile": "Isa_Adinolfi",
 		"roles": [
 			{
 				"Substitute": "Delegation for relations with the United States"
@@ -12448,6 +12775,7 @@
 		"nationalPoliticalGroupLabel": "Sozialdemokratische Partei Deutschlands",
 		"email": "arne.lietz@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/ArneLietz",
+		"twitterProfile": "ArneLietz",
 		"roles": [
 			{
 				"Substitute": "Delegation to the ACP-EU Joint Parliamentary Assembly"
@@ -12531,6 +12859,7 @@
 		"webPage": "http://www.piernicolapedicini.it/",
 		"facebookPageUrl": "https://www.facebook.com/piernicolapedicini.m5sbasilicata",
 		"twitterUrl": "https://twitter.com/PediciniM5S",
+		"twitterProfile": "PediciniM5S",
 		"roles": [
 			{
 				"googlePlusId": "https://plus.google.com/u/1/b/101039153424004371476/101039153424004371476/posts"
@@ -12561,6 +12890,7 @@
 		"nationalPoliticalGroupLabel": "Partito Democratico",
 		"email": "giuseppina.picierno@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/pinapic",
+		"twitterProfile": "pinapic",
 		"roles": [
 			{
 				"Vice-Chair": "Delegation to the EU-Mexico Joint Parliamentary Committee"
@@ -12585,6 +12915,7 @@
 		"nationalPoliticalGroupLabel": "Partito Democratico",
 		"email": "elena.gentile@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/elena_gentile",
+		"twitterProfile": "elena_gentile",
 		"roles": [
 			{
 				"Substitute": "Delegation for relations with Bosnia and Herzegovina, and Kosovo"
@@ -12630,6 +12961,7 @@
 		"nationalPoliticalGroupLabel": "Partito Democratico",
 		"email": "massimo.paolucci@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/MassimoPaolucc6",
+		"twitterProfile": "MassimoPaolucc6",
 		"roles": [
 			{
 				"Substitute": "Committee on Transport and Tourism"
@@ -12671,6 +13003,7 @@
 		"nationalPoliticalGroupLabel": "Partito Democratico",
 		"email": "nicola.caputo@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/NicolaCaputo",
+		"twitterProfile": "NicolaCaputo",
 		"roles": [
 			{
 				"Substitute": "Committee on the Environment, Public Health and Food Safety"
@@ -12692,6 +13025,7 @@
 		"nationalPoliticalGroupLabel": "Bulgarian Socialist Party",
 		"email": "sergei.stanishev@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/SergeiStanishev",
+		"twitterProfile": "SergeiStanishev",
 		"roles": [
 			{
 				"Vice-Chair": "Delegation to the EU-Former Yugoslav Republic of Macedonia Joint Parliamentary Committee"
@@ -12716,6 +13050,7 @@
 		"nationalPoliticalGroupLabel": "Forza Italia",
 		"email": "salvatoredomenico.pogliese@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/SalvoPogliese",
+		"twitterProfile": "SalvoPogliese",
 		"roles": [
 			{
 				"Member": "Committee on Transport and Tourism"
@@ -12737,6 +13072,7 @@
 		"nationalPoliticalGroupLabel": "Forza Italia",
 		"email": "salvatore.cicu@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/SalvoCicu",
+		"twitterProfile": "SalvoCicu",
 		"roles": [
 			{
 				"Vice-Chair": "Delegation for relations with the Arab Peninsula"
@@ -12782,6 +13118,7 @@
 		"email": "ignazio.corrao@europarl.europa.eu",
 		"facebookPageUrl": "https://www.facebook.com/Igna1984",
 		"twitterUrl": "https://twitter.com/Igna84",
+		"twitterProfile": "Igna84",
 		"roles": [
 			{
 				"Member": "Committee on Development"
@@ -12808,6 +13145,7 @@
 		"webPage": "www.fabiodemasi.de",
 		"facebookPageUrl": "https://www.facebook.com/fabio.d.masi",
 		"twitterUrl": "https://twitter.com/FabioDeMasi",
+		"twitterProfile": "FabioDeMasi",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -12849,6 +13187,7 @@
 		"nationalPoliticalGroupLabel": "Partito Democratico",
 		"email": "renato.soru@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/renatosoru",
+		"twitterProfile": "renatosoru",
 		"roles": [
 			{
 				"Member": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament"
@@ -12870,6 +13209,7 @@
 		"nationalPoliticalGroupLabel": "Partito Democratico",
 		"email": "caterina.chinnici@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/CaterinaChinnic",
+		"twitterProfile": "CaterinaChinnic",
 		"roles": [
 			{
 				"Substitute": "Delegation for relations with Iran"
@@ -12894,6 +13234,7 @@
 		"nationalPoliticalGroupLabel": "Freie Wähler",
 		"email": "ulrike.mueller@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/UliMuellerMdEP",
+		"twitterProfile": "UliMuellerMdEP",
 		"roles": [
 			{
 				"Substitute": "Committee on the Environment, Public Health and Food Safety"
@@ -12935,6 +13276,7 @@
 		"nationalPoliticalGroupLabel": "Partito Democratico",
 		"email": "michela.giuffrida@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/m_giuffrida",
+		"twitterProfile": "m_giuffrida",
 		"roles": [
 			{
 				"Substitute": "Delegation for relations with the Mashreq countries"
@@ -12956,6 +13298,7 @@
 		"nationalPoliticalGroupLabel": "Movement for Rights and Freedoms",
 		"email": "ilhan.kyuchyuk@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/ilhankyuchyuk",
+		"twitterProfile": "ilhankyuchyuk",
 		"roles": [
 			{
 				"Member": "Committee on Foreign Affairs"
@@ -12978,6 +13321,7 @@
 		"email": "brando.benifei@europarl.europa.eu",
 		"facebookPageUrl": "https://www.facebook.com/brando.benifei#!/benifeibrando?fref=ts",
 		"twitterUrl": "https://twitter.com/brandobenifei",
+		"twitterProfile": "brandobenifei",
 		"roles": [
 			{
 				"Substitute": "Delegation for relations with the Palestinian Legislative Council"
@@ -13043,6 +13387,7 @@
 		"email": "jeppe.kofod@europarl.europa.eu",
 		"facebookPageUrl": "https://www.facebook.com/jeppekofod",
 		"twitterUrl": "https://twitter.com/JeppeKofod",
+		"twitterProfile": "JeppeKofod",
 		"roles": [
 			{
 				"Member": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament"
@@ -13091,6 +13436,7 @@
 		"email": "mortenhelveg.petersen@europarl.europa.eu",
 		"facebookPageUrl": "https://www.facebook.com/morten.h.petersen.75",
 		"twitterUrl": "https://twitter.com/mortenhelveg",
+		"twitterProfile": "mortenhelveg",
 		"roles": [
 			{
 				"Substitute": "Delegation for relations with the United States"
@@ -13162,6 +13508,7 @@
 		"nationalPoliticalGroupLabel": "Dansk Folkeparti",
 		"email": "anders.vistisen@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/AndersVistisen",
+		"twitterProfile": "AndersVistisen",
 		"roles": [
 			{
 				"Substitute": "Delegation for relations with the Palestinian Legislative Council"
@@ -13200,6 +13547,7 @@
 		"nationalPoliticalGroupLabel": "Prawo i Sprawiedliwość",
 		"email": "jadwiga.wisniewska@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/j_wisniewska",
+		"twitterProfile": "j_wisniewska",
 		"roles": [
 			{
 				"Vice-Chair": "Delegation to the ACP-EU Joint Parliamentary Assembly"
@@ -13267,6 +13615,7 @@
 		"nationalPoliticalGroupLabel": "Venstre, Danmarks Liberale Parti",
 		"email": "ulla.tornaes@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/Ulla_Tornaes",
+		"twitterProfile": "Ulla_Tornaes",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -13311,6 +13660,7 @@
 		"nationalPoliticalGroupLabel": "Prawo i Sprawiedliwość",
 		"email": "dawid.jackiewicz@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/DawidJackiewicz",
+		"twitterProfile": "DawidJackiewicz",
 		"roles": [
 			{
 				"Substitute": "Committee on the Internal Market and Consumer Protection"
@@ -13335,6 +13685,7 @@
 		"nationalPoliticalGroupLabel": "Sojusz Lewicy Demokratycznej",
 		"email": "krystyna.lybacka@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/KrystynaLybacka",
+		"twitterProfile": "KrystynaLybacka",
 		"roles": [
 			{
 				"Substitute": "Delegation for relations with the NATO Parliamentary Assembly"
@@ -13446,6 +13797,7 @@
 		"nationalPoliticalGroupLabel": "Platforma Obywatelska",
 		"email": "agnieszka.kozlowska-rajewicz@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/AKRajewicz",
+		"twitterProfile": "AKRajewicz",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -13467,6 +13819,7 @@
 		"nationalPoliticalGroupLabel": "Platforma Obywatelska",
 		"email": "adam.szejnfeld@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/szejnfeld",
+		"twitterProfile": "szejnfeld",
 		"roles": [
 			{
 				"Substitute": "Committee on the Internal Market and Consumer Protection"
@@ -13488,6 +13841,7 @@
 		"nationalPoliticalGroupLabel": "Bezpartyjny",
 		"email": "zdzislaw.krasnodebski@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/ZdzKrasnodebski",
+		"twitterProfile": "ZdzKrasnodebski",
 		"roles": [
 			{
 				"Member": "Committee on Employment and Social Affairs"
@@ -13509,6 +13863,7 @@
 		"nationalPoliticalGroupLabel": "Prawica Rzeczypospolitej",
 		"email": "marek.jurek@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/marekjurek",
+		"twitterProfile": "marekjurek",
 		"roles": [
 			{
 				"Member": "European Conservatives and Reformists Group"
@@ -13593,6 +13948,7 @@
 		"nationalPoliticalGroupLabel": "Platforma Obywatelska",
 		"email": "michal.boni@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/MichalBoni",
+		"twitterProfile": "MichalBoni",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -13761,6 +14117,7 @@
 		"nationalPoliticalGroupLabel": "OBYČAJNÍ ĽUDIA",
 		"email": "branislav.skripek@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/BranoSkripek",
+		"twitterProfile": "BranoSkripek",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -13804,6 +14161,7 @@
 		"email": "ivan.stefanec@europarl.europa.eu",
 		"facebookPageUrl": "https://www.facebook.com/ivanstefanec.eu",
 		"twitterUrl": "https://twitter.com/IvanStefanec",
+		"twitterProfile": "IvanStefanec",
 		"roles": [
 			{
 				"Substitute": "Delegation to the EU-Ukraine Parliamentary Cooperation Committee"
@@ -13825,6 +14183,7 @@
 		"nationalPoliticalGroupLabel": "Strana mad'arskej komunity- Magyar Közösség Pártja",
 		"email": "pal.csaky@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/csakypal",
+		"twitterProfile": "csakypal",
 		"roles": [
 			{
 				"Substitute": "Delegation for relations with the Federative Republic of Brazil"
@@ -13849,6 +14208,7 @@
 		"nationalPoliticalGroupLabel": "Esquerra Republicana de Catalunya",
 		"email": "josep-maria.terricabras@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/jmterricabras",
+		"twitterProfile": "jmterricabras",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -13893,6 +14253,7 @@
 		"nationalPoliticalGroupLabel": "Die Grünen - Die Grüne Alternative",
 		"email": "monika.vana@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/MonikaVana",
+		"twitterProfile": "MonikaVana",
 		"roles": [
 			{
 				"Member": "Group of the Greens/European Free Alliance"
@@ -13914,6 +14275,7 @@
 		"nationalPoliticalGroupLabel": "Die Grünen - Die Grüne Alternative",
 		"email": "michel.reimon@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/michelreimon",
+		"twitterProfile": "michelreimon",
 		"roles": [
 			{
 				"Substitute": "Delegation for relations with the Arab Peninsula"
@@ -14052,6 +14414,7 @@
 		"nationalPoliticalGroupLabel": "Green Party",
 		"email": "molly.scottcato@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/MollyScottCato",
+		"twitterProfile": "MollyScottCato",
 		"roles": [
 			{
 				"Substitute": "Delegation for relations with the Federative Republic of Brazil"
@@ -14093,6 +14456,7 @@
 		"nationalPoliticalGroupLabel": "Labour Party",
 		"email": "clare.moody@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/ClareMoodyMEP",
+		"twitterProfile": "ClareMoodyMEP",
 		"roles": [
 			{
 				"Member": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament"
@@ -14131,6 +14495,7 @@
 		"nationalPoliticalGroupLabel": "Parti socialiste",
 		"email": "edouard.martin@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/edouardmartinEU",
+		"twitterProfile": "edouardmartinEU",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -14172,6 +14537,7 @@
 		"nationalPoliticalGroupLabel": "Labour Party",
 		"email": "lucy.anderson@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/LucyAndersonMEP",
+		"twitterProfile": "LucyAndersonMEP",
 		"roles": [
 			{
 				"Member": "Committee on Transport and Tourism"
@@ -14227,6 +14593,7 @@
 		"nationalPoliticalGroupLabel": "Labour Party",
 		"email": "seb.dance@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/SebDance",
+		"twitterProfile": "SebDance",
 		"roles": [
 			{
 				"Substitute": "Delegation for relations with the countries of Central America"
@@ -14248,6 +14615,7 @@
 		"nationalPoliticalGroupLabel": "Labour Party",
 		"email": "jude.kirton-darling@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/Jude_KD",
+		"twitterProfile": "Jude_KD",
 		"roles": [
 			{
 				"Substitute": "Delegation for relations with the Federative Republic of Brazil"
@@ -14386,6 +14754,7 @@
 		"nationalPoliticalGroupLabel": "Labour Party",
 		"email": "theresa.griffin@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/TheresaMEP",
+		"twitterProfile": "TheresaMEP",
 		"roles": [
 			{
 				"Member": "Committee on Industry, Research and Energy"
@@ -14407,6 +14776,7 @@
 		"nationalPoliticalGroupLabel": "Labour Party",
 		"email": "afzal.khan@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/akhanmep",
+		"twitterProfile": "akhanmep",
 		"roles": [
 			{
 				"Substitute": "Delegation for relations with the countries of South Asia"
@@ -14431,6 +14801,7 @@
 		"nationalPoliticalGroupLabel": "Labour Party",
 		"email": "julie.ward@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/julie4nw",
+		"twitterProfile": "julie4nw",
 		"roles": [
 			{
 				"Substitute": "Delegation to the ACP-EU Joint Parliamentary Assembly"
@@ -14530,6 +14901,7 @@
 		"email": "therese.comodinicachia@europarl.europa.eu",
 		"facebookPageUrl": "https://www.facebook.com/ThereseComodiniCachia",
 		"twitterUrl": "https://twitter.com/ComodiniCachia",
+		"twitterProfile": "ComodiniCachia",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -14551,6 +14923,7 @@
 		"nationalPoliticalGroupLabel": "Labour Party",
 		"email": "anneliese.dodds@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/AnnelieseDodds",
+		"twitterProfile": "AnnelieseDodds",
 		"roles": [
 			{
 				"Member": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament"
@@ -14576,6 +14949,7 @@
 		"email": "miriam.dalli@europarl.europa.eu",
 		"facebookPageUrl": "https://www.facebook.com/#!/drmiriamdalli?fref=ts",
 		"twitterUrl": "https://twitter.com/Miriamdalli",
+		"twitterProfile": "Miriamdalli",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -14614,6 +14988,7 @@
 		"nationalPoliticalGroupLabel": "Iniciativa per Catalunya Verds",
 		"email": "ernest.urtasun@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/ernesturtasun",
+		"twitterProfile": "ernesturtasun",
 		"roles": [
 			{
 				"Substitute": "Committee on Foreign Affairs"
@@ -14658,6 +15033,7 @@
 		"nationalPoliticalGroupLabel": "Sinn Féin",
 		"email": "lynn.boylan@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/LNBDublin",
+		"twitterProfile": "LNBDublin",
 		"roles": [
 			{
 				"Substitute": "Committee on Employment and Social Affairs"
@@ -14679,6 +15055,7 @@
 		"nationalPoliticalGroupLabel": "Independent",
 		"email": "lukeming.flanagan@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/lukeming",
+		"twitterProfile": "lukeming",
 		"roles": [
 			{
 				"Member": "Committee on Agriculture and Rural Development"
@@ -14700,6 +15077,7 @@
 		"nationalPoliticalGroupLabel": "Sinn Féin",
 		"email": "matt.carthy@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/mattcarthy",
+		"twitterProfile": "mattcarthy",
 		"roles": [
 			{
 				"Substitute": "Committee on Economic and Monetary Affairs"
@@ -14721,6 +15099,7 @@
 		"nationalPoliticalGroupLabel": "Sinn Féin",
 		"email": "liadh.niriada@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/NiRiada4Europe",
+		"twitterProfile": "NiRiada4Europe",
 		"roles": [
 			{
 				"Member": "Confederal Group of the European United Left - Nordic Green Left"
@@ -14786,6 +15165,7 @@
 		"nationalPoliticalGroupLabel": "Kristdemokraterna",
 		"email": "lars.adaktusson@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/Ladaktusson",
+		"twitterProfile": "Ladaktusson",
 		"roles": [
 			{
 				"Vice-Chair": "Delegation for relations with Afghanistan"
@@ -14810,6 +15190,7 @@
 		"nationalPoliticalGroupLabel": "Arbetarepartiet- Socialdemokraterna",
 		"email": "jytte.guteland@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/JytteGuteland",
+		"twitterProfile": "JytteGuteland",
 		"roles": [
 			{
 				"Substitute": "Delegation to the Euronest Parliamentary Assembly"
@@ -14854,6 +15235,7 @@
 		"nationalPoliticalGroupLabel": "Miljöpartiet de gröna",
 		"email": "bodil.ceballos@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/BodilCeballos",
+		"twitterProfile": "BodilCeballos",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -14938,6 +15320,7 @@
 		"nationalPoliticalGroupLabel": "Feministiskt initiativ",
 		"email": "soraya.post@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/SorayaPostFi",
+		"twitterProfile": "SorayaPostFi",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -14980,6 +15363,7 @@
 		"email": "hugues.bayet@europarl.europa.eu",
 		"facebookPageUrl": "https://www.facebook.com/hbayet",
 		"twitterUrl": "https://twitter.com/jufanuel",
+		"twitterProfile": "jufanuel",
 		"roles": [
 			{
 				"youtubeURL": "https://www.youtube.com/channel/UCALcP0lbU9387eNRfMRqXLg"
@@ -15004,6 +15388,7 @@
 		"nationalPoliticalGroupLabel": "Verjamem! Lista dr. Igorja Šoltesa",
 		"email": "igor.soltes@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/isoltesEP",
+		"twitterProfile": "isoltesEP",
 		"roles": [
 			{
 				"Vice-Chair": "Committee on Budgetary Control"
@@ -15029,6 +15414,7 @@
 		"email": "franc.bogovic@europarl.europa.eu",
 		"facebookPageUrl": "www.facebook.com/FrancBogovic.SLS",
 		"twitterUrl": "twitter.com/Franc_Bogovic",
+		"twitterProfile": "Franc_Bogovic",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -15050,6 +15436,7 @@
 		"nationalPoliticalGroupLabel": "Ciudadanos – Partido de la Ciudadanía",
 		"email": "javier.nart@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/JavierNart",
+		"twitterProfile": "JavierNart",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -15114,6 +15501,7 @@
 		"nationalPoliticalGroupLabel": "Bulgarian Socialist Party",
 		"email": "momchil.nekov@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/momchilnekov",
+		"twitterProfile": "momchilnekov",
 		"roles": [
 			{
 				"Substitute": "Delegation for relations with Belarus"
@@ -15155,6 +15543,7 @@
 		"nationalPoliticalGroupLabel": "Sozialdemokratische Partei Österreichs",
 		"email": "eugen.freund@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/EugenAFreund",
+		"twitterProfile": "EugenAFreund",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -15176,6 +15565,7 @@
 		"nationalPoliticalGroupLabel": "Volkspartij voor Vrijheid en Democratie",
 		"email": "cora.vannieuwenhuizen@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/CvNieuwenhuizen",
+		"twitterProfile": "CvNieuwenhuizen",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -15223,6 +15613,7 @@
 		"nationalPoliticalGroupLabel": "Partij van de Arbeid",
 		"email": "agnes.jongerius@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/a_jongerius",
+		"twitterProfile": "a_jongerius",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -15327,6 +15718,7 @@
 		"nationalPoliticalGroupLabel": "NEOS – Das Neue Österreich",
 		"email": "angelika.mlinar@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/AngelikaMlinar",
+		"twitterProfile": "AngelikaMlinar",
 		"roles": [
 			{
 				"Substitute": "Delegation for relations with Switzerland and Norway and to the EU-Iceland Joint Parliamentary Committee and the European Economic Area (EEA) Joint Parliamentary Committee"
@@ -15391,6 +15783,7 @@
 		"nationalPoliticalGroupLabel": "Christen Democratisch Appèl",
 		"email": "annie.schreijer-pierik@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/AnnieSchreijer",
+		"twitterProfile": "AnnieSchreijer",
 		"roles": [
 			{
 				"Substitute": "Delegation to the EU-Russia Parliamentary Cooperation Committee"
@@ -15412,6 +15805,7 @@
 		"nationalPoliticalGroupLabel": "PODEMOS",
 		"email": "pablo.iglesias@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/Pablo_Iglesias_",
+		"twitterProfile": "Pablo_Iglesias_",
 		"roles": [
 			{
 				"Substitute": "Delegation for relations with the Federative Republic of Brazil"
@@ -15459,6 +15853,7 @@
 		"nationalPoliticalGroupLabel": "PODEMOS",
 		"email": "mariadoloreslola.sanchezcaldentey@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/LolaPodemos",
+		"twitterProfile": "LolaPodemos",
 		"roles": [
 			{
 				"Substitute": "Delegation for relations with the United States"
@@ -15480,6 +15875,7 @@
 		"nationalPoliticalGroupLabel": "Socialistische Partij",
 		"email": "anne-marie.mineur@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/AnneMarieMineur",
+		"twitterProfile": "AnneMarieMineur",
 		"roles": [
 			{
 				"Substitute": "Committee on the Environment, Public Health and Food Safety"
@@ -15564,6 +15960,7 @@
 		"nationalPoliticalGroupLabel": "Partido Socialista Obrero Español",
 		"email": "soledad.cabezonruiz@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/SoledadCabezon",
+		"twitterProfile": "SoledadCabezon",
 		"roles": [
 			{
 				"Substitute": "Committee on the Environment, Public Health and Food Safety"
@@ -15585,6 +15982,7 @@
 		"nationalPoliticalGroupLabel": "Partit dels Socialistes de Catalunya",
 		"email": "javi.lopez@europarl.europa.eu",
 		"twitterUrl": "http://twitter.com/fjavilopez",
+		"twitterProfile": "fjavilopez",
 		"roles": [
 			{
 				"Substitute": "Delegation for relations with Mercosur"
@@ -15649,6 +16047,7 @@
 		"nationalPoliticalGroupLabel": "Partido Socialista Obrero Español",
 		"email": "claraeugenia.aguileragarcia@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/ClaraAguilera7",
+		"twitterProfile": "ClaraAguilera7",
 		"roles": [
 			{
 				"Substitute": "Delegation to the EU-Mexico Joint Parliamentary Committee"
@@ -15736,6 +16135,7 @@
 		"nationalPoliticalGroupLabel": "Alternativa galega de esquerda en Europa",
 		"email": "lidia.senra@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/LidiaSenra",
+		"twitterProfile": "LidiaSenra",
 		"roles": [
 			{
 				"Member": "Confederal Group of the European United Left - Nordic Green Left"
@@ -15757,6 +16157,7 @@
 		"nationalPoliticalGroupLabel": "Izquierda Unida",
 		"email": "angela.vallina@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/AngelaVallina",
+		"twitterProfile": "AngelaVallina",
 		"roles": [
 			{
 				"Substitute": "Delegation for relations with the Palestinian Legislative Council"
@@ -15778,6 +16179,7 @@
 		"nationalPoliticalGroupLabel": "EH BILDU",
 		"email": "josu.juaristi@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/Josu_Juaristi",
+		"twitterProfile": "Josu_Juaristi",
 		"roles": [
 			{
 				"additionalSite1": "www.josujuaristi.info"
@@ -15822,6 +16224,7 @@
 		"nationalPoliticalGroupLabel": "COMPROMIS",
 		"email": "jordi.sebastia@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/Sebastia_Jordi",
+		"twitterProfile": "Sebastia_Jordi",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -15843,6 +16246,7 @@
 		"nationalPoliticalGroupLabel": "Coalition of the Radical Left",
 		"email": "kostas.chrysogonos@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/Chrysogonos_K",
+		"twitterProfile": "Chrysogonos_K",
 		"roles": [
 			{
 				"Substitute": "Delegation for relations with the United States"
@@ -15864,6 +16268,7 @@
 		"nationalPoliticalGroupLabel": "Nea Demokratia",
 		"email": "georgios.kyrtsos@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/GiorgosKyrtsos",
+		"twitterProfile": "GiorgosKyrtsos",
 		"roles": [
 			{
 				"Substitute": "Subcommittee on Security and Defence"
@@ -15888,6 +16293,7 @@
 		"nationalPoliticalGroupLabel": "Nea Demokratia",
 		"email": "maria.spyraki@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/MariaSpyraki",
+		"twitterProfile": "MariaSpyraki",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -15909,6 +16315,7 @@
 		"nationalPoliticalGroupLabel": "Nea Demokratia",
 		"email": "elissavet.vozemberg@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/vozemberg",
+		"twitterProfile": "vozemberg",
 		"roles": [
 			{
 				"Substitute": "Delegation for relations with the People's Republic of China"
@@ -16076,6 +16483,7 @@
 		"nationalPoliticalGroupLabel": "Coalition of the Radical Left",
 		"email": "sofia.sakorafa@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/SofiaSakorafa",
+		"twitterProfile": "SofiaSakorafa",
 		"roles": [
 			{
 				"Member": "Confederal Group of the European United Left - Nordic Green Left"
@@ -16100,6 +16508,7 @@
 		"nationalPoliticalGroupLabel": "Coalition of the Radical Left",
 		"email": "kostadinka.kuneva@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/kkuneva",
+		"twitterProfile": "kkuneva",
 		"roles": [
 			{
 				"Member": "Confederal Group of the European United Left - Nordic Green Left"
@@ -16181,6 +16590,7 @@
 		"nationalPoliticalGroupLabel": "Partido da Terra",
 		"email": "joseinacio.faria@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/JoseFariaMEP",
+		"twitterProfile": "JoseFariaMEP",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -16202,6 +16612,7 @@
 		"nationalPoliticalGroupLabel": "Slovenska demokratska stranka",
 		"email": "patricija.sulin@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/PatricijaSulin",
+		"twitterProfile": "PatricijaSulin",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -16226,6 +16637,7 @@
 		"nationalPoliticalGroupLabel": "Slovenska demokratska stranka",
 		"email": "romana.tomc@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/RomanaTomc",
+		"twitterProfile": "RomanaTomc",
 		"roles": [
 			{
 				"Vice-Chair": "Delegation for relations with Japan"
@@ -16250,6 +16662,7 @@
 		"nationalPoliticalGroupLabel": "Nieuw-Vlaamse Alliantie",
 		"email": "helga.stevens@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/StevensHelga",
+		"twitterProfile": "StevensHelga",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -16276,6 +16689,7 @@
 		"webPage": "http://www.clauderolin.eu",
 		"facebookPageUrl": "https://www.facebook.com/pages/Claude-Rolin/1483914865163220?fref=ts",
 		"twitterUrl": "https://twitter.com/clauderolin",
+		"twitterProfile": "clauderolin",
 		"roles": [
 			{
 				"additionalSite1": "http://www.clauderolin.eu"
@@ -16300,6 +16714,7 @@
 		"nationalPoliticalGroupLabel": "Panhellenic Socialist Movement - Olive Tree",
 		"email": "eva.kaili@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/EvaKaili",
+		"twitterProfile": "EvaKaili",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -16324,6 +16739,7 @@
 		"nationalPoliticalGroupLabel": "Panhellenic Socialist Movement - Olive Tree",
 		"email": "nikos.androulakis@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/androulakisnick",
+		"twitterProfile": "androulakisnick",
 		"roles": [
 			{
 				"Substitute": "Committee on the Environment, Public Health and Food Safety"
@@ -16411,6 +16827,7 @@
 		"nationalPoliticalGroupLabel": "Lista Tsipras-L'Altra Europa",
 		"email": "curzio.maltese@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/curziomaltesetw",
+		"twitterProfile": "curziomaltesetw",
 		"roles": [
 			{
 				"Member": "Confederal Group of the European United Left - Nordic Green Left"
@@ -16432,6 +16849,7 @@
 		"nationalPoliticalGroupLabel": "Lista Tsipras-L'Altra Europa",
 		"email": "eleonora.forenza@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/eleonoraforenza",
+		"twitterProfile": "eleonoraforenza",
 		"roles": [
 			{
 				"Substitute": "Committee on the Environment, Public Health and Food Safety"
@@ -16496,6 +16914,7 @@
 		"nationalPoliticalGroupLabel": "Nuovo Centrodestra - Unione di Centro",
 		"email": "massimiliano.salini@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/MaxSalini",
+		"twitterProfile": "MaxSalini",
 		"roles": [
 			{
 				"Member": "Group of the European People's Party (Christian Democrats)"
@@ -16537,6 +16956,7 @@
 		"nationalPoliticalGroupLabel": "TOP 09 a Starostové",
 		"email": "jiri.pospisil@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/Pospisil_Jiri",
+		"twitterProfile": "Pospisil_Jiri",
 		"roles": [
 			{
 				"Substitute": "Delegation to the EU-Serbia Stabilisation and Association Parliamentary Committee"
@@ -16581,6 +17001,7 @@
 		"nationalPoliticalGroupLabel": "PODEMOS",
 		"email": "tania.gonzalezpenas@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/TaniaGonzalezPs",
+		"twitterProfile": "TaniaGonzalezPs",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -16628,6 +17049,7 @@
 		"nationalPoliticalGroupLabel": "Nieuw-Vlaamse Alliantie",
 		"email": "sander.loones@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/SanderLoones",
+		"twitterProfile": "SanderLoones",
 		"roles": [
 			{
 				"Member": "European Parliament"
@@ -16672,6 +17094,7 @@
 		"nationalPoliticalGroupLabel": "Christen-Democratisch & Vlaams",
 		"email": "tom.vandenkendelaere@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/tomvdkendelaere",
+		"twitterProfile": "tomvdkendelaere",
 		"roles": [
 			{
 				"Member": "Delegation for relations with the People's Republic of China"
@@ -16713,6 +17136,7 @@
 		"nationalPoliticalGroupLabel": "Unión, Progreso y Democracia",
 		"email": "enrique.calvetchambon@europarl.europa.eu",
 		"twitterUrl": "https://twitter.com/EnriqueCalvet",
+		"twitterProfile": "EnriqueCalvet",
 		"roles": [
 			{
 				"Substitute": "Committee on Regional Development"

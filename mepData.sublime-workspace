@@ -1,0 +1,538 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ep",
+				"epNewsHubdata"
+			],
+			[
+				"euro",
+				"euroParldata"
+			],
+			[
+				"jade",
+				"jadePartials"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app.js",
+			"settings":
+			{
+				"buffer_size": 3116,
+				"line_ending": "Windows",
+				"name": "var request = require('request');"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 282,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 334.0,
+		"last_filter": "colorsublime: I",
+		"selected_items":
+		[
+			[
+				"colorsublime: I",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"colo",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: li",
+				"Package Control: List Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/hans.scheuren/Documents/GitHub/mepData",
+		"/C/Users/hans.scheuren/Documents/GitHub/mepData/api"
+	],
+	"file_history":
+	[
+		"/C/Users/hans.scheuren/Documents/GitHub/ngcontactmep/src/assets/localjs/meps/meps.factory.js",
+		"/C/Users/hans.scheuren/Documents/GitHub/mepData/new.js",
+		"/C/Users/hans.scheuren/Documents/GitHub/mepData/.gitignore",
+		"/C/Users/hans.scheuren/Documents/GitHub/mepData/.gitattributes",
+		"/C/Users/hans.scheuren/Documents/GitHub/ngcontactmep/.gitignore",
+		"/C/Users/hans.scheuren/Documents/GitHub/ngcontactmep/src/partials/header.jade",
+		"/C/Users/hans.scheuren/Documents/GitHub/ngcontactmep/gulp/tasks/dev/build.js",
+		"/C/Users/hans.scheuren/Documents/GitHub/ngcontactmep/gulp/utilities/extractMepData.js",
+		"/C/Users/hans.scheuren/Documents/GitHub/ngcontactmep/gulp/tasks/dist/copy.js",
+		"/C/Users/hans.scheuren/Documents/GitHub/ngcontactmep/gulp/config.json",
+		"/C/Users/hans.scheuren/Documents/GitHub/ngcontactmep/gulp/tasks/dev/watch.js",
+		"/C/Users/hans.scheuren/Documents/GitHub/ngcontactmep/bower.json",
+		"/C/Users/hans.scheuren/Documents/GitHub/ngcontactmep/package.json",
+		"/C/Users/hans.scheuren/Documents/GitHub/ngcontactmep/src/assets/localjs/meps/list/mepsList.controller.js",
+		"/C/Users/hans.scheuren/Documents/GitHub/ngcontactmep/src/assets/localjs/meps/list/mepsList.view.jade",
+		"/C/Users/hans.scheuren/Documents/GitHub/ngcontactmep/src/assets/localjs/meps/mep/mep.controller.js",
+		"/C/Users/hans.scheuren/Documents/GitHub/ngcontactmep/src/partials/layout/1Col.jade",
+		"/C/Users/hans.scheuren/Documents/GitHub/ngcontactmep/src/assets/localjs/meps/mep/mep.view.jade",
+		"/C/Users/hans.scheuren/Documents/GitHub/ngcontactmep/app/assets/data/meps/en/filter.json",
+		"/C/Users/hans.scheuren/Documents/GitHub/ngcontactmep/src/partials/layout/2ColLeft.jade",
+		"/C/Users/hans.scheuren/Documents/GitHub/ngcontactmep/app/assets/data/meps/en/mep/840.json",
+		"/C/Users/hans.scheuren/Documents/GitHub/ngcontactmep/app/dev/assets/data/meps/en/mepslist.json",
+		"/C/Users/hans.scheuren/Documents/GitHub/ngcontactmep/app/dev/assets/data/meps/en/filter.json",
+		"/C/Users/hans.scheuren/Documents/GitHub/ngcontactmep/app/assets/data/meps/en/mepslist.json",
+		"/C/Users/hans.scheuren/WorkDocs/Travail/portofolio/jade-static/src/pages/index.jade",
+		"/C/Users/hans.scheuren/WorkDocs/Travail/portofolio/jade-static/gulp/tasks/default.js",
+		"/C/Users/hans.scheuren/WorkDocs/Travail/portofolio/jade-static/Gulpfile.js",
+		"/C/Users/hans.scheuren/WorkDocs/Travail/portofolio/jade-static/gulp/tasks/pages.js",
+		"/C/Users/hans.scheuren/WorkDocs/Perso/ngcontactmep/gulp/tasks/dev/datamassage.js",
+		"/C/Users/hans.scheuren/WorkDocs/Perso/ngcontactmep/.gitignore",
+		"/C/Users/hans.scheuren/Documents/GitHub/ngcontactmep/src/assets/localjs/index.js",
+		"/C/Users/hans.scheuren/AppData/Local/Temp/Temp1_members_export_23b3c03f74.zip/members_export_23b3c03f74.csv",
+		"/C/Users/hans.scheuren/WorkDocs/Travail/portofolio/jade-static/dist/index.html",
+		"/C/Users/hans.scheuren/WorkDocs/Travail/portofolio/jade-static/gulp/tasks/jade.js",
+		"/C/Users/hans.scheuren/WorkDocs/Travail/portofolio/jade-static/src/themes/default/page.jade",
+		"/C/Users/hans.scheuren/WorkDocs/Travail/portofolio/jade-static/src/themes/default/pagecontent.md",
+		"/C/Users/hans.scheuren/WorkDocs/Travail/portofolio/jade-static/dist/page.jade",
+		"/C/Users/hans.scheuren/WorkDocs/Travail/portofolio/jade-static/dist/page.html",
+		"/C/Users/hans.scheuren/WorkDocs/Travail/portofolio/jade-static/src/themes/default/index.jade",
+		"/C/Users/hans.scheuren/WorkDocs/Travail/portofolio/jade-static/src/themes/default/index.md",
+		"/C/Users/hans.scheuren/AppData/Roaming/Sublime Text 3/Packages/User/gulp.sublime-build",
+		"/C/Users/hans.scheuren/WorkDocs/Perso/ngcontactmep/gulpfile.js",
+		"/C/Users/hans.scheuren/WorkDocs/Perso/ngcontactmep/gulp/utilities/extractMepData.js",
+		"/C/Users/hans.scheuren/WorkDocs/Perso/ngcontactmep/app/dev/assets/data/meps/en/mep/test.json",
+		"/C/Users/hans.scheuren/WorkDocs/Perso/ngcontactmep/gulp/utilities/individualizeMep.js",
+		"/C/Users/hans.scheuren/WorkDocs/Perso/ngcontactmep/gulp/config.json",
+		"/C/Users/hans.scheuren/WorkDocs/Perso/ngcontactmep/gulp/tasks/commons/bower.js",
+		"/C/Users/hans.scheuren/WorkDocs/Perso/ngcontactmep/gulp/tasks/commons/inject.js",
+		"/C/Users/hans.scheuren/WorkDocs/Perso/ngcontactmep/gulp/tasks/commons/jade.js",
+		"/C/Users/hans.scheuren/WorkDocs/Perso/ngcontactmep/gulp/tasks/commons/jslint.js",
+		"/C/Users/hans.scheuren/WorkDocs/Perso/ngcontactmep/gulp/tasks/dev/copy.js",
+		"/C/Users/hans.scheuren/WorkDocs/Perso/ngcontactmep/gulp/tasks/dev/delete.js",
+		"/C/Users/hans.scheuren/WorkDocs/Perso/ngcontactmep/gulp/tasks/dev/serve.js",
+		"/C/Users/hans.scheuren/WorkDocs/Perso/ngcontactmep/gulp/tasks/dev/watch.js",
+		"/C/Users/hans.scheuren/WorkDocs/Perso/ngcontactmep/gulp/tasks/dist/copy.js",
+		"/C/Users/hans.scheuren/WorkDocs/Perso/ngcontactmep/gulp/tasks/dist/delete.js",
+		"/C/Users/hans.scheuren/WorkDocs/Perso/ngcontactmep/gulp/tasks/dist/serve.js",
+		"/C/Users/hans.scheuren/WorkDocs/Perso/ngcontactmep/gulp/tasks/dist/usemin.js",
+		"/C/Users/hans.scheuren/WorkDocs/Perso/ngcontactmep/gulp/utilities/extractFilters.js",
+		"/C/Users/hans.scheuren/WorkDocs/Perso/ngcontactmep/app/dev/assets/data/meps/test.json",
+		"/C/Users/hans.scheuren/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/hans.scheuren/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/hans.scheuren/WorkDocs/Perso/ngcontactmep/app/dev/assets/data/meps/en/mepslist.json",
+		"/C/Users/hans.scheuren/WorkDocs/Perso/ngcontactmep/app/dev/assets/data/meps/es/filter.json",
+		"/C/Users/hans.scheuren/WorkDocs/Perso/ngcontactmep/app/dev/assets/data/meps/mepslist.json",
+		"/C/Users/hans.scheuren/WorkDocs/Perso/ngcontactmep/app/dev/assets/data/meps/en/filter.json",
+		"/C/Users/hans.scheuren/WorkDocs/Perso/ngcontactmep/app/dev/assets/data/meps/en/json/mepslist.json",
+		"/C/Users/hans.scheuren/WorkDocs/Perso/ngcontactmep/app/dev/assets/data/meps/fr/json/mepslist.json",
+		"/C/Users/hans.scheuren/WorkDocs/Perso/ngcontactmep/app/dev/assets/data/meps/fr/mepslist.json",
+		"/C/Users/hans.scheuren/WorkDocs/Perso/ngcontactmep/app/dev/assets/data/meps/es/json/mepslist.json",
+		"/C/Users/hans.scheuren/WorkDocs/Perso/ngcontactmep/src/assets/localjs/meps/list/mepsList.view.jade",
+		"/C/Users/hans.scheuren/WorkDocs/Perso/ngcontactmep/src/assets/localjs/index.js",
+		"/C/Users/hans.scheuren/WorkDocs/Perso/ngcontactmep/src/assets/localjs/meps/list/mepsList.controller.js",
+		"/C/Users/hans.scheuren/WorkDocs/Perso/ngcontactmep/src/assets/localjs/meps/meps.factory.js",
+		"/C/Users/hans.scheuren/Downloads/test/dist/mepslist.json",
+		"/C/Users/hans.scheuren/Downloads/test/dist/search.html",
+		"/C/Users/hans.scheuren/Downloads/test/Gulpfile.js",
+		"/C/Users/hans.scheuren/Downloads/test/dist/xml.xml",
+		"/C/Users/hans.scheuren/Downloads/test/dist/xml.html",
+		"/C/Users/hans.scheuren/Dropbox/biz/Objectiver 1.html",
+		"/C/Users/hans.scheuren/Dropbox/Wooh/Site 2015/magento-boilerplate-master/app/design/frontend/wooh2015/wooh/template/catalog/product/view.phtml",
+		"/C/Users/hans.scheuren/Dropbox/Wooh/Site 2015/magento-boilerplate-master/app/design/frontend/wooh2015/wooh/template/catalog/product/list.phtml",
+		"/C/Users/hans.scheuren/Dropbox/Wooh/Site 2015/magento-boilerplate-master/app/design/frontend/wooh2015/wooh/template/page/3columns.phtml",
+		"/C/Users/hans.scheuren/Dropbox/Wooh/Site 2015/magento-boilerplate-master/app/design/frontend/wooh2015/wooh/template/page/2columns-right.phtml",
+		"/C/Users/hans.scheuren/Dropbox/Wooh/Site 2015/magento-boilerplate-master/app/design/frontend/wooh2015/wooh/template/page/2columns-left.phtml",
+		"/C/Users/hans.scheuren/Dropbox/Wooh/Site 2015/magento-boilerplate-master/app/design/frontend/wooh2015/wooh/template/page/1column.phtml",
+		"/C/Users/hans.scheuren/Dropbox/Wooh/Site 2015/magento-boilerplate-master/app/design/frontend/wooh2015/wooh/template/page/html/header.phtml",
+		"/C/Users/hans.scheuren/Nitrous/hansscheuren-7260/enterprise-commander-100350/gulp/utils/page.js",
+		"/C/Users/hans.scheuren/Dropbox/Wooh/analytique/Factures data/test.csv",
+		"/C/Users/hans.scheuren/Downloads/catalog_product_20150504_131156.csv",
+		"/C/Users/hans.scheuren/Dropbox/Wooh/Site 2015/magento-boilerplate-master/app/design/frontend/wooh2015/wooh/template/page/html/head.phtml",
+		"/C/Users/hans.scheuren/Nitrous/hansscheuren-7260/enterprise-commander-100350/gulp/utils/group.js",
+		"/C/Users/hans.scheuren/Dropbox/Wooh/Site 2015/magento-boilerplate-master/app/design/frontend/wooh2015/wooh/template/catalog/product/price.phtml",
+		"/C/Users/hans.scheuren/Dropbox/Wooh/analytique/Factures data/Classeur1.csv",
+		"/C/Users/hans.scheuren/Nitrous/hansscheuren-7260/enterprise-commander-100350/db/fac/filter/fournisseur/ADVEO/totals.json",
+		"/C/Users/hans.scheuren/Nitrous/hansscheuren-7260/enterprise-commander-100350/db/fac/filter/fournisseur/ADVEO/lines.json",
+		"/C/Users/hans.scheuren/Nitrous/hansscheuren-7260/enterprise-commander-100350/db/fac/filter/fournisseur/AVASCO INDUSTRIES/totals.json",
+		"/C/Users/hans.scheuren/Downloads/productData.json",
+		"/C/Users/hans.scheuren/Downloads/trollskingdom--JnPl8YoREXl8KeE3I7Z-export.json",
+		"/C/Users/hans.scheuren/Dropbox/Wooh/Site 2015/magento-boilerplate-master/skin/frontend/wooh2015/default/js/script.js",
+		"/C/Users/hans.scheuren/Dropbox/Wooh/Site 2015/magento-boilerplate-master/app/design/frontend/wooh2015/wooh/template/page/3columns - Copie.phtml",
+		"/C/Users/hans.scheuren/Dropbox/Projets/troll kingdom/index.jade",
+		"/C/Users/hans.scheuren/Dropbox/Wooh/Site 2015/magento-boilerplate-master/app/design/frontend/wooh2015/wooh/template/catalog/product/view/media.phtml",
+		"/C/Users/hans.scheuren/Dropbox/Wooh/Site 2015/magento-boilerplate-master/app/design/frontend/wooh2015/wooh/template/page/html/footer.phtml",
+		"/C/Users/hans.scheuren/Dropbox/Wooh/Site 2015/head.phtml",
+		"/C/Users/hans.scheuren/Dropbox/Wooh/Site 2015/header.phtml",
+		"/C/Users/hans.scheuren/Dropbox/Wooh/Site 2015/magento-boilerplate-master/app/design/frontend/wooh2015/default/template/catalog/product/view/media.phtml",
+		"/C/Users/hans.scheuren/Dropbox/Wooh/Site 2015/magento-boilerplate-master/app/design/frontend/wooh2015/default/httpd.conf",
+		"/C/Users/hans.scheuren/Dropbox/Wooh/Site 2015/magento-boilerplate-master/app/design/frontend/wooh2015/default/pagespeed.conf",
+		"/C/Users/hans.scheuren/Dropbox/Wooh/Site 2015/magento-boilerplate-master/app/design/frontend/wooh2015/inspiration/template/catalog/product/list.phtml"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"mep",
+			"epNewsHubdata",
+			"function",
+			"theme",
+			"baseDir",
+			"VIENOTĪBA",
+			"European Conserv",
+			"\"politicalGroup\": \"European Conserv",
+			"jQuery",
+			"fa fa-search",
+			"logo.png",
+			"logo.pnj",
+			"logo.pnh",
+			"HTVA",
+			"product-media-carousel-2"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3116,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2259,
+								2259
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_name": "var request = require('request');",
+							"bh_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Flatland Monokai.tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 84.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 282,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								258,
+								258
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Flatland Monokai.tmTheme",
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 94.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/gulp.sublime-build",
+	"project": "mepData.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 234.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
