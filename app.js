@@ -1,4 +1,5 @@
 var request = require('request');
+var fs = require('fs');
 var meps = {};
 
 request('http://www.europarl.europa.eu/meps/en/json/getBodyValues.html', function (error, response, body) {
@@ -43,7 +44,7 @@ request('http://www.europarl.europa.eu/meps/en/json/getBodyValues.html', functio
     				}
     			}
     		}
-    		console.log(meps)
+    		fs.writeFile('api/mepslist.json', JSON.stringify(meps))
     	}
     })
 }
