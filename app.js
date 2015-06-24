@@ -44,7 +44,7 @@ request('http://www.europarl.europa.eu/meps/en/json/getBodyValues.html', functio
     				}
     			}
     		}
-    		fs.writeFile('api/mepslist.json', JSON.stringify(meps))
+    		fs.writeFile('api/mepslist.json', JSON.stringify(meps, null, '\t'))
     	}
     })
 }
