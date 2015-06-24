@@ -9,6 +9,7 @@
   "author": "Hans Scheuren",
   "license": "MIT",
   "dependencies": {
+    "lodash": "^3.9.3",
     "request": "^2.58.0"
   }
 }

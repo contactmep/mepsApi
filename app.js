@@ -1,6 +1,9 @@
 var request = require('request');
 var fs = require('fs');
+var _ = require('lodash');
+
 var meps = {};
+var filters = {};
 
 request('http://www.europarl.europa.eu/meps/en/json/getBodyValues.html', function (error, response, body) {
   if (!error && response.statusCode == 200) {
@@ -48,7 +51,16 @@ request('http://www.europarl.europa.eu/meps/en/json/getBodyValues.html', functio
     		for (mep in meps) {
     			fs.writeFile('api/meps/' + meps[mep].id + '.json',JSON.stringify(meps[mep], null, '\t'))
     		}
+    		filters.countryLabel = uniqPluck(meps,'countryLabel');
+    		filters.politicalGroupLabel = uniqPluck(meps,'politicalGroupLabel');
+    		filters.nationalPoliticalGroupLabel = uniqPluck(meps,'nationalPoliticalGroupLabel');
+    		fs.writeFile('api/filters.json', JSON.stringify(filters, null, '\t'))
     	}
     })
 }
 });
+
+function uniqPluck(data,key){
+	var result = _.uniq(_.pluck(data,key));
+	return result
+}
